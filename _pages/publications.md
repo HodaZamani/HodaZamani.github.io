@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by categories in reversed chronological order.
+description: Publications by categories in reversed chronological order.[Academicons](https://jpswalsh.github.io/academicons/)
 nav: true
 nav_order: 2
 ---
