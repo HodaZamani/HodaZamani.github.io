@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://HodaZamani.io/sitemap.xml
+Sitemap: https://HodaZamani.github.io/sitemap.xml
