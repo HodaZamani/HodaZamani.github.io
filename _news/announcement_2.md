@@ -3,6 +3,7 @@ layout: post
 title: Best Theory Paper over three years (2020-2022)
 date: 2023-07-14 16:11:00-0400
 inline: false
+img: assets/img/12.jpg
 related_posts: false
 ---
 
