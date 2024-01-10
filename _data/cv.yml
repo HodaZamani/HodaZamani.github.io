@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hoda Zamani
     - name: Date of Birth
-      value: 14th March 1879
+      value: 6th September 1985
     - name: Languages
-      value: English, German
+      value: English, Persian 
 
 - title: Education
   type: time_table
