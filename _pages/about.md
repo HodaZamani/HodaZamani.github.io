@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  justify-content: space-evenly
+  text-align: justify
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
