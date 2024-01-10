@@ -8,7 +8,7 @@ related_posts: false
 
  An Outstanding Ph.D. Thesis Award from the IEEE Iran Section.
 
-  ---
+    ---
     layout: post
     title: An Outstanding Ph.D. Thesis Award from the IEEE Iran Section
     description: an award with a background image
@@ -20,7 +20,7 @@ related_posts: false
         {% include figure.html path="assets/img/IEEE.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/IEEE2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
