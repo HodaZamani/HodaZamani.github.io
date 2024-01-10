@@ -42,7 +42,7 @@ repo_trophies:
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 rss_icon: true
-
+orcid_icon: true
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
