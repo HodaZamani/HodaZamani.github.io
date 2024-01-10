@@ -6,10 +6,11 @@ inline: false
 related_posts: false
 ---
 
- An Outstanding Ph.D. Thesis Award from the IEEE Iran Section.
+An Outstanding Ph.D. Thesis Award from the IEEE Iran Section.
 
     ---
-    Title: Effective Meta-Heuristic Algorithm Based on Birds' Behavior for Solving Large-Scale Global Optimization Problems
+    Title: Effective Meta-Heuristic Algorithm Based on Birds' Behavior 
+             for Solving Large-Scale Global Optimization Problems
     By: Hoda Zamani
     Supervisor: Mohammad-Hossein Nadimi-Shahraki, Ph.D
     Advisor: Amir Hossein Gandomi, Ph.D
