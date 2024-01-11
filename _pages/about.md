@@ -4,9 +4,10 @@ title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>
 permalink: /
-align-content: flex-end
+
 profile:
   align: right
+  align-content: flex-end
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
