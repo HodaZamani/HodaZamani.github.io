@@ -4,6 +4,7 @@ title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>
 permalink: /
+justify-content: space-evenly
 profile:
   align: right
   image: prof_pic.jpg
