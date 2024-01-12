@@ -13,8 +13,6 @@ profiles:
     image: IEEE.jpg
     content: IEEEAward
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>28 December 2022 </p>
   - align: right
     image: QANA.png
     content: about_einstein.md
