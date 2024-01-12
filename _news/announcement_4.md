@@ -16,7 +16,9 @@ Highly Cited Papers:
 [DMDE: Diversity-maintained multi-trial vector differential evolution algorithm for non-decomposition large-scale global
 optimization](https://www.sciencedirect.com/science/article/abs/pii/S0957417422003359)
  
-     
+Hot Paper:
+
+[Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126)    
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
