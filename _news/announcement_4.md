@@ -6,11 +6,8 @@ inline: false
 related_posts: false
 ---
     Highly Cited and Hot Papers 🏆: :smile:
-    I received an outstanding Ph.D. thesis award from the IEEE Iran section for my dissertation
-    titled "Effective meta-heuristic algorithm based on birds' behavior for solving large-scale 
-    global optimization Problems", which was supervised by Dr. Mohammad-Hossein Nadimi and advised 
-    by Dr. Amir Hossein Gandomi.
-      
+    [Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126)
+  Highly Cited Paper    
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
