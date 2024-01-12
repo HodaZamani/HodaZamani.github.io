@@ -2,14 +2,10 @@
 layout: post
 permalink: /teaching/
 title: Certificates
-date: 2015-05-15 21:01:00
-description: this is what included images could look like
-tags: formatting images
-categories: sample-posts
-thumbnail: assets/img/9.jpg
 nav: true
 nav_order: 6
 ---
+
 This is an example post with image galleries.
 
 <div class="row mt-3">
