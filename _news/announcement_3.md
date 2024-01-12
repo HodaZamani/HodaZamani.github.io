@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Top Researcher in the Faculty of Computer Engineering.
+[Top Researcher in the Faculty of Computer Engineering](https://hodazamani.github.io/people/)
