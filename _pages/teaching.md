@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Awards
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+
 
 page: 
   # if you want to include more than one profile, just replicate the following block
