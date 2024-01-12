@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
-Here are some of my publications, sorted by categories and in descending order by year. You can find more of my publications on [Google Scholar](https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en).
+Here are some of my publications, sorted by categories and in descending order by year. Please find more of my publications on [Google Scholar](https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en).
 <!-- _pages/publications.md -->
 <div class="publications">
 
