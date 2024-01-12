@@ -5,7 +5,7 @@ date: 2022-12-22 15:59:00-0400
 inline: false
 related_posts: false
 ---
- hhjjhhj  
+ [Starling murmuration optimizer: A novel bio-inspired algorithm for global and engineering optimization](https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330)
 
 
 <div class="row">
