@@ -6,6 +6,7 @@ inline: false
 related_posts: false
 ---
 🔥 Hot Paper 
+
 [Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126)
 
 🏆 Highly Cited Paper
