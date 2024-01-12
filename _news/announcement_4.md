@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Highly Cited and Hot Papers
+title:  Highly Cited and Hot Papers :sparkles: :smile:
 date: 2022-12-22 15:59:00-0400
 inline: false
 related_posts: false
