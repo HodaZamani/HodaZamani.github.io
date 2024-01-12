@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  An Outstanding Ph.D. Thesis Award from the IEEE Iran Section
+title:  Highly Cited and Hot Papers 
 date: 2022-12-22 15:59:00-0400
 inline: false
 related_posts: false
@@ -13,6 +13,10 @@ Highly Cited Papers:
 
 [DMDE: Diversity-maintained multi-trial vector differential evolution algorithm for non-decomposition large-scale global
 optimization](https://www.sciencedirect.com/science/article/abs/pii/S0957417422003359)
+
+Hot Papers:
+
+[Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
