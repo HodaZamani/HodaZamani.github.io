@@ -23,7 +23,7 @@ profiles:
     image_circular: false # crops the image to make it circular
   - align: right
     image: PhDResearcher.jpeg
-    content: about_einstein.md
+    content: PHDResearch
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
