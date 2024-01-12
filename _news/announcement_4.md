@@ -18,7 +18,6 @@ Hot Paper:
 
 [Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126)
 
-***
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/CMAME.gif" title="example image" class="img-fluid rounded z-depth-1" %}
