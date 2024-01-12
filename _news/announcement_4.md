@@ -5,7 +5,7 @@ date: 2022-12-22 15:59:00-0400
 inline: false
 related_posts: false
 ---
-    Highly Cited and Hot Papers🏆: :smile:
+    Highly Cited and Hot Papers 🏆: :smile:
     I received an outstanding Ph.D. thesis award from the IEEE Iran section for my dissertation
     titled "Effective meta-heuristic algorithm based on birds' behavior for solving large-scale 
     global optimization Problems", which was supervised by Dr. Mohammad-Hossein Nadimi and advised 
