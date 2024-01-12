@@ -6,7 +6,6 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 6
 
---- 
 page: 
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
