@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
   - align: right
     image: QANA.png
-    content: about_einstein.md
+    content: QANAAward.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
