@@ -9,6 +9,5 @@ related_posts: false
 🏆 Highly Cited Paper: [DMDE: Diversity-maintained multi-trial vector differential evolution algorithm for non-decomposition large-scale global optimization](https://www.sciencedirect.com/science/article/abs/pii/S0957417422003359)
 🏆 Highly Cited Paper: [QANA: Quantum-based avian navigation optimizer algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627)
 🏆 Highly Cited Paper:[Starling murmuration optimizer: A novel bio-inspired algorithm for global and engineering optimization](https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330)
-   
-***
+
 
