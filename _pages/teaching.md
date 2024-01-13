@@ -46,7 +46,7 @@ My Certificates and Presentations
         {% include figure.html path="assets/img/DeepLearning02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DeepLearning01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Covid19.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
