@@ -30,7 +30,7 @@ Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
         {% include figure.html path="assets/img/MatlabCertificat.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/MachineLearningPaython.jpg.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
