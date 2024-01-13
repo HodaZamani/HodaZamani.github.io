@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-description: Disease Detection using Feature Selection Techniques and Machine Learning Algorithms
+title: Disease Detection
+description: Feature Selection Techniques and Machine Learning Algorithms
 img: assets/img/12.jpg
 importance: 1
 category: work
