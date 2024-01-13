@@ -6,9 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-This is an example post with image galleries.
-Images can be made zoomable.
-Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
+My Certificates and Presentations
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
