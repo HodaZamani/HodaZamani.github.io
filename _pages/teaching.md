@@ -23,7 +23,7 @@ My Certificates and Presentations
         {% include figure.html path="assets/img/MachineLearningPaython.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FinalDeepLearning.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/FinalDeepLearningnew.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
