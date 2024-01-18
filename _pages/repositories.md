@@ -4,8 +4,6 @@ permalink: /repositories/
 title: Repositories
 nav: true
 nav_order: 4
----
-<p align="justify">I have published the codes of the algorithms in different journals, and you can access them on this page. You can also click on the links to see the original papers and the guidelines for using the codes. I hope they are helpful and educational for you. 
 
 - title: Experience
   type: time_table
