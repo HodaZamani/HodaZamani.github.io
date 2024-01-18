@@ -31,7 +31,7 @@ My Certificates and Presentations
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/CNN.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-        https://coursera.org/verify/P6HKBBTVVQWD
+        <a href="https://coursera.org/verify/P6HKBBTVVQWD/">Verification Link </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/DeepLearning.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
