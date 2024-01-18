@@ -38,6 +38,7 @@ My Certificates and Presentations
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/DeepLearning.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <a href="https://coursera.org/verify/HLM2V45NPQLD">Verification Link</a>         
     </div>
 </div>
 
@@ -45,7 +46,7 @@ My Certificates and Presentations
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/DeepLearning01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-        <a href="https://coursera.org/verify/HLM2V45NPQLD">Verification Link</a> 
+        <a href="https://coursera.org/verify/75QLMGGST7BR">Verification Link</a> 
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/DeepLearning02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
