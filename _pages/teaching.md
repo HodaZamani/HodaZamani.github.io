@@ -26,6 +26,7 @@ My Certificates and Presentations
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/FinalDeepLearningnew.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <a href="https://coursera.org/verify/specialization/K7NP2LERGS38">Verification Link</a> 
     </div>
 </div>
 
