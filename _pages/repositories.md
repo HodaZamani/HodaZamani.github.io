@@ -28,6 +28,10 @@ Engineering Applications of Artificial Intelligence,
 
 ---
 
+[Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126), Computers in biology and medicine, 
+<a href="assets/pdf/BWOA.zip" download>Download Code</a>
+
+---
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
