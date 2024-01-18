@@ -15,6 +15,13 @@ nav_order: 4
 - [Binary Starling Murmuration Optimizer Algorithm to Select Effective Features from Medical Data](https://www.mdpi.com/2076-3417/13/1/564)
      - Journal: Journal Applied Sciences
      - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">BSSA</a>
+
+--- 
+- [QANA: Quantum-based avian navigation optimizer algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627)
+     - Journal: Computer Methods in Applied Mechanics and Engineering
+     - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">QANA</a>
+
+--- 
   
 
               
