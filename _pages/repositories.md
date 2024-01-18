@@ -12,16 +12,22 @@ nav_order: 4
 
 ---
 
-[Binary Starling Murmuration Optimizer Algorithm to Select Effective Features from Medical Data](https://www.mdpi.com/2076-3417/13/1/564), Journal Applied Sciences
+[Binary Starling Murmuration Optimizer Algorithm to Select Effective Features from Medical Data](https://www.mdpi.com/2076-3417/13/1/564), Journal Applied Sciences,
 <a href="assets/pdf/BWOA.zip" download>Download Code</a>
 
 ---
 
-[QANA: Quantum-based avian navigation optimizer algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627)
-Engineering Applications of Artificial Intelligence 
+[QANA: Quantum-based avian navigation optimizer algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627),
+Engineering Applications of Artificial Intelligence, 
 <a href="assets/pdf/BWOA.zip" download>Download Code</a>
 
 ---
+
+[Starling murmuration optimizer: A novel bio-inspired algorithm for global and engineering optimization](https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330),Computer Methods in Applied Mechanics and Engineering,
+<a href="assets/pdf/BWOA.zip" download>Download Code</a>
+
+---
+
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
