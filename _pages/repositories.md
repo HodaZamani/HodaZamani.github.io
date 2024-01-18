@@ -17,6 +17,11 @@ nav_order: 4
 
 ---
 
+[QANA: Quantum-based avian navigation optimizer algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627)
+Engineering Applications of Artificial Intelligence 
+<a href="assets/pdf/BWOA.zip" download>Download Code</a>
+
+---
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
