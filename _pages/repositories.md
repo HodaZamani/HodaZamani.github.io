@@ -12,18 +12,10 @@ nav_order: 4
      - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">BWOA</a>
   
 --- 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Senior researcher
-      institution: Big Data Research Center & Faculty of Computer, Najafabad Branch
-      year: 2018 - 2023
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
+- [Binary Starling Murmuration Optimizer Algorithm to Select Effective Features from Medical Data](https://www.mdpi.com/2076-3417/13/1/564)
+     - Journal: Journal Applied Sciences
+     - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">BSSA</a>
+  
 
               
   
