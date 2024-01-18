@@ -14,6 +14,7 @@ My Certificates and Presentations
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/DataAnalysis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <a href="https://coursera.org/verify/TX2ABAM42Q5B/">Verification Link</a>
     </div>
 </div>
 
