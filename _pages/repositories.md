@@ -22,6 +22,11 @@ nav_order: 4
      - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">QANA</a>
 
 --- 
+- [Starling murmuration optimizer: A novel bio-inspired algorithm for global and engineering optimization](https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330)
+     - Journal: Computer Methods in Applied Mechanics and Engineering
+     - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">SMO</a>
+
+--- 
 - [Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126)
      - Journal: Computers in biology and medicine
      - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">E-WOA</a>
