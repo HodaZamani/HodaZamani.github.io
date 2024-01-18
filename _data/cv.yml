@@ -71,13 +71,24 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2016
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Best master’s student award 
+    - year: 2018
       items: 
-        - Max Planck Medal
+        - Best PhD student award
+    - year: 2019
+      items: 
+        - Best National Innovator Award winner 
+    - year: 2022
+      items: 
+        - Outstanding Ph.D. Thesis Award at the 13th IEEE Iran Section Awards Ceremony
+    - year: 2023
+      items: 
+        - Best PhD researcher award 
+    - year: 2023
+      items: 
+        - Best Theory Paper over three years (2020-2022)
 
 - title: Academic Interests
   type: nested_list
