@@ -2,15 +2,15 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: true
 nav_order: 4
 ---
+<p align="justify">I have published the codes of the algorithms in different journals, and you can access them on this page. You can also click on the links to see the original papers and the guidelines for using the codes. I hope they are helpful and educational for you.
 
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
 <!-- Use the download attribute to specify that the file will be downloaded -->
-<a href="assets/pdf/BWOA.zip" download>Download zip file</a>
+<a href="assets/pdf/BWOA" download>Download zip file</a>
 </div>
 </div>
 
