@@ -103,6 +103,12 @@
         - Exploring the theoretical properties and guarantees of large scale optimization methods, such as convergence, robustness, and efficiency
         - Applying large scale optimization techniques to solve challenging problems in various domains, such as artificial intelligence, energy, transportation, and health
 
+- title: Publications
+  type: time_table
+  contents:
+  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627">QANA: Quantum-based avian navigation optimizer algorithm</a> 
+   - <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">List of other publications</a> 
+   
 - title: Collaborators
   type: list
   contents:
