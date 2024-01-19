@@ -18,6 +18,8 @@ pagination:
 ---
 [CV](http://hodazamani.github.io/pages/BWOA.zip)
 
+ <a href="http://hodazamani.github.io/pages/BWOA.zip">cv</a>   
+ 
 <div class="post">
 
   {% assign blog_name_size = site.blog_name | size %}
