@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: Blog
-nav: true
+nav: false
 nav_order: 1
 pagination:
   enabled: true
@@ -15,7 +15,7 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3  # The number of links after the current page
 ---
-[CV file](http://hodazamani.github.io/pages/BWOA.zip) 
+[CV file](http://hodazamani.github.io/pages/BWOA.zip)
 
 <div class="post">
 
