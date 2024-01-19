@@ -27,7 +27,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Senior researcher
+    - title: Senior Researcher
       institution: Big Data Research Center & Faculty of Computer, Najafabad Branch
       year: 2018 - 2023
       description:
@@ -42,9 +42,12 @@
         - Operating System Concepts
         - Operating System Lab 
 
-    - title: Lecturer at the university 
+    - title: Lecturer at the University 
       institution: Najafabad Institute of Higher Education, Isfahan, Iran
-      year: 2016
+      year: 2018
+      description:
+        - C and C++ programming language
+        - Python programming language 
 
     - title: Referee of Journals
       institution: Elsevier, Springer, and MDPI
