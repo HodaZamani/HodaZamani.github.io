@@ -88,8 +88,10 @@
   contents:
     - title: Data analysis
       items: 
-        - Description 1.
-        - Description 2.
+        - Developing new methods and tools for data collection, cleaning, integration, and visualization
+        -  Applying statistical techniques to analyze different data types, such as numerical, categorical, textual, spatial, temporal, and network data
+        -  Discovering and validating causal relationships, hypotheses, and models from data
+        -  Evaluating the quality, reliability, and reproducibility of data analysis results
     - title: Machine learning algorithms
       items:
         - Description 1.
