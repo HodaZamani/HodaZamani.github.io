@@ -54,10 +54,6 @@
       year: 2020 - Present
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
 - title: Open Source Projects
   type: time_table
   contents:
@@ -90,11 +86,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Data analysis
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Machine learning algorithms
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Large Scale Optimization
       items:
         - Description 1.
         - Description 2.
