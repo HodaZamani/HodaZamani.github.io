@@ -4,6 +4,7 @@ permalink: /blog/
 title: Blog
 nav: true
 nav_order: 1
+paperurl: 'http://hodazamani.github.io/pages/BWOA.zip'
 pagination:
   enabled: true
   collection: posts
@@ -14,7 +15,6 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3  # The number of links after the current page
-  paperurl: 'http://hodazamani.github.io/pages/BWOA.zip'
 ---
 [CV file](http://hodazamani.github.io/pages/BWOA.zip)
 
