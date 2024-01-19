@@ -14,16 +14,15 @@
       year: 2015
       description:
         - Low-cost method for predicting diabetes type II by applying feature selection 
-      Supervisor: 
-        - Professor Mohammad H. Nadimi
+        - Supervisor Dr. Mohammad H. Nadimi-Shahraki
         - GPA 4/4
     - title: PhD
       institution: IAU Najafabad Branch
       year: 2020
       description:
         - Effective meta-heuristic algorithm based on birds' behavior for Solving large-scale global optimization Problems
-        - Supervisor: Professor Mohammad H. Nadimi
-        - Advisor: Professor Amir H. Gandomi
+        - Supervisor Dr. Mohammad H. Nadimi-Shahraki
+        - Advisor Dr. Amir H. Gandomi
         - GPA 4/4
 - title: Experience
   type: time_table
