@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: Blog
-nav: false
+nav: true
 nav_order: 1
 paperurl: 'http://hodazamani.github.io/pages/BWOA.zip'
 pagination:
