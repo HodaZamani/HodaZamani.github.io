@@ -10,17 +10,17 @@
   type: time_table
   contents:
     - title: Master
-      institution: IAU, Najafabad Branch
+      institution: IAU Najafabad Branch
       year: 2015
       description:
-        - Low-cost method for predicting diabetes type II by applying feature selection 
+        - Low-cost Method for Predicting Diabetes Type II by Applying Feature Selection 
         - Supervisor Dr. Mohammad H. Nadimi-Shahraki
         - GPA 4/4
     - title: PhD
       institution: IAU Najafabad Branch
       year: 2020
       description:
-        - Effective meta-heuristic algorithm based on birds' behavior for Solving large-scale global optimization Problems
+        - Effective Meta-heuristic Algorithms based on Birds' Behavior for Solving Large-Scale Global Optimization Problems
         - Supervisor Dr. Mohammad H. Nadimi-Shahraki
         - Advisor Dr. Amir H. Gandomi
         - GPA 4/4
@@ -32,7 +32,8 @@
       year: 2018 - 2023
       description:
         - Leadership of Master and PhD students
-        - Description 2.
+        - Collaborating on Activities and Projects at the Big Dat Research Center
+        - Leading an Innovation Project for the International Festival
         - title: Description 3.
           contents:
             - Sub-description 1.
