@@ -89,7 +89,7 @@
     - title: Data analysis
       items: 
         - Developing new methods and tools for data collection, cleaning, integration, and visualization
-        -  Applying statistical techniques to analyze different data types, such as numerical, categorical, textual, spatial, temporal, and network data
+        -  Applying statistical techniques to analyze different data types, such as numerical, categorical, image, textual, spatial, temporal, and network data
         -  Discovering and validating causal relationships, hypotheses, and models from data
         -  Evaluating the quality, reliability, and reproducibility of data analysis results
     - title: Machine learning algorithms
@@ -106,4 +106,7 @@
 - title: Collaborators
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <a href="https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en">Professor Mohammad H. Nadimi</a>   
+    - <a href="https://scholar.google.com/citations?user=VMf3wfMAAAAJ&hl=en">Professor Amir H. Gandomi</a>   
+    - <a href="https://scholar.google.com/citations?user=TJHmrREAAAAJ&hl=en">Professor Seyedali Mirjalili</a> 
+    - <a href="https://scholar.google.com/citations?user=3glf-doAAAAJ&hl=en">Ali Fatahi</a> 
