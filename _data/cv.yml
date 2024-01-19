@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Hoda Zamani
-    - name: Date of Birth
-      value: 6th September 1985
     - name: Languages
       value: English, Persian 
 
@@ -12,15 +10,13 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Islamic Azad University, Najafabad Branch
+      institution: IAU, Najafabad Branch
       year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Title: Effective meta-heuristic algorithms based on birds' behavior for Solving large-scale global optimization Problems
+        - Supervisor: [Mohammad H. Nadimi-Shahraki](https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en)
+        - Advisor: [Amir H. Gandomi](https://scholar.google.com/citations?user=VMf3wfMAAAAJ&hl=en)
+        - GPA: 4/4
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
