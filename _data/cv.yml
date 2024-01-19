@@ -9,17 +9,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Master
       institution: IAU, Najafabad Branch
+      year: 2015
+      description:
+        - Low-cost method for predicting diabetes type II by applying feature selection 
+        - Description 2.
+    - title: PhD
+      institution: IAU Najafabad Branch
       year: 2020
       description:
-        - Description 1.
-        - Description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
+        - Effective meta-heuristic algorithm based on birds' behavior for Solving large-scale global optimization Problems
         - Description 2.
 
 - title: Experience
