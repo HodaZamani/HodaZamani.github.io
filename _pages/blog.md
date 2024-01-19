@@ -17,7 +17,9 @@ pagination:
 ---
 paperurl: 'http://hodazamani.github.io/pages/BWOA.zip'
 ---
+
 [CV file](http://hodazamani.github.io/pages/BWOA.zip) 
+
 <div class="post">
 
   {% assign blog_name_size = site.blog_name | size %}
