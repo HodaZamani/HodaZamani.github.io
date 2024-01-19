@@ -104,7 +104,7 @@
         - Applying large scale optimization techniques to solve challenging problems in various domains, such as artificial intelligence, energy, transportation, and health
 
 - title: Publications
-  type: time_table
+  type: list
   contents:
    - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627">QANA:Quantum-based avian navigation optimizer algorithm</a> 
    - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330">Starling murmuration optimizer:A novel bio-inspired algorithm for global and engineering optimization</a> 
