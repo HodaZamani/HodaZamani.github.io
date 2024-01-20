@@ -5,7 +5,11 @@
       value: Hoda Zamani
     - name: Languages
       value: Persian, English
-
+- title: Skill
+  type: list
+    - Python programming language and Deep learning libraries
+    - MATLAB programming language
+    - Statistical Tools
 - title: Education
   type: time_table
   contents:
