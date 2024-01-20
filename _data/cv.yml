@@ -69,7 +69,6 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: <a href="https://hodazamani.github.io/people/">Honors and Awards</a>
   type: time_table
   contents:
@@ -91,7 +90,14 @@
     - year: 2023
       items: 
         - Best Theory Paper over three years (2020-2022)
-
+- title: Professional Associations and Membership
+  type: list
+  contents:
+    - Senior researcher in Big Data Research Center from 2018 to present
+    - Member of IEEE  
+    - Member of the International Association of Engineers
+    - <a href="https://usern.tums.ac.ir/">Member of Universal Scientific Education and Research Network</a>   
+    - <a href="https://usern.tums.ac.ir/Group/Info/IBDAM">Member and managing director of the Intelligent Big Data Analysis in Medicine group</a>    
 - title: Academic Interests
   type: nested_list
   contents:
