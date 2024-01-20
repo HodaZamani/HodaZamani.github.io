@@ -51,11 +51,18 @@
       institution: Elsevier, Springer, and MDPI
       year: 2020 - Present
       description:
-- title: Skill
+- title: Certificates
   type: list
-    - Python programming language and Deep learning libraries
-    - MATLAB programming language
-    - Statistical Tools
+  contents:
+    - MATLAB programming language from Stanford
+    - <a href="https://www.coursera.org/account/accomplishments/verify/TX2ABAM42Q5B/">Data Analysis w ith Python</a>
+    - <a href="https://www.coursera.org/account/accomplishments/verify/7FMQNXDEHSY9">Machine Learning w ith Python</a>
+    - <a href="https://coursera.org/verify/specialization/K7NP2LERGS38">Deep Learning</a>
+    - <a href="https://www.coursera.org/account/accomplishments/verify/P6HKBBTVVQWD/">Convolutional Neural Networks</a>
+    - <a href="https://www.coursera.org/account/accomplishments/verify/75QLMGGST7BR">Neural Networks and Deep Learning</a>
+    - <a href="https://www.coursera.org/account/accomplishments/verify/HLM2V45NPQLD/">Improving Deep Neural Networks:Hyperparameter Tuning, Regularization and Optimization</a>
+    - <a href="https://coursera.org/verify/7N6FYTQPM2EZ">Structuring Machine Learning Projects</a>
+    - <a href="https://coursera.org/verify/EV5Y6D5FA9YQ">Sequence Models</a>
 - title: Open Source Projects
   type: time_table
   contents:
