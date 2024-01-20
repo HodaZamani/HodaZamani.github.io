@@ -46,11 +46,6 @@
       description:
         - C and C++ programming language
         - Python programming language 
-
-    - title: Referee of Journals
-      institution: Elsevier, Springer, and MDPI
-      year: 2020 - Present
-      description:
 - title: <a href="https://hodazamani.github.io/teaching/">Certificates</a>
   type: list
   contents:
@@ -63,6 +58,11 @@
     - <a href="https://www.coursera.org/account/accomplishments/verify/HLM2V45NPQLD/">Improving Deep Neural Networks:Hyperparameter Tuning, Regularization and Optimization</a>
     - <a href="https://coursera.org/verify/7N6FYTQPM2EZ">Structuring Machine Learning Projects</a>
     - <a href="https://coursera.org/verify/EV5Y6D5FA9YQ">Sequence Models</a>
+- title: Voluntary Activities
+  type: list
+  contents:
+    - Peer reviewer for scientific journals from Elsevier, Springer, and MDPI 
+    - <a href="https://usern.tums.ac.ir/Group/Info/IBDAM">Managing Director of USERN-IBDAM research group</a>
 - title: Open Source Projects
   type: time_table
   contents:
