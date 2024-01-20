@@ -51,7 +51,7 @@
       institution: Elsevier, Springer, and MDPI
       year: 2020 - Present
       description:
-- title: Certificates
+- title: <a href="https://hodazamani.github.io/teaching/">Certificates</a>
   type: list
   contents:
     - MATLAB programming language from Stanford
@@ -70,7 +70,7 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: <a href="https://hodazamani.github.io/people/">Honors and Awards</a>
   type: time_table
   contents:
     - year: 2016
@@ -112,7 +112,7 @@
         - Exploring the theoretical properties and guarantees of large scale optimization methods, such as convergence, robustness, and efficiency
         - Applying large scale optimization techniques to solve challenging problems in various domains, such as artificial intelligence, energy, transportation, and health
 
-- title: Publications
+- title: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">Publications</a>
   type: list
   contents:
    - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627">QANA:Quantum-based avian navigation optimizer algorithm</a> 
