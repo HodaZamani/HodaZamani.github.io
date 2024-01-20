@@ -5,11 +5,6 @@
       value: Hoda Zamani
     - name: Languages
       value: Persian, English
-- title: Skill
-  type: list
-    - Python programming language and Deep learning libraries
-    - MATLAB programming language
-    - Statistical Tools
 - title: Education
   type: time_table
   contents:
@@ -45,7 +40,6 @@
       description:
         - Operating System Concepts
         - Operating System Lab 
-
     - title: Lecturer at the University 
       institution: Najafabad Institute of Higher Education, Isfahan, Iran
       year: 2018
@@ -57,7 +51,11 @@
       institution: Elsevier, Springer, and MDPI
       year: 2020 - Present
       description:
-
+- title: Skill
+  type: list
+    - Python programming language and Deep learning libraries
+    - MATLAB programming language
+    - Statistical Tools
 - title: Open Source Projects
   type: time_table
   contents:
