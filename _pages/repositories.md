@@ -15,22 +15,22 @@ nav_order: 4
 --- 
 - [Binary Starling Murmuration Optimizer Algorithm to Select Effective Features from Medical Data](https://www.mdpi.com/2076-3417/13/1/564)
      - Journal: Journal Applied Sciences
-     - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">BSSA</a>
+     - Code: <a href="https://github.com/HodaZamani/Metaheuristic-Algorithms-Codes/blob/main/BSSA.zip">BSSA</a>
 
 --- 
 - [QANA: Quantum-based avian navigation optimizer algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627)
      - Journal: Computer Methods in Applied Mechanics and Engineering
-     - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">QANA</a>
+     - Code: <a href="https://github.com/HodaZamani/Metaheuristic-Algorithms-Codes/blob/main/QANA.zip">QANA</a>
 
 --- 
 - [Starling murmuration optimizer: A novel bio-inspired algorithm for global and engineering optimization](https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330)
      - Journal: Computer Methods in Applied Mechanics and Engineering
-     - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">SMO</a>
+     - Code: <a href="https://github.com/HodaZamani/Metaheuristic-Algorithms-Codes/blob/main/SMO.zip">SMO</a>
 
 --- 
 - [Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126)
      - Journal: Computers in biology and medicine
-     - Code: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">E-WOA</a>
+     - Code: <a href="https://github.com/HodaZamani/Metaheuristic-Algorithms-Codes/blob/main/E-WOA.zip">E-WOA</a>
 
 --- 
   
