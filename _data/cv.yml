@@ -46,6 +46,18 @@
       description:
         - C and C++ programming language
         - Python programming language 
+- title: Skills
+  type: map
+  contents:
+    - Mathematics and statistics
+    - Programming languages 
+          - Python, R, Matlab, C++
+          - Libraries and frameworks that are used for data analysis, machine learning, and artificial intelligence, such as NumPy, pandas, scikit-learn, TensorFlow, PyTorch, and Kera
+    - Data structures and algorithms
+    - Data analysis and visualization
+    - Machine learning and artificial intelligence concepts and techniques
+
+        
 - title: <a href="https://hodazamani.github.io/teaching/">Certificates</a>
   type: list
   contents:
