@@ -50,8 +50,8 @@
   type: list
   contents:
     - Mathematics and statistics
-    - Programming languages including Python, R, Matlab, and C++ and 
-    - Data analysis, machine learning, and artificial intelligence libraries include NumPy, pandas, scikit-learn, TensorFlow, PyTorch, and Keras
+    - Programming languages including Python, R, Matlab, and C++  
+      Data analysis, machine learning, and artificial intelligence libraries include NumPy, pandas, scikit-learn, TensorFlow, PyTorch, and Keras
     - Data structures and algorithms
     - Data analysis and visualization
     - Machine learning and artificial intelligence concepts and techniques
