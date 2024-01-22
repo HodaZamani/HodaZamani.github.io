@@ -50,8 +50,9 @@
   type: list
   contents:
     - Mathematics and statistics
-    - Programming languages 
-        * Python, R, Matlab, and C++and I can use various libraries for data analysis, machine learning, and artificial intelligence, such as NumPy, pandas, scikit-learn, TensorFlow, PyTorch, and Keras.
+    - Programming languages
+    
+        * Python, R, Matlab, and C++ and libraries for data analysis, machine learning, and artificial intelligence, such as NumPy, pandas, scikit-learn, TensorFlow, PyTorch, and Keras.
      - Data structures and algorithms
     - Data analysis and visualization
     - Machine learning and artificial intelligence concepts and techniques
@@ -124,9 +125,9 @@
         - Applying machine learning to solve real-world problems in various domains, such as health, education, engineering, and humanities
     - title: Large Scale Optimization
       items:
-        - Developing new algorithms and models that can handle the complexity, uncertainty, and scalability of large scale optimization problems
-        - Exploring the theoretical properties and guarantees of large scale optimization methods, such as convergence, robustness, and efficiency
-        - Applying large scale optimization techniques to solve challenging problems in various domains, such as artificial intelligence, energy, transportation, and health
+        - Developing new algorithms and models that can handle the complexity, uncertainty, and scalability of large-scale optimization problems
+        - Exploring the theoretical properties and guarantees of large-scale optimization methods, such as convergence, robustness, and efficiency
+        - Applying large-scale optimization techniques to solve challenging problems in various domains, such as artificial intelligence, energy, transportation, and health
 
 - title: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">Publications</a>
   type: list
