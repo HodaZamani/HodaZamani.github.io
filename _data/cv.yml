@@ -54,7 +54,23 @@
     - Data analysis, machine learning, and artificial intelligence libraries include NumPy, pandas, scikit-learn, TensorFlow, PyTorch, and Keras
     - Data structures and algorithms
     - Data analysis and visualization
-    - Machine learning and artificial intelligence concepts and techniques        
+    - Machine learning and artificial intelligence concepts and techniques
+
+- title: Skills
+  type: map
+  contents:
+    - name: Mathematics and statistics
+      value:  
+    - name: Programming languages including
+      value: Python, R, Matlab, and C++  
+    -name: Data analysis, machine learning, and artificial intelligence libraries 
+      value: NumPy, pandas, scikit-learn, TensorFlow, PyTorch, and Keras
+    - name: Data structures and algorithms
+      value:  
+    - name: Data analysis and visualization
+      value:
+    - name: Machine learning and artificial intelligence concepts and techniques
+      value:
 - title: <a href="https://hodazamani.github.io/teaching/">Certificates</a>
   type: list
   contents:
