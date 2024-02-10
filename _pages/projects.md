@@ -56,9 +56,3 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
-
-// convert the text to uppercase using JavaScript
-var code = document.getElementById("code"); // get the element that contains the code
-var text = code.textContent; // get the text content of the code
-var upper = text.toUpperCase(); // convert the text to uppercase
-code.textContent = upper; // replace the text content of the code with the uppercase text
