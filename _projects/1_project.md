@@ -1,6 +1,6 @@
 ---
 layout: page
-title: </b>Low-cost Detection of Type II Diabetes<b>
+title: Low-cost Detection of Type II Diabetes
 description: Feature Selection Techniques and Machine Learning Algorithms
 img: assets/img/12.jpg
 importance: 1
