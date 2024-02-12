@@ -10,8 +10,8 @@ related_publications: HodaImputationMethod
 <p align="justify">The World Health Organization reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran ranks 14th in the world for type 2 diabetes prevalence among adults aged 20-79 and faces various complications, such as cardiovascular disease, kidney disease, eye disease, nerve damage, and foot problems. Additionally, type 2 diabetes can increase the risk of pancreatic cancer. To address this issue, we developed a model to provide a low-cost and early diagnosis of type 2 diabetes. This way, we hope to prevent or delay the onset of diabetes-related complications and improve the quality of life of millions of Iranians.</p>
 
 <p align="justify">The project is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Dr. Hoda Zamani</b> as the co-principal investigator. 
-This project is planned in four main phases:</p> 
-     (A) Data Acquisition, (B) Data Preprocessing, (C) Data Modeling, and (D) Developing a Mobil App
+This project is planned in four main phases:<b>Data Acquisition, Data Preprocessing, Data Modeling, and Developing a Mobil App</b> 
+     
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
