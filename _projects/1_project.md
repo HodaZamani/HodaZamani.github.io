@@ -29,11 +29,8 @@ This project is planned in four main phases.
 </div>
 
 
-<p align="justify">The data acquisition phase involves collecting relevant health information from the target population using various methods such as surveys, blood tests, and wearable devices. Two diabetologist consultants supervise this phase. The data preprocessing phase is crucial for preparing the data for the diagnosis model to involves cleaning, transforming, and analyzing the data using statistical and machine learning techniques. In the data modeling phase, we develop and validate diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we develop a mobile app that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
+<p align="justify">The <b>data acquisition phase</b> involves collecting relevant health information from the target population using various methods such as surveys, blood tests, and wearable devices. Two diabetologist consultants supervise this phase. The <b>data preprocessing phase</b> is crucial for preparing the data for the diagnosis model to involve cleaning, transforming, and analyzing the data using statistical and machine learning techniques. In the <b>data modeling phase</b>, we develop and validate diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>develop a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
 
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
