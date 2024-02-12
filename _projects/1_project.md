@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Low-cost Diabetic Type II Detection
+title: Low-cost Detection of Type II Diabetes
 description: Feature Selection Techniques and Machine Learning Algorithms
 img: assets/img/12.jpg
 importance: 1
@@ -8,7 +8,7 @@ category: work
 related_publications: HodaImputationMethod
 ---
 
-<p align="justify">The world health organization reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran has the 14th highest prevalence of type 2 diabetes among adults aged 20-79 in the world. Iran ranks 14th in the world for type 2 diabetes prevalence among adults aged 20-79, and faces various complications, such as cardiovascular disease, kidney disease, eye disease, nerve damage, and foot problems. Additionally, type 2 diabetes can increase the risk of pancreatic cancer.</p>
+<p align="justify">The world health organization reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran ranks 14th in the world for type 2 diabetes prevalence among adults aged 20-79, and faces various complications, such as cardiovascular disease, kidney disease, eye disease, nerve damage, and foot problems. Additionally, type 2 diabetes can increase the risk of pancreatic cancer.</p>
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
