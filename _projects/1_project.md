@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Low-cost Detection of Type 2 Diabetes
+title: Low-cost Diabetic Type II Detection
 description: Feature Selection Techniques and Machine Learning Algorithms
 img: assets/img/12.jpg
 importance: 1
@@ -8,9 +8,7 @@ category: work
 related_publications: HodaImputationMethod
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The World Health Organization (WHO) reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran has the 14th highest prevalence of type 2 diabetes among adults aged 20-79 in the world. A study in Isfahan, Iran, showed that type 2 diabetic patients had a high level of diabetes distress, especially emotional burden which resulted in various problems, such as heart disease, kidney disease, eye disease, nerve damage, and foot problems. Moreover, Type 2 diabetes can raise the risk of pancreatic cancer.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
