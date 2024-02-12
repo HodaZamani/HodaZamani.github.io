@@ -11,7 +11,7 @@ related_publications: HodaImputationMethod
 <p align="justify">The world health organization reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran ranks 14th in the world for type 2 diabetes prevalence among adults aged 20-79, and faces various complications, such as cardiovascular disease, kidney disease, eye disease, nerve damage, and foot problems. Additionally, type 2 diabetes can increase the risk of pancreatic cancer. Therefore, we developed a Low-cost diagnosis of Type II diabetes project to screen and detect this disease in an early stage with as minimum cost as possible.</p>
 
 <p align="justify">The project is headed by Professor Mohammad H. Nadimi-Shahraki as the principal investigator and Dr. Hoda Zamani as the co-principal investigator. 
-The low-cost detection of type 2 diabetes project is planned in four main phases: (a) data acquisition, (B) preprocessing, (B) modeling, and (D) developing a Mobil App. </p>
+This project is planned in four main phases: (a) data acquisition, (B) preprocessing, (B) modeling, and (D) developing a Mobil App. </p>
 
 
 
