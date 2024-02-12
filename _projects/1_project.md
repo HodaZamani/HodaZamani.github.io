@@ -11,7 +11,7 @@ related_publications: HodaImputationMethod
 
 <p align="justify">The project is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Dr. Hoda Zamani</b> as the co-principal investigator. 
 This project is planned in four main phases: 
-    <b>(A) data acquisition, (B) preprocessing, (C) modeling, and (D) developing a Mobil App.</b></p>
+    <b>(A) Data acquisition, (B) Preprocessing, (C) Modeling, and (D) Developing a Mobil App.</b></p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
