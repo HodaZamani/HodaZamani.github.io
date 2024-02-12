@@ -8,7 +8,7 @@ category: work
 related_publications: HodaImputationMethod
 ---
 
-The World Health Organization (WHO) reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran has the 14th highest prevalence of type 2 diabetes among adults aged 20-79 in the world. A study in Isfahan, Iran, showed that type 2 diabetic patients had a high level of diabetes distress, especially emotional burden which resulted in various problems, such as heart disease, kidney disease, eye disease, nerve damage, and foot problems. Moreover, Type 2 diabetes can raise the risk of pancreatic cancer.
+<p align="justify">The World Health Organization (WHO) reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran has the 14th highest prevalence of type 2 diabetes among adults aged 20-79 in the world. Iran ranks 14th in the world for type 2 diabetes prevalence among adults aged 20-79, and faces various complications, such as cardiovascular disease, kidney disease, eye disease, nerve damage, and foot problems. Additionally, type 2 diabetes can increase the risk of pancreatic cancer.</p>
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
