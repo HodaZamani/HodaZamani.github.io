@@ -30,6 +30,7 @@ giscus_comments: true
         {% include figure.html path="assets/img/14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
     Made with Image Creator from Designer. Powered by DALL·E 3.
 </div>
@@ -46,7 +47,7 @@ giscus_comments: true
      
 </div>
 
-<p align="justify">My family pharmacy app, as a computational process including algorithms at the intersection of machine learning, statistics, and databases, deals with a large volume of drug images. The purpose of my family pharmacy app is to find knowledge from drug images, which is expressed in a comprehensible structure using the proposed machine learning algorithm to determine valuable preterm and classify the drug based on disease.
+<p align="justify">My family pharmacy app, as a computational process including algorithms at the intersection of machine learning, statistics, and databases, deals with a large volume of drug images. The purpose of my family pharmacy app is to find knowledge from drug images, which is expressed in a comprehensible structure using the proposed machine learning algorithm to determine valuable preterm and classify the drug based on disease.</p>
 
 
 <div class="row">
@@ -58,7 +59,7 @@ giscus_comments: true
     
 </div>
 
-<p align="justify">The Intelligent Family Pharmacy (Mobile App) won the National Innovator Award at the 7th Festival of Inventors, initiatives, and Innovation 2019. This app helps families take care of their health and medication needs and reduces the problems of drug use.
+<p align="justify">The Intelligent Family Pharmacy (Mobile App) won the National Innovator Award at the 7th Festival of Inventors, initiatives, and Innovation 2019. This app helps families take care of their health and medication needs and reduces the problems of drug use.</p>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -68,3 +69,8 @@ giscus_comments: true
         {% include figure.html path="assets/img/MobilApp.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<div class="caption">
+    Made with Image Creator from Designer. Powered by DALL·E 3.
+</div>
+
