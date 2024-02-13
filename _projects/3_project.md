@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mental Disorders Detection
+title: Mental Disorders 
 description: Machine Learning Algorithms
 img: assets/img/Image122.jpg
 redirect: https://unsplash.com
