@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-<p align="justify">Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. My pharmacy app was designed to help people with the following objectives:
+<p align="justify">Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. My pharmacy app was designed to help people with the following objectives:</p>
 •  To monitor and track their medication intake and expiry dates
 •  To order and refill prescriptions online from trusted pharmacies
 •  To access personalized health tips and reminders based on their medical conditions
