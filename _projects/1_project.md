@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diabetes Type II Detection
+title: Diabetes Detection
 description: Feature Selection Techniques and Machine Learning Algorithms
 img: assets/img/Image120.jpg
 importance: 1
