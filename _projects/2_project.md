@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-<p align="justify">Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. My pharmacy app was designed to help people with the following objectives:</p>
+<p align="justify">Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. We develped my family pharmacy app to help people with the following objectives:</p>
 <p align="justify">•  To monitor and track their medication intake and expiry dates</p>
 <p align="justify">•  To order and refill prescriptions online from trusted pharmacies</p>
 <p align="justify">•  To access personalized health tips and reminders based on their medical conditions</p>
@@ -16,7 +16,7 @@ giscus_comments: true
 <p align="justify">•  To share their medication history and records with their family and caregivers</p>
 <p align="justify">My pharmacy app is a smart and convenient solution for managing your health and wellness. It uses deep learning algorithms to analyze your data and provide you with the best recommendations. It also ensures your privacy and security by encrypting your information and storing it on a secure cloud.</p>
 
-<p align="justify">The project is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Hoda Zamani</b> as the co-principal investigator.</p>
+<p align="justify">The app is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Hoda Zamani</b> as the co-principal investigator.</p>
 
 
 
