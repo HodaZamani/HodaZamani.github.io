@@ -2,7 +2,7 @@
 layout: page
 title: Low-cost Detection of Type II Diabetes
 description: Feature Selection Techniques and Machine Learning Algorithms
-img: assets/img/12.jpg
+img: assets/img/Image12.jpg
 importance: 1
 category: work
 related_publications: HodaImputationMethod
