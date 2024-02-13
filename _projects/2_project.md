@@ -54,6 +54,9 @@ giscus_comments: true
      
 </div>
 
+<p align="justify">My family pharmacy app, as a computational process including algorithms at the intersection of machine learning, statistics, and databases, deals with a large volume of drug images. The purpose of my family pharmacy app is to find knowledge from drug images, which is expressed in a comprehensible structure using the proposed machine learning algorithm to determine valuable preterm and classify the drug based on disease.
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Image102.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
