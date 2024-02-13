@@ -1,8 +1,8 @@
 ---
 layout: page
 title: My family pharmacy
-description: Machine Learning Algorithms
-img: assets/img/3.jpg
+description: Image Classification and Machine Learning Algorithms
+img: assets/img/Image13.jpg
 importance: 2
 category: work
 giscus_comments: true
