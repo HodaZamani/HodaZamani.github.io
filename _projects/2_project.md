@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-<p align="justify">Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. We develped my family pharmacy app to help people with the following objectives:</p>
+<p align="justify">Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. We developed my family pharmacy app to help people with the following objectives:</p>
 <p align="justify">•  To monitor and track their medication intake and expiry dates</p>
 <p align="justify">•  To order and refill prescriptions online from trusted pharmacies</p>
 <p align="justify">•  To access personalized health tips and reminders based on their medical conditions</p>
@@ -42,12 +42,12 @@ giscus_comments: true
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 
-<p align="justify">My family pharmacy app is a powerful tool which it is developed based on a cross-industry standard process for data mining (CRISP-DM) within six steps: problem understanding, image data understanding, data pre-processing, data processing, data post-processing, and development. This app can evaluate and extract valuable knowledge from various types of data, such as image and sound for different medical tasks: diagnosis, treatment, monitoring, and patient management. Also, these data are collected with the aim of helping researchers in different domains.
+<p align="justify">My family pharmacy app is a powerful tool that is developed based on a cross-industry standard process for data mining (CRISP-DM) within six steps: problem understanding, image data understanding, data pre-processing, data processing, data post-processing, and development. This app can evaluate and extract valuable knowledge from various types of data, such as images and sound for different medical tasks: diagnosis, treatment, monitoring, and patient management. Also, these data are collected to help researchers in different domains.
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Image130.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Image131.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
