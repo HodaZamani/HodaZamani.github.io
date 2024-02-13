@@ -41,6 +41,10 @@ giscus_comments: true
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
+<p align="justify">My family pharmacy app is a powerful tool which it is developed based on a cross-industry standard process for data mining (CRISP-DM) within six steps: problem understanding, image data understanding, data pre-processing, data processing, data post-processing, and development. This app can evaluate and extract valuable knowledge from various types of data, such as image and sound for different medical tasks: diagnosis, treatment, monitoring, and patient management. Also, these data are collected with the aim of helping researchers in different domains.
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/FigA.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
