@@ -19,14 +19,6 @@ giscus_comments: true
 <p align="justify">The app is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Hoda Zamani</b> as the co-principal investigator.</p>
 
 
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
