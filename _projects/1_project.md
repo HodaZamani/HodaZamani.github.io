@@ -56,7 +56,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 
 
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Made with Image Creator from Designer. Powered by DALL·E 3.
 </div>
 
 <p align="justify">Our project dataset contains medical and demographic information from the targeted Najafabad Population, which we used to develop and test our diagnosis model. You can access our dataset at the <a href="https://hodazamani.github.io/repositories">repository</a>.</p>
