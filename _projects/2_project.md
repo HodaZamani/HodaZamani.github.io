@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mental Disorders Detection
+title: My family pharmacy
 description: Machine Learning Algorithms
 img: assets/img/3.jpg
 importance: 2
