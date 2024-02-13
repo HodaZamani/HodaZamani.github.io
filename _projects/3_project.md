@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mental Disorders Detection
-description: Feature Selection Techniques and Machine Learning Algorithms
+description: Feature Selection Methods and Machine Learning Algorithms
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
