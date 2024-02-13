@@ -18,7 +18,6 @@ giscus_comments: true
 
 <p align="justify">The app is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Hoda Zamani</b> as the co-principal investigator.</p>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/12.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -35,8 +34,8 @@ giscus_comments: true
     Made with Image Creator from Designer. Powered by DALL·E 3.
 </div>
 
-<p align="justify">My family pharmacy app is a powerful tool that is developed based on a cross-industry standard process for data mining (CRISP-DM) within six steps: problem understanding, image data understanding, data pre-processing, data processing, data post-processing, and development. This app can evaluate and extract valuable knowledge from various types of data, such as images and sound for different medical tasks: diagnosis, treatment, monitoring, and patient management. Also, these data are collected to help researchers in different domains.
 
+<p align="justify">My family pharmacy app is a powerful tool that is developed based on a cross-industry standard process for data mining (CRISP-DM) within six steps: problem understanding, image data understanding, data pre-processing, data processing, data post-processing, and development. This app can evaluate and extract valuable knowledge from various types of data, such as images and sound for different medical tasks: diagnosis, treatment, monitoring, and patient management. Also, these data are collected to help researchers in different domains.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -73,4 +72,3 @@ giscus_comments: true
 <div class="caption">
     Made with Image Creator from Designer. Powered by DALL·E 3.
 </div>
-
