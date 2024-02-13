@@ -72,3 +72,5 @@ giscus_comments: true
 <div class="caption">
     Made with Image Creator from Designer. Powered by DALL·E 3.
 </div>
+
+<p align="justify"> You can access our dataset at the <a href="https://hodazamani.github.io/repositories">repository</a>.</p>
