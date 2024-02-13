@@ -8,11 +8,15 @@ category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<p align="justify">Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. My pharmacy app was designed to help people with the following objectives:
+•  To monitor and track their medication intake and expiry dates
+•  To order and refill prescriptions online from trusted pharmacies
+•  To access personalized health tips and reminders based on their medical conditions
+•  To connect with doctors and pharmacists for consultations and advice
+•  To share their medication history and records with their family and caregivers
+<p align="justify">My pharmacy app is a smart and convenient solution for managing your health and wellness. It uses deep learning algorithms to analyze your data and provide you with the best recommendations. It also ensures your privacy and security by encrypting your information and storing it on a secure cloud.
 
-The project is headed by professor Mohammad H. Nadimi-Shahraki as the principal investigator and Hoda Zamani as the co-principal investigator in four phases.
+<p align="justify">The project is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Hoda Zamani</b> as the co-principal investigator. 
 
     ---
     layout: page
