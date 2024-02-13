@@ -27,8 +27,6 @@ related_publications: HodaImputationMethod
     </div>    
 </div>
 
-
-
 <p align="justify"><b>Data acquisition phase</b> involves collecting relevant health information from the target population using various methods such as surveys, blood tests, and wearable devices. Two diabetologist consultants supervise this phase. The <b>data preprocessing phase</b> is crucial for preparing the data for the diagnosis model to involve cleaning, transforming, and analyzing the data using statistical and machine learning techniques. In the <b>data modeling phase</b>, we develop and validate diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>develop a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
 
 <div class="row">
@@ -36,10 +34,13 @@ related_publications: HodaImputationMethod
         {% include figure.html path="assets/img/FigA.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Made with Image Creator from Designer. Powered by DALL·E 3.
+</div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/000.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FigA12.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Pic20.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
