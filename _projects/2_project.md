@@ -58,9 +58,7 @@ giscus_comments: true
     
 </div>
 
-
 <p align="justify">The Intelligent Family Pharmacy (Mobile App) won the National Innovator Award at the 7th Festival of Inventors, initiatives, and Innovation 2019. This app helps families take care of their health and medication needs and reduces the problems of drug use.
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -69,7 +67,4 @@ giscus_comments: true
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/MobilApp.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    
 </div>
