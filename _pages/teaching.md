@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-My Certificates and Presentations
+<b>My Certificates and Presentations</b>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -74,7 +74,7 @@ My Certificates and Presentations
 </div>
 
 <div class="caption">
-    Workshop
+    <b>Workshop</b>
 </div>
 
 <div class="row mt-3">
