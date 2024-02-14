@@ -5,7 +5,7 @@ description: Image Classification and Machine Learning Algorithms
 img: assets/img/Image13.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 <p align="justify">Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. We developed my family pharmacy app to help people with the following objectives:</p>
