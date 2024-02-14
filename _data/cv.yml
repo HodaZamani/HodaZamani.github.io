@@ -75,9 +75,10 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://hodazamani.github.io/projects">Projects</a>
+      year: 2017-2019
+      description: Low-cost Detection of Type 2 Diabetes
+      description: My Family Pharmacy Mobile App      
 - title: <a href="https://hodazamani.github.io/people/">Honors and Awards</a>
   type: time_table
   contents:
