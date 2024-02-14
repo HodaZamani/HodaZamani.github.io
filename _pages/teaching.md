@@ -81,10 +81,4 @@ My Certificates and Presentations
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Workshop.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
 </div>
