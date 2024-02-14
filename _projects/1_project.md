@@ -7,7 +7,7 @@ importance: 1
 category: work
 related_publications: HodaImputationMethod
 ---
-<p align="justify">The World Health Organization reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran ranks 14th in the world for type II diabetes prevalence among adults aged 20-79 and faces various complications, such as cardiovascular disease, kidney disease, eye disease, nerve damage, and foot problems. Additionally, type 2 diabetes can increase the risk of pancreatic cancer. To address this issue, we developed a model to provide a low-cost and early diagnosis of type 2 diabetes. We aim to prevent or delay the onset of diabetes-related complications and improve the quality of life of millions of Iranians.</p>
+<p align="justify">The World Health Organization reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran ranks 14th in the world for type 2 diabetes prevalence among adults aged 20-79 and faces various complications, such as cardiovascular disease, kidney disease, eye disease, nerve damage, and foot problems. Additionally, type 2 diabetes can increase the risk of pancreatic cancer. To address this issue, we developed a model to provide a low-cost and early diagnosis of type 2 diabetes. We aim to prevent or delay the onset of diabetes-related complications and improve the quality of life of millions of Iranians.</p>
 
 <p align="justify">The project is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Hoda Zamani</b> as the co-principal investigator in four phases. 
      
@@ -42,7 +42,7 @@ related_publications: HodaImputationMethod
     Made with Image Creator from Designer. Powered by DALL·E 3.
 </div>
 
-<p align="justify">We have created a mobile app for type II diabetes, a chronic condition affecting how the body uses glucose as energy. Our app can help users monitor their blood glucose levels, track their diet and exercise, set medication reminders, and receive personalized feedback and tips. Our app is based on the latest scientific research and best practices for diabetes management. Our app is compatible with various devices and platforms and syncs with other health apps and devices. Our app empowers users to take charge of their health and well-being.
+<p align="justify">We have created a mobile app for type 2 diabetes, a chronic condition affecting how the body uses glucose as energy. Our app can help users monitor their blood glucose levels, track their diet and exercise, set medication reminders, and receive personalized feedback and tips. Our app is based on the latest scientific research and best practices for diabetes management. Our app is compatible with various devices and platforms and syncs with other health apps and devices. Our app empowers users to take charge of their health and well-being.
 
 <p align="justify">Our project dataset contains medical and demographic information from the targeted Najafabad Population, which we used to develop and test our diagnosis model. You can access our dataset at the <a href="https://hodazamani.github.io/repositories">repository</a>.</p>
 
