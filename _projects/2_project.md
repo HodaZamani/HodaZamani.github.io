@@ -14,19 +14,19 @@ giscus_comments: true
 <p align="justify">•  To access personalized health tips and reminders based on their medical conditions</p>
 <p align="justify">•  To connect with doctors and pharmacists for consultations and advice</p>
 <p align="justify">•  To share their medication history and records with their family and caregivers</p>
-<p align="justify">My pharmacy app is a smart and convenient solution for managing your health and wellness. It uses deep learning algorithms to analyze your data and provide you with the best recommendations. It also ensures your privacy and security by encrypting your information and storing it on a secure cloud.</p>
+<p align="justify">My pharmacy app is a smart and convenient solution for managing your health and wellness. It uses deep learning algorithms to analyze your data and provide you with the best recommendations. It also ensures your privacy and security by encrypting your information and storing it on a secure cloud.
 
 <p align="justify">The app is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Hoda Zamani</b> as the co-principal investigator.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/12.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/12.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/13.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/13.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/14.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -39,7 +39,7 @@ giscus_comments: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Image1230.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Image1230.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -51,7 +51,7 @@ giscus_comments: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Image102.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Image102.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -62,10 +62,10 @@ giscus_comments: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/60.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/60.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MobilApp.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MobilApp.jpeg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
