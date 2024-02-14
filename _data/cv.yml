@@ -75,9 +75,11 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://hodazamani.github.io/projects">Projects</a>
+    - title: <a href="https://hodazamani.github.io/projects/1_project">Type 2 Diabetes Detection</a>
       year: 2017-2019
       description: Low-cost Detection of Type 2 Diabetes
+    - title: <a href="https://hodazamani.github.io/projects/2_project">Pharmacy Mobile App</a>
+      year: 2019-2020
       description: My Family Pharmacy Mobile App      
 - title: <a href="https://hodazamani.github.io/people/">Honors and Awards</a>
   type: time_table
