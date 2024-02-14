@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mental Disorders 
-description: Neurology images and Machine Learning Algorithms
+description: Neuroimaging and Machine Learning Algorithms
 img: assets/img/Image122.jpg
 redirect: https://unsplash.com
 importance: 3
