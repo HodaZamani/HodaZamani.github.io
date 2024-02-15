@@ -53,5 +53,5 @@ related_publications: HodaImputationMethod
 
 <p align="justify">We have created a mobile app for type 2 diabetes, a chronic condition affecting how the body uses glucose as energy. Our app can help users monitor their blood glucose levels, track their diet and exercise, set medication reminders, and receive personalized feedback and tips. Our app is based on the latest scientific research and best practices for diabetes management. Our app is compatible with various devices and platforms and syncs with other health apps and devices. Our app empowers users to take charge of their health and well-being.
 
-<p align="justify">Our project dataset contains medical and demographic information from the targeted Najafabad Population, which we used to develop and test our diagnosis model. You can access our dataset at the <a href="https://hodazamani.github.io/repositories">repository</a>.</p>
+<p align="justify">Our project dataset contains medical and demographic information from the targeted Najafabad Population, which we used to develop and test our diagnosis model. You can access our dataset at the <a href="https://hodazamani.github.io/repositories">repository</a>.</p> Some of the findings of this project were published in a paper that is cited at the end of this web page.
 
