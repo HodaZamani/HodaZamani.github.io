@@ -15,7 +15,7 @@ related_publications: HodaImputationMethod
     Date of Agreement: 2017/5/12
     Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
     co-principal Investigator: Hoda Zamani 
-    Agreement: Big Data Research Center and Najafabad Clinical     
+    Executive Director: Big Data Research Center and Najafabad Clinical     
     ---
 
 
