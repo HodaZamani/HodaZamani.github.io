@@ -9,15 +9,15 @@ related_publications: HodaImputationMethod
 ---
 
 
-    ---
+    
     Title of Funded Project: Type2 Diabetes Detection
     Number: A2017A1-240
     Date of Agreement: 2017/5/12
     Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
     Co-principal Investigator: Hoda Zamani 
     Executive Director: Big Data Research Center and Najafabad Diabetes Clinic 
-    Submitted Grant Proposal To: The Big Data Research Center Foundation
-    ---
+    Submitted Grant Proposal to the Big Data Research Center Foundation
+   
 
 
 
