@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mntal Disorders Detection 
+title: Mental Disorders Detection 
 description: Neuroimaging and Data Analysis
 img: assets/img/Image122.jpg
 redirect: https://unsplash.com
