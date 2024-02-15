@@ -10,19 +10,18 @@ related_publications: HodaImputationMethod
 
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Title of funded project: Type2 Diabetes Detection
+    Date of Agreement: 2017/5/12
+    Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
+    co-principal Investigator: Hoda Zamani 
+    Agreement: Big Data Research Center and Najafabad Clinical     
     ---
 
 
 
-<p align="justify">The World Health Organization reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran ranks 14th in the world for type 2 diabetes prevalence among adults aged 20-79 and faces various complications, such as cardiovascular disease, kidney disease, eye disease, nerve damage, and foot problems. Additionally, type 2 diabetes can increase the risk of pancreatic cancer. To address this issue, we developed a model to provide a low-cost and early diagnosis of type 2 diabetes. We aim to prevent or delay the onset of diabetes-related complications and improve the quality of life of millions of Iranians.</p>
+<p align="justify">The World Health Organization reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran ranks 14th in the world for type 2 diabetes prevalence among adults aged 20-79 and faces various complications, such as cardiovascular disease, kidney disease, eye disease, nerve damage, and foot problems. Additionally, type 2 diabetes can increase the risk of pancreatic cancer. To address this issue, we developed a model to provide a low-cost and early diagnosis of type 2 diabetes. We aim to prevent or delay the onset of diabetes-related complications and improve the quality of life of millions of Iranians. This project is planned  in four phases.</p>
 
-<p align="justify">The project is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Hoda Zamani</b> as the co-principal investigator in four phases. 
      
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/P01.jpg" title="Example image" class="img-fluid rounded z-depth-1" zoomable=true %}
