@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mental Disorders 
+title: Mntal Disorders Detection 
 description: Neuroimaging and Machine Learning Algorithms
 img: assets/img/Image122.jpg
 redirect: https://unsplash.com
