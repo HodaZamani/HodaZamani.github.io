@@ -7,10 +7,8 @@ importance: 1
 category: work
 related_publications: HodaImputationMethod
 ---
-
-
     
-    Title of Funded Project: Type2 Diabetes Detection
+    Title of Funded Project: Low-cost Type 2 Diabetes Detection
     Number: A2017A1-240
     Date of Agreement: 2017/5/12
     Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
@@ -18,12 +16,11 @@ related_publications: HodaImputationMethod
     Executive Director: Big Data Research Center and Najafabad Diabetes Clinic 
     Submitted Grant Proposal to the Big Data Research Center Foundation
    
+<p align="justify"><b>The importance of this project:</b>This project aims to address a major global health challenge: diabetes. This chronic disease affects more than 400 million people worldwide, and its prevalence is increasing rapidly. Iran has one of the highest rates of type 2 diabetes among adults aged 20-79, ranking 14th in the world. Type 2 diabetes causes various health complications in Iran, such as cardiovascular disease, kidney disease, eye disease, nerve damage, foot problems, and even pancreatic cancer. These complications impair the quality of life and increase the risk of mortality for millions of people in Iran.
 
+<p align="justify"><b>Objective:</b>The objective of this project is to develop a low-cost and early diagnosis model for type 2 diabetes, which affects millions of Iranians and causes various health complications. By achieving this objective, we aim to enhance the quality of life of the affected population and prevent or reduce the severity of diabetes-related complications. We plan to disseminate the findings of this project and model to some countries with a high prevalence of type 2 diabetes and its complications, as they could benefit from our low-cost and early diagnosis approach.
+<b>This project will be carried out in four phases.</b>
 
-
-<p align="justify">The World Health Organization reported that the number of people with diabetes increased from 108 million in 1980 to 422 million in 2014. Iran ranks 14th in the world for type 2 diabetes prevalence among adults aged 20-79 and faces various complications, such as cardiovascular disease, kidney disease, eye disease, nerve damage, and foot problems. Additionally, type 2 diabetes can increase the risk of pancreatic cancer. To address this issue, we developed a model to provide a low-cost and early diagnosis of type 2 diabetes. We aim to prevent or delay the onset of diabetes-related complications and improve the quality of life of millions of Iranians. This project is planned  in four phases.</p>
-
-     
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/P01.jpg" title="Example image" class="img-fluid rounded z-depth-1" zoomable=true %}
