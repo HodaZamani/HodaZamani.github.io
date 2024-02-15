@@ -16,7 +16,7 @@ related_publications: HodaImputationMethod
     Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
     co-principal Investigator: Hoda Zamani 
     Executive Director: Big Data Research Center and Najafabad Diabetes Clinic 
-    Submitted to: The Big Data Research Center Foundation
+    Submitted Grant Proposal To: The Big Data Research Center Foundation
     ---
 
 
