@@ -11,6 +11,7 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
+  <style> h2 { font-size: 24px; } </style>
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
@@ -56,3 +57,4 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
