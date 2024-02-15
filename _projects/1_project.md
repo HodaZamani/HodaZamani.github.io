@@ -10,7 +10,8 @@ related_publications: HodaImputationMethod
 
 
     ---
-    Title of funded project: Type2 Diabetes Detection
+    Title of Funded Project: Type2 Diabetes Detection
+    Number: A2017A1-240
     Date of Agreement: 2017/5/12
     Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
     co-principal Investigator: Hoda Zamani 
