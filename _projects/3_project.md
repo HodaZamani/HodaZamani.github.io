@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mntal Disorders Detection 
-description: Neuroimaging and Machine Learning Algorithms
+description: Neuroimaging and Data Analysis
 img: assets/img/Image122.jpg
 redirect: https://unsplash.com
 importance: 3
