@@ -24,7 +24,7 @@ related_publications: HodaImputationMethod
     </div>
 </div>
 <div class="caption">
-    The burden of type 2 diabetes worldwide and in Europe
+    [The burden of type 2 diabetes worldwide and in Europe](https://feel4diabetes-study.eu/the-challenges/)
 </div>
 
 <p align="justify"><b>Objective:</b> This project aims to develop an intelligent mobile app that people can use for low-cost early detection of type 2 diabetes since Iran has one of the highest rates of type 2 diabetes among adults aged 20-79, ranking 14th in the world. This mobile app can be used by people quickly and help them to prevent or reduce the severity of diabetes-related complications as soon as possible. This app can be used in other countries with a high prevalence of type 2 diabetes. This project consisted of four phases.</p>
