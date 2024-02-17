@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Type2 Diabetes Detection
-description: Feature Selection Methods and Machine Learning Algorithms
+description: An intelligent Mobil App
 img: assets/img/Image120.jpg
 importance: 1
 category: work
