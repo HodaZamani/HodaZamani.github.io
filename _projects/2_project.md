@@ -15,7 +15,7 @@ giscus_comments: false
     Co-principal Investigator: Hoda Zamani 
 
 
-<p align="justify">Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. We developed my family pharmacy app to help people with the following objectives:</p>
+<p align="justify">Importance: Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. We developed my family pharmacy app to help people with the following objectives:</p>
 <p align="justify">•  To monitor and track their medication intake and expiry dates</p>
 <p align="justify">•  To order and refill prescriptions online from trusted pharmacies</p>
 <p align="justify">•  To access personalized health tips and reminders based on their medical conditions</p>
