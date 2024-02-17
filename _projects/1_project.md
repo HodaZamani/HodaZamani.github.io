@@ -29,7 +29,7 @@ related_publications: HodaImputationMethod
 
 <p align="justify"><b>Objective:</b> This project aims to develop an intelligent mobile app that people can use for low-cost early detection of type 2 diabetes since Iran has one of the highest rates of type 2 diabetes among adults aged 20-79, ranking 14th in the world. This mobile app can be used by people quickly and help them to prevent or reduce the severity of diabetes-related complications as soon as possible. This app can be used in other countries with a high prevalence of type 2 diabetes.</p>
 <b>This project consisted of four phases.</b></p>
-</p>
+<p align="justify"></p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/P01.jpg" title="Example image" class="img-fluid rounded z-depth-1" zoomable=true %}
