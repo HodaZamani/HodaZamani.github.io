@@ -15,7 +15,10 @@ giscus_comments: false
     Co-principal Investigator: Hoda Zamani 
 
 
-<p align="justify"><b>Importance:</b> Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. We developed my family pharmacy app to help people with the following objectives:</p>
+<p align="justify"><b>Importance:</b> Medicine consumption strains the economy, as it takes up a big part of health and GDP spending. In 2022, the OECD average health to GDP ratio was 9.2%. The UK's ratio was 10.3% and Iran's was 6.5%. By 2027, global medicine spending will reach $1.9 trillion, up from $1.48 trillion in 2022. The USA will spend 40% of that, the UK 3.5%, and Iran 0.4%.</p>
+    
+    
+<p align="justify">By managing the medication stock at home, we can reduce this huge cost. We developed my family pharmacy app to help people with the following objectives:</p>
 <p align="justify">•  To monitor and track their medication intake and expiry dates</p>
 <p align="justify">•  To order and refill prescriptions online from trusted pharmacies</p>
 <p align="justify">•  To access personalized health tips and reminders based on their medical conditions</p>
