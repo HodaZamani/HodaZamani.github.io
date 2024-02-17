@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Type2 Diabetes Detection
+title: Type 2 Diabetes Detection
 description: An intelligent Mobil App
 img: assets/img/Image120.jpg
 importance: 1
