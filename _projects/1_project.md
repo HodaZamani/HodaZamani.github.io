@@ -13,8 +13,7 @@ related_publications: HodaImputationMethod
     Date of Agreement: 2017/5/12
     Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
     Co-principal Investigator: Hoda Zamani 
-    Executive Director: Big Data Research Center and Najafabad Diabetes Clinic 
-    Submitted Grant Proposal to the Big Data Research Center Foundation
+
    
 <p align="justify"><b>Importance:</b> This project aims to address a major global health challenge: diabetes. This chronic disease affects more than 400 million people worldwide, and its prevalence is increasing rapidly. <b>Iran</b> has one of the highest rates of type 2 diabetes among adults aged 20-79, ranking <b>14th</b> in the world. Type 2 diabetes causes various health complications in Iran, such as cardiovascular disease, kidney disease, eye disease, nerve damage, foot problems, and even pancreatic cancer. These complications impair the quality of life and increase the risk of mortality for millions of people in Iran.
 
