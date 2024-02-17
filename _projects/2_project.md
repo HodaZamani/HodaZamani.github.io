@@ -23,7 +23,7 @@ giscus_comments: false
 <p align="justify">•  To share their medication history and records with their family and caregivers</p>
 <p align="justify">My pharmacy app is a smart and convenient solution for managing your health and wellness. It uses deep learning algorithms to analyze your data and provide you with the best recommendations. It also ensures your privacy and security by encrypting your information and storing it on a secure cloud.
 
-<p align="justify">The app is headed by <b>professor Mohammad H. Nadimi-Shahraki</b> as the principal investigator and <b>Hoda Zamani</b> as the co-principal investigator.</p>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
