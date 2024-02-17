@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My family pharmacy
-description: Image Classification and Machine Learning Algorithms
+description: Image Classification
 img: assets/img/Image13.jpg
 importance: 2
 category: work
