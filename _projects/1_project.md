@@ -17,6 +17,17 @@ related_publications: HodaImputationMethod
    
 <p align="justify"><b>Importance:</b> Type 2 diabetes is a serious condition that can lead to complications such as heart disease, stroke, kidney failure, blindness, and amputation. This chronic disease affects more than 400 million people worldwide, and its prevalence has rapidly increased and doubled in the last 15 years, which has challenged many countries' healthcare systems. Fortunately, there have been proposed methods for early detection, which can prevent or delay it by adopting a healthy lifestyle, such as eating well, moving more, and losing weight if needed. However, current methods of diagnosis, such as blood tests, are often invasive, costly, and time-consuming. Moreover, many people may not have access to adequate healthcare facilities or awareness of their risk status. Iran has one of the highest rates of type 2 diabetes among adults aged 20-79, ranking 14th in the world. Therefore, developing an intelligent mobile app that people can use for low-cost early detection of type 2 diabetes is crucial.
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IDF.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The burden of type 2 diabetes worldwide and in Europe
+</div>
+
+
 <p align="justify"><b>Objective:</b> This project aims to develop an intelligent mobile app that people can use for low-cost early detection of type 2 diabetes since Iran has one of the highest rates of type 2 diabetes among adults aged 20-79, ranking 14th in the world. This mobile app can be used by people quickly and help them to prevent or reduce the severity of diabetes-related complications as soon as possible. This app can be used in other countries with a high prevalence of type 2 diabetes. This project consisted of four phases.</p>
 <b>This project consisted of four phases.</b>
 
