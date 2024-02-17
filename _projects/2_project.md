@@ -18,7 +18,7 @@ giscus_comments: false
 <p align="justify"><b>Importance:</b> Medicine consumption strains the economy, as it takes up a big part of health and GDP spending. In 2022, the OECD average health to GDP ratio was 9.2%. The UK's ratio was 10.3% and Iran's was 6.5%, indicating that the UK spent more on health relative to its economic output than Iran. By 2027, global medicine spending will reach $1.9 trillion, up from $1.48 trillion in 2022, driven by factors such as population growth, aging, disease burden, and innovation. The USA will spend 40% of that, the UK 3.5%, and Iran 0.4%, reflecting the differences in their income levels, health systems, and medicine prices. These trends suggest that medicine consumption will continue to pose significant challenges and opportunities for health policy and economic development in the coming years.</p>
     
     
-<p align="justify">By managing the medication stock at home, we can reduce this huge cost. We developed my family pharmacy app to help people with the following objectives:</p>
+<p align="justify"><b>Objective:</b>By managing the medication stock at home, we can reduce this huge cost. We developed my family pharmacy app to help people with the following objectives:</p>
 <p align="justify">•  To monitor and track their medication intake and expiry dates</p>
 <p align="justify">•  To order and refill prescriptions online from trusted pharmacies</p>
 <p align="justify">•  To access personalized health tips and reminders based on their medical conditions</p>
