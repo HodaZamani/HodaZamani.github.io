@@ -8,6 +8,13 @@ category: work
 giscus_comments: false
 ---
 
+Title of Funded Project: A Low-cost Early Detection of Type 2 Diabetes
+Number: A2017A1-240
+Date of Agreement: 12/05/2017
+Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
+Co-principal Investigator: Hoda Zamani 
+
+
 <p align="justify">Drug consumption is a major economic burden for the country every year. By managing the medication stock at home, we can reduce this huge cost. We developed my family pharmacy app to help people with the following objectives:</p>
 <p align="justify">•  To monitor and track their medication intake and expiry dates</p>
 <p align="justify">•  To order and refill prescriptions online from trusted pharmacies</p>
