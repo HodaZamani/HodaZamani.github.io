@@ -53,7 +53,7 @@ related_publications: HodaImputationMethod
     </div>
 </div>
 <div class="caption">
-    <a href="https://feel4diabetes-study.eu/the-challenges/">The burden of type 2 diabetes worldwide and in Europe</a>
+    A Low-cost Early Detection Data Model of Type 2 Diabetes
 </div>
 
 <p align="justify"><b>Findings:</b> We have created a mobile app for type 2 diabetes. In this app users can track their blood glucose, identify risk factors, detect type 2 diabetes and schedule a diabetologist visit, manage their diet and exercise, remind themselves of their medications, and receive tailored feedback and tips with our app. Our app is based on the latest scientific research and best practices for diabetes management. Our app is compatible with various devices and platforms and syncs with other health apps and devices. Our app empowers users to take charge of their health and well-being.
