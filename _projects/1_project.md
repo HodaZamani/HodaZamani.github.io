@@ -47,16 +47,13 @@ related_publications: HodaImputationMethod
 <p align="justify"><b>Project Phases:</b> Data acquisition phase involves collecting relevant health information from the target population using various methods such as surveys, blood tests, and wearable devices. Two diabetologist consultants supervise this phase. The <b>data preprocessing phase</b> is crucial for preparing the data for the diagnosis model to involve cleaning, transforming, and analyzing the data using statistical and machine learning techniques. In the <b>data modeling phase</b>, we develop and validate diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>develop a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
 
 
-<div class="row justify-content-sm-center">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FigA.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Pic20.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/IDF.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Made with Image Creator from Designer. Powered by DALL·E 3.
+    <a href="https://feel4diabetes-study.eu/the-challenges/">The burden of type 2 diabetes worldwide and in Europe</a>
 </div>
 
 <p align="justify"><b>Findings:</b> We have created a mobile app for type 2 diabetes. In this app users can track their blood glucose, identify risk factors, detect type 2 diabetes and schedule a diabetologist visit, manage their diet and exercise, remind themselves of their medications, and receive tailored feedback and tips with our app. Our app is based on the latest scientific research and best practices for diabetes management. Our app is compatible with various devices and platforms and syncs with other health apps and devices. Our app empowers users to take charge of their health and well-being.
