@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DiaT2
+title: DiaT2 Project
 description: An Intelligent Mobil App for Low-cost Early Detection of Type 2 Diabetes
 img: assets/img/Image120.jpg
 importance: 1
