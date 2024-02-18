@@ -15,22 +15,22 @@ giscus_comments: false
     Co-principal Investigator: Hoda Zamani 
 
 
-<p align="justify"><b>Importance:</b> Medicine consumption strains the economy, as it takes up a big part of health and GDP spending. In 2022, the OECD average health to GDP ratio was 9.2%. The UK's ratio was 10.3% and Iran's was 6.5%, indicating that the UK spent more on health relative to its economic output than Iran. By 2027, global medicine spending will reach $1.9 trillion, up from $1.48 trillion in 2022, driven by factors such as population growth, aging, disease burden, and innovation. The USA will spend 40% of that, the UK 3.5%, and Iran 0.4%, reflecting the differences in their income levels, health systems, and medicine prices. These trends suggest that medicine consumption will continue to pose significant challenges and opportunities for health policy and economic development in the coming years.</p>
+<p align="justify"><b>Importance:</b> Medicine consumption strains the economy, as it takes up a big part of health and GDP spending. In 2022, the OECD average health-to-GDP ratio was 9.2%. The UK's ratio was 10.3% and Iran's was 6.5%, indicating that the UK spent more on health relative to its economic output than Iran. By 2027, global medicine spending will reach $1.9 trillion, up from $1.48 trillion in 2022, driven by factors such as population growth, aging, disease burden, and innovation. The USA will spend 40% of that, the UK 3.5%, and Iran 0.4%, reflecting the differences in their income levels, health systems, and medicine prices. These trends suggest that medicine consumption will continue to pose significant challenges and opportunities for health policy and economic development in the coming years.</p>
     
-<p align="justify"><b>Objective:</b> We developed a my family pharmacy app to help you reduce the huge cost of medication by managing your stock at home. With our app, you can track your intake and expiry dates, order and refill prescriptions online, get personalized health tips and reminders, consult with doctors and pharmacists, and share your records with your family and caregivers. The app uses deep learning to give you the best advice and protects your privacy and security with encryption and cloud storage. By using our app, you can enjoy the following benefits:
+<p align="justify"><b>Objective:</b> We developed my family pharmacy app to help you reduce the huge cost of medication by managing your stock at home. With our app, you can track your intake and expiry dates, order and refill prescriptions online, get personalized health tips and reminders, consult with doctors and pharmacists, and share your records with your family and caregivers. The app uses deep learning to give you the best advice and protects your privacy and security with encryption and cloud storage. By using our app, you can enjoy the following benefits:
 <p align="justify"><b>+</b> Improve your medication adherence and avoid missing doses or taking the wrong medication.</p>
 <p align="justify"><b>+</b> Prevent drug interactions and side effects by checking the compatibility of your medications.</p>
 <p align="justify"><b>+</b> Save time and money by ordering and refilling your prescriptions online from trusted pharmacies.</p>
 <p align="justify"><b>+</b> Access reliable and up-to-date information about your medications, such as dosage, instructions, warnings, and alternatives.</p>
 <p align="justify"><b>+</b> Stay healthy and informed by receiving personalized health tips and reminders based on your medical conditions.</p>
-<p align="justify"><b>+</b> Connect with your health care providers and get professional advice and support.</p>
+<p align="justify"><b>+</b> Connect with your healthcare providers and get professional advice and support.</p>
 <p align="justify"><b>+</b> Share your medication history and records with your family and caregivers for better coordination and safety.</p>
     
 <p align="justify">My pharmacy app is a smart and convenient solution for managing your health and wellness. It uses deep learning algorithms to analyze your data and provide you with the best recommendations. It also ensures your privacy and security by encrypting your information and storing it on a secure cloud.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/P011.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/P0111.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/P012.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
