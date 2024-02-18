@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Type 2 Diabetes Detection
-description: An Intelligent Mobil App
+title: DiaT2
+description: An Intelligent Mobil App for Low-cost Early Detection of Type 2 Diabetes
 img: assets/img/Image120.jpg
 importance: 1
 category: work
