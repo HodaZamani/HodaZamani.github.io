@@ -8,7 +8,7 @@ category: work
 related_publications: HodaImputationMethod
 ---
     
-    Title of Funded Project: A Low-cost Early Detection of Type 2 Diabetes
+    Title of Funded Project: An Intelligent Low-cost Method for Early Detection of Type 2 Diabetes
     Number: A2017A1-240
     Date of Agreement: 12/05/2017
     Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
