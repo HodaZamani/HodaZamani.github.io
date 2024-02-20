@@ -33,24 +33,15 @@ related_publications: HodaImputationMethod
     
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/P01.jpg" title="Example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/P002.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/P3.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/P004.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>    
+        {% include figure.html path="assets/img/013.jpg" title="Example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div> 
 </div>
 
 <p align="justify">In the <b>data modeling phase</b>, we developed and validated diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>developed a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/D02.jpeg" title=" A Low-cost Early Detection Data Model of Type 2 Diabetes" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/012.jpeg" title=" A Low-cost Early Detection Data Model of Type 2 Diabetes" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
