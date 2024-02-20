@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DiaT2 Project
+title: DiaT2 
 description: An Intelligent Mobil App for Low-cost Early Detection of Type 2 Diabetes
 img: assets/img/Image120.jpg
 importance: 1
@@ -10,7 +10,7 @@ related_publications: HodaImputationMethod
     
     Title of Funded Project: An Intelligent Low-cost Method for Early Detection of Type 2 Diabetes
     Number: A2017A1-240
-    Date of Agreement: 12/05/2017
+    Agreement Duration: From 12/05/2017 To 12/05/2019
     Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
     Co-principal Investigator: Hoda Zamani 
 
