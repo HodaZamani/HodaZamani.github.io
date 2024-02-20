@@ -26,8 +26,6 @@ related_publications: HodaImputationMethod
     <a href="https://feel4diabetes-study.eu/the-challenges/">The Burden of Type 2 Diabetes Worldwide</a>
 </div>
 
-<p align="justify"><b>Objective:</b> This project aims to develop an intelligent mobile app that people can use for low-cost early detection of type 2 diabetes since Iran has one of the highest rates of type 2 diabetes among adults aged 20-79, ranking 14th in the world. This mobile app can be used by people quickly and help them to prevent or reduce the severity of diabetes-related complications as soon as possible. This app can be used in other countries with a high prevalence of type 2 diabetes.
-<p align="justify"></p>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/P01.jpg" title="Example image" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -42,6 +40,9 @@ related_publications: HodaImputationMethod
         {% include figure.html path="assets/img/P004.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>    
 </div>
+<p align="justify"><b>Objective:</b> This project aims to develop an intelligent mobile app that people can use for low-cost early detection of type 2 diabetes since Iran has one of the highest rates of type 2 diabetes among adults aged 20-79, ranking 14th in the world. This mobile app can be used by people quickly and help them to prevent or reduce the severity of diabetes-related complications as soon as possible. This app can be used in other countries with a high prevalence of type 2 diabetes.
+<p align="justify"></p>
+
 <p align="justify"><b>Project Phases:</b> Data acquisition phase involves collecting relevant health information from the target population using various methods such as surveys, blood tests, and wearable devices. Two diabetologist consultants supervise this phase. The <b>data preprocessing phase</b> is crucial for preparing the data for the diagnosis model to involve cleaning, transforming, and analyzing the data using statistical and machine learning techniques. In the <b>data modeling phase</b>, we develop and validate diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>develop a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
 
 
