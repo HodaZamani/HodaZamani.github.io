@@ -46,7 +46,7 @@ related_publications: HodaImputationMethod
     </div>    
 </div>
 
-<p align="justify">In the <b>data modeling phase</b>, we develop and validate diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>develop a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
+<p align="justify">In the <b>data modeling phase</b>, we developed and validated diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>developed a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
