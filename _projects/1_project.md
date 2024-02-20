@@ -41,9 +41,7 @@ related_publications: HodaImputationMethod
     </div>    
 </div>
 <p align="justify"><b>Objective:</b> This project aims to develop an intelligent mobile app that people can use for low-cost early detection of type 2 diabetes since Iran has one of the highest rates of type 2 diabetes among adults aged 20-79, ranking 14th in the world. This mobile app can be used by people quickly and help them to prevent or reduce the severity of diabetes-related complications as soon as possible. This app can be used in other countries with a high prevalence of type 2 diabetes.
-<p align="justify"></p>
-
-<p align="justify"><b>Project Phases:</b> Data acquisition phase involves collecting relevant health information from the target population using various methods such as surveys, blood tests, and wearable devices. Two diabetologist consultants supervise this phase. The <b>data preprocessing phase</b> is crucial for preparing the data for the diagnosis model to involve cleaning, transforming, and analyzing the data using statistical and machine learning techniques. In the <b>data modeling phase</b>, we develop and validate diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>develop a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
+<p align="justify"><b>Project Phases:</b> Data acquisition phase involves collecting relevant health information from the target population using various methods such as surveys, blood tests, and wearable devices. Two diabetologist consultants supervise this phase. The <b>data preprocessing phase</b> is crucial for preparing the data for the diagnosis model to involve cleaning, transforming, and analyzing the data using statistical and machine learning techniques
 
 
 <div class="row">
@@ -54,6 +52,8 @@ related_publications: HodaImputationMethod
 <div class="caption">
     <b>A Low-cost Early Detection Data Model of Type 2 Diabetes</b>
 </div>
+
+<p align="justify">In the <b>data modeling phase</b>, we develop and validate diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>develop a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
 
 <p align="justify"><b>Expected Outcomes and Impact:</b> We have created a mobile app for type 2 diabetes. In this app users can track their blood glucose, identify risk factors, detect type 2 diabetes and schedule a diabetologist visit, manage their diet and exercise, remind themselves of their medications, and receive tailored feedback and tips with our app. Our app is based on the latest scientific research and best practices for diabetes management. Our app is compatible with various devices and platforms and syncs with other health apps and devices. Our app empowers users to take charge of their health and well-being.
 
