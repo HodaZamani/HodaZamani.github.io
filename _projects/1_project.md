@@ -46,7 +46,7 @@ related_publications: HodaImputationMethod
     </div>    
 </div>
 
-
+<p align="justify">In the <b>data modeling phase</b>, we develop and validate diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>develop a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -57,7 +57,7 @@ related_publications: HodaImputationMethod
     <b>A Low-cost Early Detection Data Model of Type 2 Diabetes</b>
 </div>
 
-<p align="justify">In the <b>data modeling phase</b>, we develop and validate diagnosis models that can accurately diagnose type 2 diabetes based on the data. In the final phase, we <b>develop a mobile app</b> that can provide personalized feedback and recommendations to users based on their risk level and health status. The project hopes to contribute to the global efforts to combat type 2 diabetes, which is one of the leading causes of death and disability in the world.</p>
+
 
 <p align="justify"><b>Expected Outcomes and Impact:</b> We have created a mobile app for type 2 diabetes. In this app users can track their blood glucose, identify risk factors, detect type 2 diabetes and schedule a diabetologist visit, manage their diet and exercise, remind themselves of their medications, and receive tailored feedback and tips with our app. Our app is based on the latest scientific research and best practices for diabetes management. Our app is compatible with various devices and platforms and syncs with other health apps and devices. Our app empowers users to take charge of their health and well-being.
 
