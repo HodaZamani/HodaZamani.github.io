@@ -3,7 +3,7 @@ layout: page
 title: project 4
 description: another without an image
 img: /assets/img/12.jpg
-importance: 3
+importance: 0
 category: fun
 ---
 
