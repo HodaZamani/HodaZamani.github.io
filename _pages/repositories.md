@@ -39,6 +39,11 @@ nav_order: 4
      - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/GGWO%20Code.zip">GGWO</a>
   
 ---
+- [B-MFO: A Binary Moth-Flame Optimization for Feature Selection from Medical Datasets](https://www.mdpi.com/2073-431X/10/11/136)
+     - Journal: Computers
+     - Code: <a href="https://www.mdpi.com/2073-431X/10/11/136">B-MFO</a>
+  
+---
 - [Enhancement of Bernstain-Search Differential Evolution Algorithm to Solve Constrained Engineering Problems](https://www.researchgate.net/profile/Hoda-Zamani-2/publication/348097798_Enhancement_of_Bernstain-Search_Differential_Evolution_Algorithm_to_Solve_Constrained_Engineering_Problems/links/5feef002a6fdccdcb81ec41b/Enhancement-of-Bernstain-Search-Differential-Evolution-Algorithm-to-Solve-Constrained-Engineering-Problems.pdf)
      - Journal: International Journal of Computer Science Engineering (IJCSE)
      - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/EBSDE%20Code.zip">EBSDE</a>
