@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Family Pharmacy
-description: Image Classification
+description: Image Classification and Machine Learning
 img: assets/img/Image13.jpg
 importance: 2
 category: work
