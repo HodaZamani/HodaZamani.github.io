@@ -10,7 +10,7 @@ nav_order: 4
 ---
 - [Feature Selection Based on Whale Optimization Algorithm for Diseases Diagnosis](https://d1wqtxts1xzle7.cloudfront.net/51133098/130_Paper_310716206_IJCSIS_Camera_Ready_pp._1243-1247-libre.pdf?1483206167=&response-content-disposition=inline%3B+filename%3DFeature_Selection_Based_on_Whale_Optimiz.pdf&Expires=1705608465&Signature=AIDQhh90XdemmSqFlxYOWECDE2z0cQY4434KgwEFebi-BSrRFC3lZhNGjHgax0w9-OeMD-WlExdkrUhx2MoQO3I4-AS7v3uqwqcVF59qAfPq9HaDjyswOz8PwaPpSr-xy3AO9LI3fFJBxPfb-L1DA67YgdTHMlvoyC1YdpXxO1Kc7xWazvRi0~BMYBTSixIQxFZqHFmPOh6QhwoawLUZC9gc3eCcpZ7CC16kzKp2SpT9ruJ25ke06QEaTOhTnxXbsaUjiyFYy2yTlOljlMnFa1NPeB4YJUXcExAAY5BRmJkC-aMSNE7pAymibLqHuQFJB4-MimuUXb-hZQXUQb7Y6w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
      - Journal: International Journal of Computer Science and Information Security
-     - Code: <a href="https://github.com/HodaZamani/Metaheuristic-Algorithms-Codes/blob/main/BWOA.zip">BWOA</a>
+     - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes.zip">BWOA</a>
   
 --- 
 - [Binary Starling Murmuration Optimizer Algorithm to Select Effective Features from Medical Data](https://www.mdpi.com/2076-3417/13/1/564)
