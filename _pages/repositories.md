@@ -21,7 +21,7 @@ nav_order: 4
 - [QANA: Quantum-based avian navigation optimizer algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627)
      - Journal: Computer Methods in Applied Mechanics and Engineering
      - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/QANA%20Code.zip">QANA</a>
-     - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/QANA%20Code%20for%20CEC%20Text%20Functions.zip">QANA</a>
+     - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/QANA%20Code%20for%20CEC%20Text%20Functions.zip">QANA to solve CEC 2017 benchmark function</a>
 
 --- 
 - [Starling murmuration optimizer: A novel bio-inspired algorithm for global and engineering optimization](https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330)
