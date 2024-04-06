@@ -1,0 +1,18 @@
+% =========================================================================
+%     QANA: Quantum-based avian navigation optimizer algorithm
+%        Engineering Applications of Artificial Intelligence
+%              Volume 104, September 2021, 104314
+%   https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627
+%   https://www.researchgate.net/publication/352644454_QANA_Quantum-based_
+%            avian_navigation_optimizer_algorithm/comments
+%   https://doi.org/10.1016/j.engappai.2021.104314
+%           ---------------------------------------------
+%  Authors: HodaZamani, Mohammad H.Nadimi-Shahraki*, Amir H.Gandomi
+%  *Corresponding author: Faculty of Computer Engineering, Najafabad 
+%                Branch, Islamic Azad University, Najafabad, Iran.
+%  e-Mails: zamanie_hoda@ymail.com, nadimi@ieee.org, 
+%           nadimi.mh@gmail.com, a.h.gandomi@gmail.com
+% =========================================================================
+
+To use this algorithm, you need to add CEC2017 or CEC2018 to this folder before running the Main. 
+This folder should contain three files: input_data, cec17_func.cpp, and cec17_func.
