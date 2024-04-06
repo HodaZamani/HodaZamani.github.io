@@ -15,7 +15,7 @@ nav_order: 4
 --- 
 - [Binary Starling Murmuration Optimizer Algorithm to Select Effective Features from Medical Data](https://www.mdpi.com/2076-3417/13/1/564)
      - Journal: Journal Applied Sciences
-     - Code: <a href="https://github.com/HodaZamani/Metaheuristic-Algorithms-Codes/blob/main/BSSA.zip">BSSA</a>
+     - Code: The code will be released soon.
 
 --- 
 - [QANA: Quantum-based avian navigation optimizer algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627)
@@ -26,7 +26,7 @@ nav_order: 4
 --- 
 - [Starling murmuration optimizer: A novel bio-inspired algorithm for global and engineering optimization](https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330)
      - Journal: Computer Methods in Applied Mechanics and Engineering
-     - Code: <a href="https://github.com/HodaZamani/Metaheuristic-Algorithms-Codes/blob/main/SMO.zip">SMO</a>
+     - Code: The code will be released soon.
 
 --- 
 - [Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126)
@@ -34,17 +34,12 @@ nav_order: 4
      - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/E-WOA%20Code.zip">E-WOA</a>
 
 ---
-- [Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126))
-     - Journal: Computers in Biology and Medicine
-     - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/E-WOA%20Code.zip">E-WOA</a>
+- [GGWO: Gaze cues learning-based grey wolf optimizer and its applications for solving engineering problems](https://www.sciencedirect.com/science/article/abs/pii/S1877750322000588)
+     - Journal: Journal of Computational Science
+     - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/GGWO%20Code.zip">GGWO</a>
   
 ---
 - [Enhancement of Bernstain-Search Differential Evolution Algorithm to Solve Constrained Engineering Problems](https://www.researchgate.net/profile/Hoda-Zamani-2/publication/348097798_Enhancement_of_Bernstain-Search_Differential_Evolution_Algorithm_to_Solve_Constrained_Engineering_Problems/links/5feef002a6fdccdcb81ec41b/Enhancement-of-Bernstain-Search-Differential-Evolution-Algorithm-to-Solve-Constrained-Engineering-Problems.pdf)
      - Journal: International Journal of Computer Science Engineering (IJCSE)
      - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/EBSDE%20Code.zip">EBSDE</a>
 --- 
-  
-
-              
-  
-
