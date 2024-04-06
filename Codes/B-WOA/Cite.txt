@@ -1,0 +1,23 @@
+
+%% ======================================================================== 
+%           Feature selection based on whale optimization algorithm 
+%                       for disease diagnosis  
+%                Hoda Zamani, Mohammad-Hossein Nadimi-Shahraki
+
+%        International Journal of Computer Science and Information Security
+%                   (IJCSIS),Vol. 14, No. 9, September 2016
+%            -----------------------------------------------------------
+%                    Source codes developed in MATLAB R2016b 
+%                                Programmers:                                   
+%                 Hoda Zamani, Mohammad-Hossein Nadimi-Shahraki 
+%                E-Mail: zamanie_hoda@ymail.com,nadimi@ieee.org                    
+%           -----------------------------------------------------------                                                             
+%  Homepage: https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en 
+%  Homepage: https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en
+% ======================================================================== 
+
+Please cite this study as follows.
+
+Zamani, Hoda, and Mohammad-Hossein Nadimi-Shahraki. "Feature selection based on whale optimization algorithm for diseases diagnosis." International Journal of Computer Science and Information Security 14.9 (2016): 1243.
+
+ 
