@@ -33,6 +33,10 @@ nav_order: 4
      - Journal: Computers in biology and medicine
      - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/E-WOA%20Code.zip">E-WOA</a>
 
+---
+- [Enhancement of Bernstain-Search Differential Evolution Algorithm to Solve Constrained Engineering Problems](https://www.researchgate.net/profile/Hoda-Zamani-2/publication/348097798_Enhancement_of_Bernstain-Search_Differential_Evolution_Algorithm_to_Solve_Constrained_Engineering_Problems/links/5feef002a6fdccdcb81ec41b/Enhancement-of-Bernstain-Search-Differential-Evolution-Algorithm-to-Solve-Constrained-Engineering-Problems.pdf)
+     - Journal: International Journal of Computer Science Engineering (IJCSE)
+     - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/blob/master/Codes/EBSDE%20Code.zip">EBSDE Code</a>
 --- 
   
 
