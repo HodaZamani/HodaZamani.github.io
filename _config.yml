@@ -68,8 +68,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: HodaZamani
-gitlab_username: HodaZamani
+github_username: Hoda Zamani
+gitlab_username: Hoda Zamani
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: https://www.linkedin.com/in/hoda-zamani-34183655/
