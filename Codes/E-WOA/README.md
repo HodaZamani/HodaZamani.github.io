@@ -15,5 +15,6 @@ The whale optimization algorithm (WOA) is a prominent problem solver which is br
   Publication date= {2022/9/1}
   Volume={148}
   Publisher={Elsevier }
+  Doi={https://doi.org/10.1016/j.compbiomed.2022.105858}
 }
 ```
