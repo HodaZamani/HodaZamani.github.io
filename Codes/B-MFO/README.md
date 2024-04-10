@@ -8,12 +8,16 @@ Advancements in medical technology have created numerous large datasets includin
 
 ## Citation
 
-'''
+```
 @article{
   title={B-MFO: A Binary Moth-Flame Optimization for Feature Selection from Medical Datasets},
   author={Mohammad H Nadimi-Shahraki, Mahdis Banaie-Dezfouli, Hoda Zamani, Shokooh Taghian, Seyedali Mirjalili },
   journal={Computers},
   year={2021}
-  doi=  https://doi.org/10.3390/computers10110136
+  doi= https://doi.org/10.3390/computers10110136
+  Publication date= {2021/10/25}
+  Volume={10}
+  Issue={11}
+  Publisher={MDPI}
 }
 ```
