@@ -1,19 +1,19 @@
-# BHOA
-## A novel binary horse herd optimization algorithm for feature selection problem
-
-This repository contains the PDF and codes for the our paper ["A novel binary horse herd optimization algorithm
-for feature selection problem"](https://link.springer.com/article/10.1007/s11042-023-15023-7)
-
+# E-WOA
+This repository hosts the PDF and source code for our paper titled ["Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study"](https://www.sciencedirect.com/science/article/pii/S0010482522006126)<p>
+If you need further assistance with your paper or have any other requests, feel free to let me know!
 ## Abstract
-Feature selection (FS) is an essential step for machine learning problems that can improve the performance of the classification by removing useless features from the data set. FS is an NP-hard problem, so meta-heuristic algorithms can be used to find good solutions for this problem. Horse herd Optimization Algorithm (HOA) is a new meta-heuristic approach inspired by horses ‘herding behavior. In this paper, an improved version of the HOA algorithm called BHOA is proposed as a wrapper-based FS method. To convert continuous to discrete search space, S-Shaped and V-Shaped transfer functions are considered. Moreover, to control selection pressure, exploration, and exploitation capabilities, the Power Distance Sums Scaling approach is used to scale the fitness values of the population. The efficiency of the proposed method is estimated on 17 standard benchmark datasets. The implementation results prove the efficiency of the proposed method based on the V-shaped category of transfer functions compared to other transfer functions and other wrapper-based FS algorithms.
+The whale optimization algorithm (WOA) is a prominent problem solver which is broadly applied to solve NP-hard problems such as feature selection. However, it and most of its variants suffer from low population diversity and poor search strategy. Introducing efficient strategies is highly demanded to mitigate these core drawbacks of WOA particularly for dealing with the feature selection problem. Therefore, this paper is devoted to proposing an enhanced whale optimization algorithm named E-WOA using a pooling mechanism and three effective search strategies named migrating, preferential selecting, and enriched encircling prey. The performance of E-WOA is evaluated and compared with well-known WOA variants to solve global optimization problems. The obtained results proved that the E-WOA outperforms WOA's variants. After E-WOA showed a sufficient performance, then, it was used to propose a binary E-WOA named BE-WOA to select effective features, particularly from medical datasets. The BE-WOA is validated using medical diseases datasets and compared with the latest high-performing optimization algorithms in terms of fitness, accuracy, sensitivity, precision, and number of features. Moreover, the BE-WOA is applied to detect coronavirus disease 2019 (COVID-19) disease. The experimental and statistical results prove the efficiency of the BE-WOA in searching the problem space and selecting the most effective features compared to comparative optimization algorithms.
+
 
 ## Citation
 
 ```
 @article{
-  title={A novel binary horse herd optimization algorithm for feature selection problem},
-  author={Asghari Varzaneh, Zahra and hosseini, soodeh and Javidi, Mohammad Masoud },
-  journal={Multimedia Tools and Applications},
-  year={2023}
+  Title={Feature selection based on whale optimization algorithm for diseases diagnosis},
+  Author={Mohammad H Nadimi-Shahraki, Hoda Zamani, Seyedali Mirjalili},
+  Journal={Computers in biology and medicine},
+  Publication date= {2022/9/1}
+  Volume={148}
+  Publisher={Elsevier }
 }
 ```
