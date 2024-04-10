@@ -1,4 +1,4 @@
-# E-WOA
+# E-WOA Matlab code
 This repository hosts the PDF and source code for our paper titled ["Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study"](https://www.sciencedirect.com/science/article/pii/S0010482522006126)<p>
 If you need further assistance with your paper or have any other requests, feel free to let me know!
 ## Abstract
