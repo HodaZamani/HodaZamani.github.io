@@ -8,7 +8,7 @@ Moth-flame optimization (MFO) is a prominent problem solver with a simple struct
 
 ```
 @article{
-  title={A novel binary horse herd optimization algorithm for feature selection problem},
+  title={MFO-SFR: An enhanced moth-flame optimization algorithm using an effective stagnation finding and replacing strategy},
   author={Mohammad H Nadimi-Shahraki, Hoda Zamani, Ali Fatahi, Seyedali Mirjalili},
   journal={Mathematics},
   year={2023}
