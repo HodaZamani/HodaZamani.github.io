@@ -9,7 +9,7 @@ The whale optimization algorithm (WOA) is a prominent problem solver which is br
 
 ```
 @article{
-  Title={Feature selection based on whale optimization algorithm for diseases diagnosis},
+  Title={Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study},
   Author={Mohammad H Nadimi-Shahraki, Hoda Zamani, Seyedali Mirjalili},
   Journal={Computers in biology and medicine},
   Publication date= {2022/9/1}
