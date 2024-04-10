@@ -1,6 +1,6 @@
 # GGWO Matlab code
 
-This repository hosts the PDF and source code for our paper titled ["GGWO: Gaze cues learning-based grey wolf optimizer and its applications for solving engineering problems"](https://www.sciencedirect.com/science/article/abs/pii/S1877750322000588)<p>
+This repository hosts the source code for our paper titled ["GGWO: Gaze cues learning-based grey wolf optimizer and its applications for solving engineering problems"](https://www.sciencedirect.com/science/article/abs/pii/S1877750322000588)<p>
  
 If you need further assistance with your paper or have any other requests, feel free to let me know!
 
