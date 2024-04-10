@@ -1,4 +1,4 @@
-# B-WOA
+# FSWOA or B-WOA
 This repository hosts the PDF and source code for our paper titled ["Feature selection based on whale optimization algorithm for diseases diagnosis"](https://d1wqtxts1xzle7.cloudfront.net/51133098/130_Paper_310716206_IJCSIS_Camera_Ready_pp._1243-1247-libre.pdf?1483206167=&response-content-disposition=inline%3B+filename%3DFeature_Selection_Based_on_Whale_Optimiz.pdf&Expires=1712767982&Signature=eOblwCmKBKd3g3-llyG0UNAFBA4Bpet4W~1wWrDyOfdK97HCVfupCdfms13TDIs3dbCYJjATHQu~wnhb0MPWNf1gpmgkkYtO58Gq7R4dd7Bv3xFOn5QRpBtk93WOC4P~Ighq7X0Kgq4XMoptpBCY-dsPMEGfGXLU6eGawK03llbJE-rf2j-eV-2dMmG0el1KMEivj5R09XPncOIO8pfNJPNBrZoKGRgar~iIJAQH-C3wNn2UF0ZeKoKdjqoo81JDVAbQsRlavMIzGxFfDj49HjnCWB9sTT81~DmD5SKyJHOudsjCrlglXJ~8KcvHT9XpkL~6mw8-ZEQrolLE1~H0Zg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 If you need further assistance with your paper or have any other requests, feel free to let me know!
 ## Abstract
