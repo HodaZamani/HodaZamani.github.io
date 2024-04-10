@@ -1,6 +1,6 @@
 # QANA Matlab code
 
-This repository hosts the PDF and source code for our paper titled ["QANA: Quantum-based avian navigation optimizer algorithm"](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627)
+This repository hosts the source code for our paper titled ["QANA: Quantum-based avian navigation optimizer algorithm"](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627)
 
 If you need further assistance with your paper or have any other requests, feel free to let me know!
 
