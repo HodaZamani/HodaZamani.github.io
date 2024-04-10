@@ -1,4 +1,3 @@
-# B-MFO
 ## B-MFO: a binary moth-flame optimization for feature selection from medical datasets
 
 This repository hosts the PDF and source code for our paper titled ["B-MFO: a binary moth-flame optimization for feature selection from medical datasets"](https://www.mdpi.com/2073-431X/10/11/136)
