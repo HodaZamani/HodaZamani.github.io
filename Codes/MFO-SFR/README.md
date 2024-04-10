@@ -1,4 +1,4 @@
-## MFO-SFR
+## MFO-SFR Matlab code
 This repository contains the PDF and codes for the our paper ["MFO-SFR: An enhanced moth-flame optimization algorithm using an effective stagnation finding and replacing strategy"](https://www.mdpi.com/2227-7390/11/4/862)
 
 ## Abstract
