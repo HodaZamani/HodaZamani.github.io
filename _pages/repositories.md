@@ -47,6 +47,11 @@ nav_order: 4
 - [MFO-SFR: An enhanced moth-flame optimization algorithm using an effective stagnation finding and replacing strategy](https://www.mdpi.com/2227-7390/11/4/862)
      - Journal: Mathematics
      - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/tree/master/Codes/MFO-SFR">MFO-SFR</a>
+
+---
+- [Migration-based moth-flame optimization algorithm](https://www.mdpi.com/2227-9717/9/12/2276)
+     - Journal: Processes
+     - Code: <a href="https://github.com/HodaZamani/HodaZamani.github.io/tree/master/Codes/M-MFO">M-MFO</a>
   
 ---
 - [Enhancement of Bernstain-Search Differential Evolution Algorithm to Solve Constrained Engineering Problems](https://www.researchgate.net/profile/Hoda-Zamani-2/publication/348097798_Enhancement_of_Bernstain-Search_Differential_Evolution_Algorithm_to_Solve_Constrained_Engineering_Problems/links/5feef002a6fdccdcb81ec41b/Enhancement-of-Bernstain-Search-Differential-Evolution-Algorithm-to-Solve-Constrained-Engineering-Problems.pdf)
