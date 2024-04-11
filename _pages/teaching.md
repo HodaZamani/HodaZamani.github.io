@@ -83,6 +83,6 @@ nav_order: 6
         {% include figure.html path="assets/img/Workshop.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MentalDisorder.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/MD.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
