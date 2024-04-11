@@ -1,24 +1,24 @@
-## B-MFO Matlab code
+## M-MFO Matlab code
 
-This repository hosts the PDF and source code for our paper titled ["B-MFO: a binary moth-flame optimization for feature selection from medical datasets"](https://www.mdpi.com/2073-431X/10/11/136)
+This repository hosts the PDF and source code for our paper titled ["Migration-based moth-flame optimization algorithm"](https://www.mdpi.com/2227-9717/9/12/2276)
 
 If you need further assistance with your paper or have any other requests, feel free to let me know!
 
 ## Abstract
-Advancements in medical technology have created numerous large datasets including many features. Usually, all captured features are not necessary, and there are redundant and irrelevant features, which reduce the performance of algorithms. To tackle this challenge, many metaheuristic algorithms are used to select effective features. However, most of them are not effective and scalable enough to select effective features from large medical datasets as well as small ones. Therefore, in this paper, a binary moth-flame optimization (B-MFO) is proposed to select effective features from small and large medical datasets. Three categories of B-MFO were developed using S-shaped, V-shaped, and U-shaped transfer functions to convert the canonical MFO from continuous to binary. These categories of B-MFO were evaluated on seven medical datasets and the results were compared with four well-known binary metaheuristic optimization algorithms: BPSO, bGWO, BDA, and BSSA. In addition, the convergence behavior of the B-MFO and comparative algorithms were assessed, and the results were statistically analyzed using the Friedman test. The experimental results demonstrate a superior performance of B-MFO in solving the feature selection problem for different medical datasets compared to other comparative algorithms. 
+Moth–flame optimization (MFO) is a prominent swarm intelligence algorithm that demonstrates sufficient efficiency in tackling various optimization tasks. However, MFO cannot provide competitive results for complex optimization problems. The algorithm sinks into the local optimum due to the rapid dropping of population diversity and poor exploration. Hence, in this article, a migration-based moth–flame optimization (M-MFO) algorithm is proposed to address the mentioned issues. In M-MFO, the main focus is on improving the position of unlucky moths by migrating them stochastically in the early iterations using a random migration (RM) operator, maintaining the solution diversification by storing new qualified solutions separately in a guiding archive, and, finally, exploiting around the positions saved in the guiding archive using a guided migration (GM) operator. The dimensionally aware switch between these two operators guarantees the convergence of the population toward the promising zones. The proposed M-MFO was evaluated on the CEC 2018 benchmark suite on dimension 30 and compared against seven well-known variants of MFO, including LMFO, WCMFO, CMFO, CLSGMFO, LGCMFO, SMFO, and ODSFMFO. Then, the top four latest high-performing variants were considered for the main experiments with different dimensions, 30, 50, and 100. The experimental evaluations proved that the M-MFO provides sufficient exploration ability and population diversity maintenance by employing migration strategy and guiding archive. In addition, the statistical results analyzed by the Friedman test proved that the M-MFO demonstrates competitive performance compared to the contender algorithms used in the experiments.
 
 ## Citation
 
 ```
 @article{
   Title={B-MFO: A Binary Moth-Flame Optimization for Feature Selection from Medical Datasets},
-  Author={Mohammad H Nadimi-Shahraki, Mahdis Banaie-Dezfouli, Hoda Zamani, Shokooh Taghian, Seyedali Mirjalili },
-  Journal={Computers},
+  Author={Mohammad H Nadimi-Shahraki, Ali Fatahi, Hoda Zamani, Seyedali Mirjalili, Laith Abualigah, Mohamed Abd Elaziz},
+  Journal={Processes},
   Year={2021}
-  Doi= https://doi.org/10.3390/computers10110136
+  Doi= https://doi.org/10.3390/pr9122276
   Publication date= {2021/10/25}
-  Volume={10}
-  Issue={11}
+  Volume={9}
+  Issue={12}
   Publisher={MDPI}
 }
 ```
