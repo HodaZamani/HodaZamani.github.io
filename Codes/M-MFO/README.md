@@ -11,7 +11,7 @@ Moth–flame optimization (MFO) is a prominent swarm intelligence algorithm that
 
 ```
 @article{
-  Title={B-MFO: A Binary Moth-Flame Optimization for Feature Selection from Medical Datasets},
+  Title={Migration-based moth-flame optimization algorithm},
   Author={Mohammad H Nadimi-Shahraki, Ali Fatahi, Hoda Zamani, Seyedali Mirjalili, Laith Abualigah, Mohamed Abd Elaziz},
   Journal={Processes},
   Year={2021}
