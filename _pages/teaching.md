@@ -70,6 +70,7 @@ nav_order: 6
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/CourseraP8RNDUHS2N5C.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <a href="https://coursera.org/verify/P8RNDUHS2N5C">Verification Link</a>
     </div>
 </div>
 
