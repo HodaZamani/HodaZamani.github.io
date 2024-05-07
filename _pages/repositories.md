@@ -7,6 +7,27 @@ nav_order: 4
 ---
 <p align="justify">The algorithm codes have been published across various journals and are available on this page and <a href="https://github.com/HodaZamani/Matlab-Codes">Matlab codes repository</a> for access. Click on the provided links to view the original papers and usage guidelines for the codes. I trust you will find them both helpful and informative.</P> <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">Google Scholar</a>
 
+
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 ---
 - [Feature Selection Based on Whale Optimization Algorithm for Diseases Diagnosis](https://d1wqtxts1xzle7.cloudfront.net/51133098/130_Paper_310716206_IJCSIS_Camera_Ready_pp._1243-1247-libre.pdf?1483206167=&response-content-disposition=inline%3B+filename%3DFeature_Selection_Based_on_Whale_Optimiz.pdf&Expires=1712406745&Signature=LxQOwZHAkvZ6PWqac8m~PcXz6UL7Z35HtayOYh0Wp9QfROaaHhbnrJR00r6KtoUt-hcLeJ3OxQ8ol-vswQRlsFYLR3dZYWaifPWtuqnnGc515LZO82FmkM7VpmhkyPgGjdWRIPK2nLbvxmIRo9k1tLojzVZqpjVNVJetJq328bR0eQ52jBBIln0h4AxZRuVxdZGP3red9jfwZpAg5TVpEiu0VVU~WkCTgwhPlo3aKs9kM5XS-bkgtmqHd9YE2eZYRft76WFD2aK9ts4QBZb1tOn3~NB8dM3xWgcHG4hf08RmvfiFI-~CPtqr2VR-a4w~G77-thbEKiCmkQdRbT-erQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
      - Journal: International Journal of Computer Science and Information Security
