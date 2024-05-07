@@ -5,15 +5,9 @@ title: Repositories
 nav: true
 nav_order: 4
 ---
-<p align="justify">The algorithm codes have been published across various journals and are available on this page and <a href="https://github.com/HodaZamani/Matlab-Codes">Matlab codes repository</a> for access. Click on the provided links to view the original papers and usage guidelines for the codes. I trust you will find them both helpful and informative.</P> <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">Google Scholar</a>
+<p align="justify">The algorithm codes have been published across various journals and are available on this page and <a href="https://github.com/HodaZamani/Matlab-Codes">Matlab codes repository</a> for access. Click on the provided links to view the original papers and usage guidelines for the codes. I trust you will find them both helpful and informative.<a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">My Google Scholar</a>
 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,9 +15,6 @@ nav_order: 4
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
