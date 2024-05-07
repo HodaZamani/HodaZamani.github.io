@@ -5,7 +5,7 @@ title: Repositories
 nav: true
 nav_order: 4
 ---
-<p align="justify">The algorithm codes have been published across various journals and are available on this page and <a href="https://github.com/HodaZamani/Matlab-Codes">Matlab codes repository</a> for access. Click on the provided links to view the original papers and usage guidelines for the codes. I trust you will find them both helpful and informative.<a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en"> My Google Scholar</a>
+<p align="justify">The algorithm codes have been published across various journals and are available on this page and <a href="https://github.com/HodaZamani/Matlab-Codes">Matlab codes repository</a> for access. Click on the provided links to view the original papers and usage guidelines for the codes.</p><a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en"> My Google Scholar</a>
 
 
 --- 
