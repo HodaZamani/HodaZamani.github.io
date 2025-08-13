@@ -11,6 +11,10 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    image: Top2HodaZamani.png
+    content: TopScientists
+    image_circular: false # crops the image to make it circular
+  - align: right
     image: IEEE.jpg
     content: IEEEAward
     image_circular: false # crops the image to make it circular
