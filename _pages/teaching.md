@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /teaching/
+permalink: /Certificates/
 title: Certificates
 nav: true
 nav_order: 6
