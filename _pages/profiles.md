@@ -27,11 +27,11 @@ profiles:
     content: PHDResearch
     image_circular: false # crops the image to make it circular
   - align: right
-    image: PHDBestStudent.jpeg
+    image: PHDBestStudentF.jpg
     content: PHDstudent
     image_circular: false # crops the image to make it circular
   - align: right
-    image: Master.jpeg
+    image: MasterF.jpg
     content: MasterAward
     image_circular: false # crops the image to make it circular
 ---
