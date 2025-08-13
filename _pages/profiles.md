@@ -23,7 +23,7 @@ profiles:
     content: InnovatorAward
     image_circular: false # crops the image to make it circular
   - align: right
-    image: PhDResearcher.jpg
+    image: PhDResearcherF.jpg
     content: PHDResearch
     image_circular: false # crops the image to make it circular
   - align: right
