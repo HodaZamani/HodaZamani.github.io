@@ -7,28 +7,30 @@ nav: true
 nav_order: 7
 
 profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
   - align: right
     image: IEEE.jpg
-    content: IEEE Award
-    image_circular: false
+    content: IEEEAward
+    image_circular: false # crops the image to make it circular
   - align: right
     image: QANA.png
-    content: QANA Award
-    image_circular: false
+    content: QANAAward.md
+    image_circular: false # crops the image to make it circular
   - align: right
     image: MobilApp.jpeg
-    content: Innovator Award
-    image_circular: false
+    content: InnovatorAward
+    image_circular: false # crops the image to make it circular
   - align: right
     image: PhDResearcher.jpeg
-    content: PhD Research Award
-    image_circular: false
+    content: PHDResearch.md
+    image_circular: false # crops the image to make it circular
   - align: right
     image: PHDBestStudent.jpeg
-    content: PhD Best Student Award
-    image_circular: false
+    content: PHDstudent.md
+    image_circular: false # crops the image to make it circular
   - align: right
     image: Master.jpeg
-    content: Master Award
-    image_circular: false
+    content: MasterAward.md
+    image_circular: false # crops the image to make it circular
 ---
