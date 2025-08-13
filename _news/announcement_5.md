@@ -15,6 +15,8 @@ Highly Cited Papers:
 
 [DMDE: Diversity-maintained multi-trial vector differential evolution algorithm for non-decomposition large-scale global
 optimization](https://www.sciencedirect.com/science/article/abs/pii/S0957417422003359)
+
+[MFO-SFR: An Enhanced Moth-Flame Optimization Algorithm Using an Effective Stagnation Finding and Replacing Strategy](https://www.mdpi.com/2227-7390/11/4/862)
  
 Hot Paper:
 
