@@ -1,24 +1,9 @@
 ---
 layout: post
-title:  Recognized as a Top 2% Scientist by Elsevier and Stanford University, 2024 
+title: Recognized as a Top 2% Scientist by Elsevier and Stanford University in Artificial Intelligence and Image Processing, 2024
 date: 2024-08-13 15:59:00-0400
 inline: false
 related_posts: false
 ---
 
-     
-Highly Cited Papers:
-
- [Starling murmuration optimizer: A novel bio-inspired algorithm for global and engineering optimization](https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330)
- 
-[QANA: Quantum-based avian navigation optimizer algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627)
-
-[DMDE: Diversity-maintained multi-trial vector differential evolution algorithm for non-decomposition large-scale global
-optimization](https://www.sciencedirect.com/science/article/abs/pii/S0957417422003359)
- 
-Hot Paper:
-
-[Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study](https://www.sciencedirect.com/science/article/pii/S0010482522006126)    
-
-
-
+{% include figure.html path="assets/img/HodaZamani.png" title="Top 2% Scientist Recognition" class="img-fluid rounded z-depth-1" zoomable=true %}
