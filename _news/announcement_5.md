@@ -17,8 +17,8 @@ Highly Cited Papers:
 optimization](https://www.sciencedirect.com/science/article/abs/pii/S0957417422003359)
 
 [MFO-SFR: An Enhanced Moth-Flame Optimization Algorithm Using an Effective Stagnation Finding and Replacing Strategy](https://www.mdpi.com/2227-7390/11/4/862)
-![MFO-SFR Certificate Highly Cited Paper 2023–2024](/assets/img/HighlyC.jpg)
-*Certificate for the MFO-SFR publication*
+!<img src="/assets/img/HighlyC.jpg" alt="MFO-SFR Certificate Highly Cited Paper 2023–2024" width="400px">
+*Certificate for the MFO-SFR publication Highly Cited Paper 2023–2024*
  
 Hot Paper:
 
