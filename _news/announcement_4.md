@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Highly Cited and Hot Papers 
-date: 2024-01-10 15:59:00-0400
+title:  Recognized as a Top 2% Scientist by Elsevier and Stanford University, 2024 
+date: 2024-08-13 15:59:00-0400
 inline: false
 related_posts: false
 ---
