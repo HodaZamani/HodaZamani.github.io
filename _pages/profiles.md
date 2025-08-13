@@ -24,14 +24,14 @@ profiles:
     image_circular: false # crops the image to make it circular
   - align: right
     image: PhDResearcher.jpeg
-    content: PHDResearch.md
+    content: PHDResearch
     image_circular: false # crops the image to make it circular
   - align: right
     image: PHDBestStudent.jpeg
-    content: PHDstudent.md
+    content: PHDstudent
     image_circular: false # crops the image to make it circular
   - align: right
     image: Master.jpeg
-    content: MasterAward.md
+    content: MasterAward
     image_circular: false # crops the image to make it circular
 ---
