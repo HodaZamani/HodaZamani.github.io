@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: Gallery
 title: Gallery
 permalink: /gallery/
+nav: true
+nav_order: 8
+toc:
+  sidebar: left
 ---
 
 Welcome to my gallery! 🎨  
