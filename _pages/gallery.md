@@ -8,8 +8,8 @@ toc:
   sidebar: left
 ---
 
-Welcome to my gallery! 🎨  
-Here you can find photos, images, and figures related to my research and projects.
+
+Welcome to my gallery! Here you can explore photos from my honors ceremonies, research activities, and projects..
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
