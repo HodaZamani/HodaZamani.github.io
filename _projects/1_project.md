@@ -41,7 +41,7 @@ related_publications: HodaImputationMethod
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/A013.jpeg" title=" A Low-cost Early Detection Data Model of Type 2 Diabetes" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/A0133.jpeg" title=" A Low-cost Early Detection Data Model of Type 2 Diabetes" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
