@@ -1,6 +1,6 @@
 ---
 layout: page
-<h1 class="page-title">DiaT2</h1>
+title: DiaT2  
 description: An Intelligent Mobile Application for Low-cost Early Detection of Type 2 Diabetes Mellitus
 img: assets/img/Image120.jpg
 importance: 1
