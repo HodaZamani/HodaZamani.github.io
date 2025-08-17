@@ -9,7 +9,9 @@ toc:
 ---
 
 
-Welcome to my gallery! Here you can explore photos from my honors ceremonies, research activities, and projects..
+Welcome to my gallery! 
+
+Here you can explore photos from my honors ceremonies, research activities, and projects..
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
