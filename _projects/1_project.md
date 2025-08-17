@@ -1,14 +1,13 @@
 ---
 layout: page
-title: DiaT2 
+<h1 class="page-title">DiaT2</h1>
 description: An Intelligent Mobile Application for Low-cost Early Detection of Type 2 Diabetes Mellitus
 img: assets/img/Image120.jpg
 importance: 1
 category: work
 related_publications: HodaImputationMethod
 ---
- <h1 class="page-title">DiaT2</h1>
- 
+
     Title of Funded Project: An Intelligent Low-cost Method for Early Detection of Type 2 Diabetes
     Number: A2017A1-240
     Agreement Duration: From 12/05/2017 To 12/05/2019
