@@ -7,6 +7,16 @@ importance: 1
 category: work
 related_publications: HodaImputationMethod
 ---
+
+<!-- Override CSS only for this page -->
+<style>
+.page-title, h1, h2 {
+  text-transform: none !important;
+}
+.page-title::first-letter, h1::first-letter {
+  text-transform: none !important;
+}
+</style>
     
     Title of Funded Project: An Intelligent Low-cost Method for Early Detection of Type 2 Diabetes
     Number: A2017A1-240
