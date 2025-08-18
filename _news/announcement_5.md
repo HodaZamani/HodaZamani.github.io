@@ -23,6 +23,11 @@ optimization](https://www.sciencedirect.com/science/article/abs/pii/S09574174220
 
 [Binary Approaches of Quantum-Based Avian Navigation Optimizer to Select Effective Features from High-Dimensional Medical Data](https://www.mdpi.com/2227-7390/10/15/2770)
 
+[B-MFO: A Binary Moth-Flame Optimization for Feature Selection from Medical Datasets](https://www.mdpi.com/2073-431X/10/11/136)
+
+[GGWO: Gaze cues learning-based grey wolf optimizer and its applications for solving engineering problems](https://www.sciencedirect.com/science/article/abs/pii/S1877750322000588)
+
+
 [MFO-SFR: An Enhanced Moth-Flame Optimization Algorithm Using an Effective Stagnation Finding and Replacing Strategy](https://www.mdpi.com/2227-7390/11/4/862)
 
 <img src="/assets/img/HighlyC.jpg" alt="MFO-SFR Certificate Highly Cited Paper 2023–2024" width="400px">
