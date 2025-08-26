@@ -3,7 +3,7 @@ layout: post
 permalink: /certificates/
 title: Certificates
 nav: true
-nav_order: 9
+nav_order: 6
 ---
 
 <b>My Certificates and Presentations</b>
