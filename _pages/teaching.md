@@ -4,6 +4,7 @@ permalink: /teaching/
 title: Certificates
 nav: true
 nav_order: 6
+published: false
 ---
 
 <b>My Certificates and Presentations</b>
