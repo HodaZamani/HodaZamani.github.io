@@ -4,7 +4,7 @@ permalink: /awards/
 title: Awards
 description: Awards and Honors 
 nav: true
-nav_order: 9
+nav_order: 7
 
 
 profiles:
