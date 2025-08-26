@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profiles
 title: Gallery
 permalink: /gallery/
 nav: true
