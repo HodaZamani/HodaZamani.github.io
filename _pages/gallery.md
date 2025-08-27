@@ -6,6 +6,7 @@ nav: true
 nav_order: 8
 toc:
   sidebar: left
+published: false
 ---
 
 Welcome to my gallery! 
