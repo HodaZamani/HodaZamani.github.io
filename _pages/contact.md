@@ -6,9 +6,6 @@ nav: true
 nav_order: 9
 ---
 
-<hr>
-
-<h3>Contact Me</h3>
 <p>If you would like to get in touch, please fill out the form below:</p>
 
 <form action="https://formspree.io/f/mldwdddn" method="POST">
