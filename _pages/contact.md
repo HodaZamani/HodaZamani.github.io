@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /contact/
-title: Contact Me
+title: Contact
 nav: true
 nav_order: 9
 ---
