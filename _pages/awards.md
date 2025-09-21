@@ -14,14 +14,17 @@ profiles:
     image: Top2025.jpg
     content: TopScientists
     image_circular: false # crops the image to make it circular
+    image_class: "zoom-image"
   - align: right
     image: Top2HodaZamani.png
     content: TopScientists
     image_circular: false # crops the image to make it circular
+    image_class: "zoom-image"
   - align: right
     image: IEEE.jpg
     content: IEEEAward
     image_circular: false # crops the image to make it circular
+    image_class: "zoom-image"
   - align: right
     image: QANA.png
     content: QANAAward.md
@@ -30,10 +33,12 @@ profiles:
     image: MobilAppF.jpg
     content: InnovatorAward
     image_circular: false # crops the image to make it circular
+    image_class: "zoom-image"
   - align: right
     image: PhDResearcherF.jpg
     content: PHDResearch
     image_circular: false # crops the image to make it circular
+    image_class: "zoom-image"
   - align: right
     image: PHDBestStudentF.jpg
     content: PHDstudent
@@ -42,4 +47,5 @@ profiles:
     image: MasterF.jpg
     content: MasterAward
     image_circular: false # crops the image to make it circular
+    image_class: "zoom-image"
 ---
