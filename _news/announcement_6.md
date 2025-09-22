@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-{% include figure.html path="assets/img/HodaZamani.png" title="Top 2% Scientist Recognition" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="assets/img/Top2025.jpg" title="Top 2% Scientist Recognition 2025" class="img-fluid rounded z-depth-1" zoomable=true %}
