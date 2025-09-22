@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-{% include figure.html path="assets/img/Top2025.jpg" title="Recognized in 2025 as a Top 2% Scientist in Artificial Intelligence and Image Processing by Stanford University and Elsevier." class="img-fluid rounded z-depth-1" style="max-width:70%;" zoomable=true %}
+{% include figure.html path="assets/img/Top2025.jpg" title="Recognized in 2025 as a Top 2% Scientist in Artificial Intelligence and Image Processing by Stanford University and Elsevier." class="img-fluid rounded z-depth-1" style="max-width:40%;" zoomable=true %}
