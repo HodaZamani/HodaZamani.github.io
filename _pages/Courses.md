@@ -42,16 +42,12 @@ nav_order: 9
     justify-content: center;
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
-    color: white;
+    color: black;  /* changed text color to black */
     font-size: 0.95rem;
-  }
-
-  .flip-card-front {
-    background-color: #1a3fff; /* blue */
+    background-color: #d3d3d3;  /* grey background */
   }
 
   .flip-card-back {
-    background-color: #0d71ff; /* slightly different blue for back */
     transform: rotateY(180deg);
   }
 </style>
