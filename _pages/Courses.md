@@ -12,13 +12,16 @@ nav_order: 9
   .flip-card {
     background-color: transparent;
     width: 100%;
-    height: 90px;
-    perspective: 1000px; /* 3D perspective */
+    padding-top: 100%; /* makes the card a square */
+    position: relative;
+    perspective: 1000px; 
     margin-bottom: 15px;
   }
 
   .flip-card-inner {
-    position: relative;
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
     text-align: center;
@@ -42,9 +45,9 @@ nav_order: 9
     justify-content: center;
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
-    color: black;  /* changed text color to black */
-    font-size: 0.95rem;
-    background-color: #d3d3d3;  /* grey background */
+    color: black; /* text color */
+    font-size: 1rem;
+    background-color: #0d1b4c; /* dark blue */
   }
 
   .flip-card-back {
