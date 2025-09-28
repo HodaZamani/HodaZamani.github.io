@@ -64,7 +64,7 @@ nav_order: 9
           Operation Systems and its Lab
         </div>
         <div class="flip-card-back">
-          OS Lab Details
+          Operation Systems and its Lab
         </div>
       </div>
     </div>
@@ -77,7 +77,7 @@ nav_order: 9
           Artificial Intelligence
         </div>
         <div class="flip-card-back">
-          AI Course Details
+          Artificial Intelligence
         </div>
       </div>
     </div>
@@ -91,7 +91,7 @@ nav_order: 9
           Machine Learning
         </div>
         <div class="flip-card-back">
-          ML Course Details
+          Machine Learning
         </div>
       </div>
     </div>
@@ -101,10 +101,10 @@ nav_order: 9
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          Python Programming Languages
+          Python Programming Language
         </div>
         <div class="flip-card-back">
-          Python Course Details
+          Python Programming Language
         </div>
       </div>
     </div>
