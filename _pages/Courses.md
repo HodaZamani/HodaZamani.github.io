@@ -12,7 +12,7 @@ nav_order: 9
   .flip-card {
     background-color: transparent;
     width: 100%;
-    padding-top: 50%; /* smaller square */
+    padding-top: 30%; /* smaller square */
     position: relative;
     perspective: 1000px; 
     margin-bottom: 15px;
@@ -46,7 +46,7 @@ nav_order: 9
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     color: white;
-    font-size: 0.85rem; /* smaller font for smaller boxes */
+    font-size: 0.75rem; /* smaller font */
     background-color: #0d1b4c; /* dark blue */
   }
 
