@@ -9,78 +9,103 @@ nav_order: 9
 <b>My Courses</b>
 
 <style>
-  .course-card {
-    height: 90px;                 
+  .flip-card {
+    background-color: transparent;
+    width: 100%;
+    height: 90px;
+    perspective: 1000px; /* 3D perspective */
+    margin-bottom: 15px;
+  }
+
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    cursor: pointer;
+  }
+
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    backface-visibility: hidden;
     display: flex;
-    align-items: center;          
-    justify-content: center;      
-    background-color: #0d1b4c;    
-    color: white;                 
+    align-items: center;
+    justify-content: center;
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
-    font-size: 0.95rem;           
-    border-radius: 10px;          
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
-    position: relative;
-    overflow: hidden;
+    color: white;
+    font-size: 0.95rem;
   }
 
-  /* Motion and glow effect on hover */
-  .course-card::before {
-    content: "";
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: linear-gradient(45deg, #1a3fff, #0d1b4c, #1a3fff);
-    background-size: 400% 400%;
-    filter: blur(20px);
-    opacity: 0;
-    transition: opacity 0.3s ease, transform 0.3s ease;
-    border-radius: inherit;
+  .flip-card-front {
+    background-color: #1a3fff; /* blue */
   }
 
-  .course-card:hover::before {
-    opacity: 0.6;
-    animation: glow 2s linear infinite;
-  }
-
-  @keyframes glow {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-
-  .course-card:hover {
-    transform: scale(1.05);  
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); 
+  .flip-card-back {
+    background-color: #0d71ff; /* slightly different blue for back */
+    transform: rotateY(180deg);
   }
 </style>
 
 <div class="row mt-4">
-  <div class="col-md-6 mb-3">
-    <div class="course-card">
-      Operation Systems and its Lab
+  <div class="col-md-6">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          Operation Systems and its Lab
+        </div>
+        <div class="flip-card-back">
+          OS Lab Details
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="col-md-6 mb-3">
-    <div class="course-card">
-      Artificial Intelligence
+  <div class="col-md-6">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          Artificial Intelligence
+        </div>
+        <div class="flip-card-back">
+          AI Course Details
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="col-md-6 mb-3">
-    <div class="course-card">
-      Machine Learning
+  <div class="col-md-6">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          Machine Learning
+        </div>
+        <div class="flip-card-back">
+          ML Course Details
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="col-md-6 mb-3">
-    <div class="course-card">
-      Python Programming Languages
+  <div class="col-md-6">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          Python Programming Languages
+        </div>
+        <div class="flip-card-back">
+          Python Course Details
+        </div>
+      </div>
     </div>
   </div>
 </div>
