@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /certificates/
-title: Certificates
+title: Courses and Certificates
 nav: true
 nav_order: 6
 ---
