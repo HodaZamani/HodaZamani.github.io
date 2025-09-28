@@ -46,7 +46,7 @@ nav_order: 9
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     color: white;
-    font-size: 1.5rem; /* increased font size */
+    font-size: 1rem; /* reduced font size */
     background-color: #0d1b4c; /* dark blue */
   }
 
