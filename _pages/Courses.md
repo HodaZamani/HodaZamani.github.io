@@ -12,7 +12,7 @@ nav_order: 9
   .flip-card {
     background-color: transparent;
     width: 100%;
-    padding-top: 100%; /* makes the card a square */
+    padding-top: 60%; /* smaller square ratio */
     position: relative;
     perspective: 1000px; 
     margin-bottom: 15px;
@@ -45,8 +45,8 @@ nav_order: 9
     justify-content: center;
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
-    color: black; /* text color */
-    font-size: 1rem;
+    color: white; /* font color corrected to white */
+    font-size: 0.9rem; /* smaller font for smaller boxes */
     background-color: #0d1b4c; /* dark blue */
   }
 
@@ -56,7 +56,7 @@ nav_order: 9
 </style>
 
 <div class="row mt-4">
-  <div class="col-md-6">
+  <div class="col-md-6 col-lg-3">
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -69,7 +69,7 @@ nav_order: 9
     </div>
   </div>
 
-  <div class="col-md-6">
+  <div class="col-md-6 col-lg-3">
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -82,7 +82,7 @@ nav_order: 9
     </div>
   </div>
 
-  <div class="col-md-6">
+  <div class="col-md-6 col-lg-3">
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -95,7 +95,7 @@ nav_order: 9
     </div>
   </div>
 
-  <div class="col-md-6">
+  <div class="col-md-6 col-lg-3">
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
