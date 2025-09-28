@@ -10,25 +10,24 @@ nav_order: 9
 
 <style>
   .course-card {
-    height: 180px;                
+    height: 120px;                
     display: flex;
     align-items: center;          
     justify-content: center;      
-    background-color: #0d1b4c;    
+    background-color: #0d1b4c;    /* dark blue */
     color: white;                 
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
-    font-size: 1.2rem;
-    border-radius: 15px;
+    font-size: 1rem;              
+    border-radius: 12px;          
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
   }
 
-  /* Motion effect on hover */
+  /* Motion effect on hover (no color change) */
   .course-card:hover {
-    transform: scale(1.05);  /* slight zoom */
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3); /* glowing shadow */
-    background-color: #152c70; /* lighter dark blue */
+    transform: scale(1.05);  
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.25); 
   }
 </style>
 
