@@ -10,16 +10,25 @@ nav_order: 9
 
 <style>
   .course-card {
-    height: 180px;                /* fixed equal height */
+    height: 180px;                
     display: flex;
-    align-items: center;          /* vertical centering */
-    justify-content: center;      /* horizontal centering */
-    background-color: #0d1b4c;    /* dark blue */
-    color: white;                 /* text color */
+    align-items: center;          
+    justify-content: center;      
+    background-color: #0d1b4c;    
+    color: white;                 
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     font-size: 1.2rem;
     border-radius: 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+  }
+
+  /* Motion effect on hover */
+  .course-card:hover {
+    transform: scale(1.05);  /* slight zoom */
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3); /* glowing shadow */
+    background-color: #152c70; /* lighter dark blue */
   }
 </style>
 
@@ -36,16 +45,15 @@ nav_order: 9
     </div>
   </div>
 
-
   <div class="col-md-6 mb-4">
     <div class="course-card">
       Machine Learning
     </div>
   </div>
-</div>
 
-<div class="col-md-6 mb-4">
-  <div class="course-card">
-     Python Programming Languages
+  <div class="col-md-6 mb-4">
+    <div class="course-card">
+      Python Programming Languages
+    </div>
   </div>
 </div>
