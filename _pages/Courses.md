@@ -10,42 +10,40 @@ nav_order: 9
 
 <style>
   .course-card {
-    height: 180px;          /* fixed equal height */
+    height: 180px;                /* fixed equal height */
     display: flex;
-    align-items: center;    /* vertical centering */
-    justify-content: center;/* horizontal centering */
-    color: white;           /* text color */
+    align-items: center;          /* vertical centering */
+    justify-content: center;      /* horizontal centering */
+    background-color: #0d1b4c;    /* dark blue */
+    color: white;                 /* text color */
+    font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     font-size: 1.2rem;
     border-radius: 15px;
   }
-  .os { background-color: #4e73df; }   /* blue */
-  .ai { background-color: #1cc88a; }   /* green */
-  .python { background-color: #f6c23e; } /* yellow/orange */
-  .ml { background-color: #e74a3b; }   /* red */
 </style>
 
 <div class="row mt-4">
   <div class="col-md-6 mb-4">
-    <div class="course-card os">
+    <div class="course-card">
       Operation Systems and its Lab
     </div>
   </div>
 
   <div class="col-md-6 mb-4">
-    <div class="course-card ai">
+    <div class="course-card">
       Artificial Intelligence
     </div>
   </div>
 
   <div class="col-md-6 mb-4">
-    <div class="course-card python">
+    <div class="course-card">
       Python Programming Languages
     </div>
   </div>
 
   <div class="col-md-6 mb-4">
-    <div class="course-card ml">
+    <div class="course-card">
       Machine Learning
     </div>
   </div>
