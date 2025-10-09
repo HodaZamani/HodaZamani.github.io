@@ -109,4 +109,31 @@ nav_order: 9
       </div>
     </div>
   </div>
+
+  <!-- Third row -->
+  <div class="col-md-6 col-sm-6 mb-3">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          Quantum Computing
+        </div>
+        <div class="flip-card-back">
+          Quantum Computing
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-6 col-sm-6 mb-3">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          Optimization and Bio-Inspired Algorithms
+        </div>
+        <div class="flip-card-back">
+          Optimization and Bio-Inspired Algorithms
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
