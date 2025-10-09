@@ -88,10 +88,10 @@ nav_order: 9
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          Machine Learning
+          Machine Learning and Neuroimaging
         </div>
         <div class="flip-card-back">
-          Machine Learning
+          Machine Learning and Neuroimaging
         </div>
       </div>
     </div>
