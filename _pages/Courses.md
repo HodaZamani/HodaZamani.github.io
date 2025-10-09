@@ -101,10 +101,10 @@ nav_order: 9
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          Python programming language and its libraries
+          Python Programming Language and its Libraries
         </div>
         <div class="flip-card-back">
-          Python programming language and its libraries
+          Python Programming Language and its Libraries
         </div>
       </div>
     </div>
