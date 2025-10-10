@@ -1,3 +1,13 @@
+--- 
+layout: post
+permalink: /Courses/
+title: Courses
+nav: true
+nav_order: 9
+---
+
+<b>My Courses</b>
+
 <style>
   .flip-card {
     background-color: transparent;
@@ -24,17 +34,18 @@
     transform: rotateY(180deg);
   }
 
-  /* Front sides */
-  .flip-card-front {
-    background-color: #0d1b4c; /* default dark blue */
+  /* Front side — odd boxes: dark green, even boxes: dark blue */
+  .row .col-md-6:nth-child(odd) .flip-card-front {
+    background-color: #006400; /* dark green */
     color: white;
   }
 
-  .green-card .flip-card-front {
-    background-color: #006400; /* dark green */
+  .row .col-md-6:nth-child(even) .flip-card-front {
+    background-color: #0d1b4c; /* dark blue */
+    color: white;
   }
 
-  /* Back side — orange */
+  /* Back side — orange for all */
   .flip-card-back {
     background-color: #ff8c00;
     color: white;
@@ -58,41 +69,53 @@
 </style>
 
 <div class="row mt-4">
-  <!-- Box 1 — green -->
-  <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card green-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">Operation Systems and its Lab</div>
-        <div class="flip-card-back">Operation Systems and its Lab</div>
-      </div>
-    </div>
-  </div>
-
-  <!-- Box 2 — blue -->
+  <!-- First row -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Artificial Intelligence</div>
-        <div class="flip-card-back">Artificial Intelligence</div>
+        <div class="flip-card-front">
+          Operation Systems and its Lab
+        </div>
+        <div class="flip-card-back">
+          Operation Systems and its Lab
+        </div>
       </div>
     </div>
   </div>
 
-  <!-- Box 3 — blue -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Machine Learning and Deep Learning Architectures</div>
-        <div class="flip-card-back">Neuroimaging Data Processing and Analysis with Python</div>
+        <div class="flip-card-front">
+          Artificial Intelligence
+        </div>
+        <div class="flip-card-back">
+          Artificial Intelligence
+        </div>
       </div>
     </div>
   </div>
 
-  <!-- Box 4 — green -->
+  <!-- Second row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card green-card">
+    <div class="flip-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Python Programming Language and its Libraries</div>
+        <div class="flip-card-front">
+          Machine Learning and Deep Learning Architectures
+        </div>
+        <div class="flip-card-back">
+          Neuroimaging Data Processing and Analysis with Python
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-6 col-sm-6 mb-3">
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          Python Programming Language and its Libraries
+        </div>
         <div class="flip-card-back">
           TensorFlow, Keras, PyTorch, OpenCV, scikit-image, MediaPipe, Biopython, and PyTorch Geometric
         </div>
@@ -100,22 +123,29 @@
     </div>
   </div>
 
-  <!-- Box 5 — green -->
+  <!-- Third row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card green-card">
+    <div class="flip-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Quantum Computing and Artificial Intelligence</div>
-        <div class="flip-card-back">Quantum Computing and Machine Learning</div>
+        <div class="flip-card-front">
+          Quantum Computing and Artificial Intelligence
+        </div>
+        <div class="flip-card-back">
+          Quantum Computing and Machine Learning
+        </div>
       </div>
     </div>
   </div>
 
-  <!-- Box 6 — blue -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Optimization and Bio-Inspired Algorithms</div>
-        <div class="flip-card-back">Implementation with MATLAB Programming Language</div>
+        <div class="flip-card-front">
+          Optimization and Bio-Inspired Algorithms
+        </div>
+        <div class="flip-card-back">
+          Implementation with MATLAB Programming Language
+        </div>
       </div>
     </div>
   </div>
