@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 permalink: /Courses/
 title: Courses
@@ -34,7 +34,7 @@ nav_order: 9
     transform: rotateY(180deg);
   }
 
-  /* Front side — odd boxes: dark green, even boxes: dark blue */
+  /* Default front side — odd boxes: dark green, even boxes: dark blue */
   .row .col-md-6:nth-child(odd) .flip-card-front {
     background-color: #006400; /* dark green */
     color: white;
@@ -42,6 +42,13 @@ nav_order: 9
 
   .row .col-md-6:nth-child(even) .flip-card-front {
     background-color: #0d1b4c; /* dark blue */
+    color: white;
+  }
+
+  /* Second row (3rd and 4th boxes) — dark red */
+  .row .col-md-6:nth-child(3) .flip-card-front,
+  .row .col-md-6:nth-child(4) .flip-card-front {
+    background-color: #8B0000; /* dark red */
     color: white;
   }
 
@@ -96,7 +103,7 @@ nav_order: 9
     </div>
   </div>
 
-  <!-- Second row -->
+  <!-- Second row (dark red) -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
