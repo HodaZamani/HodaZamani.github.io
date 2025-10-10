@@ -54,7 +54,7 @@ nav_order: 9
     transform: rotateY(180deg);
   }
 
-  /* 🔶 Add this class for orange cards */
+  /* 🔶 Orange card style */
   .orange-card .flip-card-front,
   .orange-card .flip-card-back {
     background-color: #ff8c00; /* orange */
@@ -64,7 +64,7 @@ nav_order: 9
 <div class="row mt-4">
   <!-- First row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card orange-card">
+    <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
           Operation Systems and its Lab
@@ -91,6 +91,7 @@ nav_order: 9
 
   <!-- Second row -->
   <div class="col-md-6 col-sm-6 mb-3">
+    <!-- 🔶 This one is orange -->
     <div class="flip-card orange-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -118,7 +119,7 @@ nav_order: 9
 
   <!-- Third row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card orange-card">
+    <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
           Quantum Computing and Artificial Intelligence
