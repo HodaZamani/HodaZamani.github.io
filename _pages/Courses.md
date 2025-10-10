@@ -34,6 +34,20 @@ nav_order: 9
     transform: rotateY(180deg);
   }
 
+  /* Front side — dark blue */
+  .flip-card-front {
+    background-color: #0d1b4c;
+    color: white;
+  }
+
+  /* Back side — orange */
+  .flip-card-back {
+    background-color: #ff8c00;
+    color: white;
+    transform: rotateY(180deg);
+  }
+
+  /* Shared styles */
   .flip-card-front, .flip-card-back {
     position: absolute;
     width: 100%;
@@ -45,19 +59,7 @@ nav_order: 9
     justify-content: center;
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
-    color: white;
-    font-size: 1rem; /* reduced font size */
-    background-color: #0d1b4c; /* dark blue */
-  }
-
-  .flip-card-back {
-    transform: rotateY(180deg);
-  }
-
-  /* 🔶 Orange card style */
-  .orange-card .flip-card-front,
-  .orange-card .flip-card-back {
-    background-color: #ff8c00; /* orange */
+    font-size: 1rem;
   }
 </style>
 
@@ -91,8 +93,7 @@ nav_order: 9
 
   <!-- Second row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <!-- 🔶 This one is orange -->
-    <div class="flip-card orange-card">
+    <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
           Machine Learning and Deep Learning Architectures
