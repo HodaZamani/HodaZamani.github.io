@@ -14,7 +14,7 @@ nav_order: 9
     width: 100%;
     padding-top: 30%;
     position: relative;
-    perspective: 1000px;
+    perspective: 1000px; 
     margin-bottom: 15px;
   }
 
@@ -25,24 +25,34 @@ nav_order: 9
     width: 100%;
     height: 100%;
     text-align: center;
+    transition: transform 0.6s;
     transform-style: preserve-3d;
-    animation: flipAnimation 6s infinite; /* 🔁 auto flip every 6s */
+    cursor: pointer;
   }
 
-  /* Front side (blue) */
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+
+  /* Front side — default dark blue */
   .flip-card-front {
     background-color: #0d1b4c;
     color: white;
   }
 
-  /* Back side (orange) */
+  /* Back side — orange */
   .flip-card-back {
     background-color: #ff8c00;
     color: white;
     transform: rotateY(180deg);
   }
 
-  /* Shared card styles */
+  /* Front side — dark green variant */
+  .green-card .flip-card-front {
+    background-color: #006400; /* dark green */
+  }
+
+  /* Shared styles */
   .flip-card-front, .flip-card-back {
     position: absolute;
     width: 100%;
@@ -56,28 +66,19 @@ nav_order: 9
     font-weight: bold;
     font-size: 1rem;
   }
-
-  /* 🔄 Animation keyframes */
-  @keyframes flipAnimation {
-    0%, 40% {
-      transform: rotateY(0deg);
-    }
-    50%, 90% {
-      transform: rotateY(180deg);
-    }
-    100% {
-      transform: rotateY(0deg);
-    }
-  }
 </style>
 
 <div class="row mt-4">
   <!-- First row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
+    <div class="flip-card green-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Operation Systems and its Lab</div>
-        <div class="flip-card-back">Operation Systems and its Lab</div>
+        <div class="flip-card-front">
+          Operation Systems and its Lab
+        </div>
+        <div class="flip-card-back">
+          Operation Systems and its Lab
+        </div>
       </div>
     </div>
   </div>
@@ -85,18 +86,26 @@ nav_order: 9
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Artificial Intelligence</div>
-        <div class="flip-card-back">Artificial Intelligence</div>
+        <div class="flip-card-front">
+          Artificial Intelligence
+        </div>
+        <div class="flip-card-back">
+          Artificial Intelligence
+        </div>
       </div>
     </div>
   </div>
 
   <!-- Second row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
+    <div class="flip-card green-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Machine Learning and Deep Learning Architectures</div>
-        <div class="flip-card-back">Neuroimaging Data Processing and Analysis with Python</div>
+        <div class="flip-card-front">
+          Machine Learning and Deep Learning Architectures
+        </div>
+        <div class="flip-card-back">
+          Neuroimaging Data Processing and Analysis with Python
+        </div>
       </div>
     </div>
   </div>
@@ -104,9 +113,11 @@ nav_order: 9
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Python Programming Language and its Libraries</div>
+        <div class="flip-card-front">
+          Python Programming Language and its Libraries
+        </div>
         <div class="flip-card-back">
-          TensorFlow, Keras, PyTorch, OpenCV, scikit-image, MediaPipe, Biopython, PyTorch Geometric
+          TensorFlow, Keras, PyTorch, OpenCV, scikit-image, MediaPipe, Biopython, and PyTorch Geometric
         </div>
       </div>
     </div>
@@ -114,10 +125,14 @@ nav_order: 9
 
   <!-- Third row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
+    <div class="flip-card green-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Quantum Computing and Artificial Intelligence</div>
-        <div class="flip-card-back">Quantum Computing and Machine Learning</div>
+        <div class="flip-card-front">
+          Quantum Computing and Artificial Intelligence
+        </div>
+        <div class="flip-card-back">
+          Quantum Computing and Machine Learning
+        </div>
       </div>
     </div>
   </div>
@@ -125,8 +140,12 @@ nav_order: 9
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front">Optimization and Bio-Inspired Algorithms</div>
-        <div class="flip-card-back">Implementation with MATLAB Programming Language</div>
+        <div class="flip-card-front">
+          Optimization and Bio-Inspired Algorithms
+        </div>
+        <div class="flip-card-back">
+          Implementation with MATLAB Programming Language
+        </div>
       </div>
     </div>
   </div>
