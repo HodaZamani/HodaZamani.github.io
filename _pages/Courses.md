@@ -144,7 +144,7 @@ nav_order: 9
           Optimization and Bio-Inspired Algorithms
         </div>
         <div class="flip-card-back">
-          Implementation with MATLAB Programming Language
+          Implementation Algorithms with MATLAB Programming Language
         </div>
       </div>
     </div>
