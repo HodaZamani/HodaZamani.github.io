@@ -34,22 +34,22 @@ nav_order: 9
     transform: rotateY(180deg);
   }
 
-  /* Front side — default dark blue */
-  .flip-card-front {
-    background-color: #0d1b4c;
+  /* Front side — odd boxes: dark green, even boxes: dark blue */
+  .row .col-md-6:nth-child(odd) .flip-card-front {
+    background-color: #006400; /* dark green */
     color: white;
   }
 
-  /* Back side — orange */
+  .row .col-md-6:nth-child(even) .flip-card-front {
+    background-color: #0d1b4c; /* dark blue */
+    color: white;
+  }
+
+  /* Back side — orange for all */
   .flip-card-back {
     background-color: #ff8c00;
     color: white;
     transform: rotateY(180deg);
-  }
-
-  /* Front side — dark green variant */
-  .green-card .flip-card-front {
-    background-color: #006400; /* dark green */
   }
 
   /* Shared styles */
@@ -71,7 +71,7 @@ nav_order: 9
 <div class="row mt-4">
   <!-- First row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card green-card">
+    <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
           Operation Systems and its Lab
@@ -98,7 +98,7 @@ nav_order: 9
 
   <!-- Second row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card green-card">
+    <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
           Machine Learning and Deep Learning Architectures
@@ -125,7 +125,7 @@ nav_order: 9
 
   <!-- Third row -->
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card green-card">
+    <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
           Quantum Computing and Artificial Intelligence
