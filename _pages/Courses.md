@@ -88,10 +88,10 @@ nav_order: 9
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          Machine Learning and Neuroimaging Analysis
+          Machine Learning and Deep Learning Architectures
         </div>
         <div class="flip-card-back">
-          Machine Learning and Neuroimaging Analysis
+          Neuroimaging Data Processing and Analysis with Python
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@ nav_order: 9
           Python Programming Language and its Libraries
         </div>
         <div class="flip-card-back">
-          Python Programming Language and its Libraries
+          TensorFlow, Keras, PyTorch, OpenCV, scikit-image, MediaPipe, Biopython, and PyTorch Geometric
         </div>
       </div>
     </div>
