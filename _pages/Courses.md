@@ -115,10 +115,10 @@ nav_order: 9
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          Quantum Computing
+          Quantum Computing and Artificial Intelligence
         </div>
         <div class="flip-card-back">
-          Quantum Computing
+          Quantum Computing and Machine Learning
         </div>
       </div>
     </div>
