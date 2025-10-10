@@ -34,13 +34,9 @@ nav_order: 9
     transform: rotateY(180deg);
   }
 
-  /* Default front side — odd boxes: dark green, even boxes: dark blue */
-  .row .col-md-6:nth-child(odd) .flip-card-front {
-    background-color: #006400; /* dark green */
-    color: white;
-  }
-
-  .row .col-md-6:nth-child(even) .flip-card-front {
+  /* First row (1st and 2nd boxes) — dark blue */
+  .row .col-md-6:nth-child(1) .flip-card-front,
+  .row .col-md-6:nth-child(2) .flip-card-front {
     background-color: #0d1b4c; /* dark blue */
     color: white;
   }
@@ -49,6 +45,13 @@ nav_order: 9
   .row .col-md-6:nth-child(3) .flip-card-front,
   .row .col-md-6:nth-child(4) .flip-card-front {
     background-color: #8B0000; /* dark red */
+    color: white;
+  }
+
+  /* Third row (5th and 6th boxes) — dark green */
+  .row .col-md-6:nth-child(5) .flip-card-front,
+  .row .col-md-6:nth-child(6) .flip-card-front {
+    background-color: #006400; /* dark green */
     color: white;
   }
 
@@ -76,7 +79,7 @@ nav_order: 9
 </style>
 
 <div class="row mt-4">
-  <!-- First row -->
+  <!-- First row (dark blue) -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -130,7 +133,7 @@ nav_order: 9
     </div>
   </div>
 
-  <!-- Third row -->
+  <!-- Third row (dark green) -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
