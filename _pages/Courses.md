@@ -34,30 +34,15 @@ nav_order: 9
     transform: rotateY(180deg);
   }
 
-  /* First row (1st and 2nd boxes) — dark blue */
-  .row .col-md-6:nth-child(1) .flip-card-front,
-  .row .col-md-6:nth-child(2) .flip-card-front {
+  /* Front side — dark blue */
+  .flip-card-front {
     background-color: #0d1b4c; /* dark blue */
     color: white;
   }
 
-  /* Second row (3rd and 4th boxes) — dark red */
-  .row .col-md-6:nth-child(3) .flip-card-front,
-  .row .col-md-6:nth-child(4) .flip-card-front {
-    background-color: #8B0000; /* dark red */
-    color: white;
-  }
-
-  /* Third row (5th and 6th boxes) — dark green */
-  .row .col-md-6:nth-child(5) .flip-card-front,
-  .row .col-md-6:nth-child(6) .flip-card-front {
-    background-color: #006400; /* dark green */
-    color: white;
-  }
-
-  /* Back side — orange for all */
+  /* Back side — dark red */
   .flip-card-back {
-    background-color: #ff8c00;
+    background-color: #8B0000; /* dark red */
     color: white;
     transform: rotateY(180deg);
   }
@@ -79,7 +64,8 @@ nav_order: 9
 </style>
 
 <div class="row mt-4">
-  <!-- First row (dark blue) -->
+
+  <!-- 1 -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -93,6 +79,7 @@ nav_order: 9
     </div>
   </div>
 
+  <!-- 2 -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -106,7 +93,7 @@ nav_order: 9
     </div>
   </div>
 
-  <!-- Second row (dark red) -->
+  <!-- 3 -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -120,6 +107,7 @@ nav_order: 9
     </div>
   </div>
 
+  <!-- 4 -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -133,7 +121,7 @@ nav_order: 9
     </div>
   </div>
 
-  <!-- Third row (dark green) -->
+  <!-- 5 -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -147,6 +135,7 @@ nav_order: 9
     </div>
   </div>
 
+  <!-- 6 -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -159,4 +148,5 @@ nav_order: 9
       </div>
     </div>
   </div>
+
 </div>
