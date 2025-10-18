@@ -5,7 +5,6 @@
       value: Hoda Zamani PhD in Artificial Intelligence and Robotics
     - name: Languages
       value: Persian, English
-
 - title: Education
   type: time_table
   contents:
@@ -13,18 +12,17 @@
       institution: IAU Najafabad Branch
       year: 2015
       description:
-        - Low-cost Method for Predicting Diabetes Type II by Applying Feature Selection
-        - Supervisor <a href="https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en">Dr. Mohammad H. Nadimi-Shahraki</a>
+        - Low-cost Method for Predicting Diabetes Type II by Applying Feature Selection 
+        - Supervisor <a href="https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en">Dr. Mohammad H. Nadimi-Shahraki</a>        
         - GPA 4/4
     - title: PhD
       institution: IAU Najafabad Branch
       year: 2020
       description:
         - Effective Meta-heuristic Algorithms based on Birds' Behavior for Solving Large-Scale Global Optimization Problems
-        - Supervisor <a href="https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en">Dr. Mohammad H. Nadimi-Shahraki</a>
-        - Advisor <a href="https://scholar.google.com/citations?user=VMf3wfMAAAAJ&hl=en">Dr. Amir H. Gandomi</a>
+        - Supervisor <a href="https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en">Dr. Mohammad H. Nadimi-Shahraki</a>   
+        - Advisor <a href="https://scholar.google.com/citations?user=VMf3wfMAAAAJ&hl=en">Dr. Amir H. Gandomi</a>   
         - GPA 4/4
-
 - title: Experience
   type: time_table
   contents:
@@ -36,49 +34,47 @@
         - Collaborating on Activities and Projects at the Big Data Research Center
         - Leading an Innovation Project for the International Festival
         - Achieving the Best International Innovator Award
-    - title: Lecturer at the University
+    - title: Lecturer at the university 
       institution: Somayeh University, Najafabad, Isfahan, Iran
       year: 2017-2019
       description:
         - Operating System Concepts
-        - Operating System Lab
-    - title: Lecturer at the University
+        - Operating System Lab 
+    - title: Lecturer at the University 
       institution: Najafabad Institute of Higher Education, Isfahan, Iran
       year: 2018
       description:
         - C and C++ programming language
-        - Python programming language
-
+        - Python programming language 
 - title: Skills
   type: list
   contents:
     - Mathematics and statistics
-    - Programming languages including Python, R, Matlab, and C++
+    - Programming languages including Python, R, Matlab, and C++  
     - Data analysis, machine learning, and artificial intelligence libraries include NumPy, pandas, scikit-learn, TensorFlow, PyTorch, and Keras
     - Data structures and algorithms
     - Data analysis and visualization
-    - Machine learning and artificial intelligence concepts and techniques</a>
-
+    - Machine learning and artificial intelligence concepts and techniques
+    
 - title: <a href="https://hodazamani.github.io/teaching/">Certificates</a>
   type: list
   contents:
     - MATLAB programming language from Stanford
-    - <a href="https://www.coursera.org/account/accomplishments/verify/TX2ABAM42Q5B/">Data Analysis with Python</a>
-    - <a href="https://www.coursera.org/account/accomplishments/verify/7FMQNXDEHSY9">Machine Learning with Python</a>
+    - <a href="https://www.coursera.org/account/accomplishments/verify/TX2ABAM42Q5B/">Data Analysis w ith Python</a>
+    - <a href="https://www.coursera.org/account/accomplishments/verify/7FMQNXDEHSY9">Machine Learning w ith Python</a>
     - <a href="https://coursera.org/verify/specialization/K7NP2LERGS38">Deep Learning</a>
     - <a href="https://www.coursera.org/account/accomplishments/verify/P6HKBBTVVQWD/">Convolutional Neural Networks</a>
     - <a href="https://www.coursera.org/account/accomplishments/verify/75QLMGGST7BR">Neural Networks and Deep Learning</a>
-    - <a href="https://www.coursera.org/account/accomplishments/verify/HLM2V45NPQLD/">Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</a>
+    - <a href="https://www.coursera.org/account/accomplishments/verify/HLM2V45NPQLD/">Improving Deep Neural Networks:Hyperparameter Tuning, Regularization and Optimization</a>
     - <a href="https://coursera.org/verify/7N6FYTQPM2EZ">Structuring Machine Learning Projects</a>
     - <a href="https://coursera.org/verify/EV5Y6D5FA9YQ">Sequence Models</a>
     - <a href="https://www.coursera.org/account/accomplishments/verify/HVXGRU4EVBFQ">Advanced Learning Algorithms</a>
-    - <a href="https://coursera.org/verify/P8RNDUHS2N5C">Supervised Machine Learning: Regression and Classification</a>
-
+    - <a href="https://coursera.org/verify/P8RNDUHS2N5C">Supervised Machine Learning:Regression and Classification</a>
+    
 - title: Voluntary Activities
   type: list
   contents:
-    - Peer reviewer for scientific journals from Elsevier, Springer, and MDPI</a>
-
+    - Peer reviewer for scientific journals from Elsevier, Springer, and MDPI 
 - title: Open Source Projects
   type: time_table
   contents:
@@ -87,53 +83,52 @@
       description: Low-cost Detection of Type 2 Diabetes
     - title: <a href="https://hodazamani.github.io/projects/2_project">Pharmacy Mobile App</a>
       year: 2019-2020
-      description: My Family Pharmacy Mobile App
-
+      description: My Family Pharmacy Mobile App      
+      
 - title: <a href="https://hodazamani.github.io/people/">Honors and Awards</a>
   type: time_table
   contents:
     - year: 2016
-      items:
+      items: 
         - Best researcher award for Master's Degree
     - year: 2018
-      items:
+      items: 
         - Best PhD student award
     - year: 2019
-      items:
-        - Best National Innovator Award winner
+      items: 
+        - Best National Innovator Award winner 
     - year: 2022
-      items:
+      items: 
         - Outstanding Ph.D. Thesis Award at the 13th IEEE Iran Section Awards Ceremony
     - year: 2023
-      items:
-        - Best PhD researcher award
-        - Best theory paper over three years (2020-2022) from Elsevier
+      items: 
+        - Best PhD researcher award 
+        - Best theory paper over three years (2020-2022) from Elsever
     - year: 2024
-      items:
+      items: 
         - Recognized as a Top 2% Scientist by Elsevier and Stanford University in Artificial Intelligence and Image Processing, 2024
         - First Ph.D. graduate, Faculty of Computer Science, IAUN University; recognized among the Top 2% Scientists Worldwide in Artificial Intelligence and Image Processing
     - year: 2025
-      items:
-        - Recognized as a Top 2% Scientist by Elsevier and Stanford University in Artificial Intelligence and Image Processing, 2025
-
+      items: 
+        - Recognized as a Top 2% Scientist by Elsevier and Stanford University in Artificial Intelligence and Image Processing, 2025         
+         
 - title: Professional Associations and Membership
   type: list
   contents:
     - Senior researcher in Big Data Research Center from 2018 to present
-    - Member of IEEE
+    - Member of IEEE  
     - Member of the International Association of Engineers
-    - <a href="https://usern.tums.ac.ir/">Member of Universal Scientific Education and Research Network</a>
-    - <a href="https://usern.tums.ac.ir/Group/Info/IBDAM">Member and managing director of the Intelligent Big Data Analysis in Medicine group</a>
-
+    - <a href="https://usern.tums.ac.ir/">Member of Universal Scientific Education and Research Network</a>   
+    - <a href="https://usern.tums.ac.ir/Group/Info/IBDAM">Member and managing director of the Intelligent Big Data Analysis in Medicine group</a>    
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Data analysis
-      items:
+      items: 
         - Developing new methods and tools for data collection, cleaning, integration, and visualization
-        - Applying statistical techniques to analyze different data types, such as numerical, categorical, image, textual, spatial, temporal, and network data
-        - Discovering and validating causal relationships, hypotheses, and models from data
-        - Evaluating the quality, reliability, and reproducibility of data analysis results
+        -  Applying statistical techniques to analyze different data types, such as numerical, categorical, image, textual, spatial, temporal, and network data
+        -  Discovering and validating causal relationships, hypotheses, and models from data
+        -  Evaluating the quality, reliability, and reproducibility of data analysis results
     - title: Machine learning algorithms
       items:
         - Developing new algorithms and models that can handle complex, high-dimensional, and noisy data
@@ -143,7 +138,7 @@
       items:
         - Developing new algorithms and models that can handle the complexity, uncertainty, and scalability of large-scale optimization problems
         - Exploring the theoretical properties and guarantees of large-scale optimization methods, such as convergence, robustness, and efficiency
-        - Applying large-scale optimization techniques to solve challenging problems in various domains, such as artificial intelligence, energy, transportation, and health</a>
+        - Applying large-scale optimization techniques to solve challenging problems in various domains, such as artificial intelligence, energy, transportation, and health
 
 - title: <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">Publications</a>
   type: list
@@ -151,11 +146,11 @@
    - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197621001627">QANA:Quantum-based avian navigation optimizer algorithm</a> 
    - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782522000330">Starling murmuration optimizer:A novel bio-inspired algorithm for global and engineering optimization</a> 
    - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417422003359">DMDE:Diversity-maintained multi-trial vector differential evolution algorithm for non-decomposition large-scale global optimization</a> 
-   - <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">List of other publications</a>
-
+   - <a href="https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en">List of other publications</a> 
+   
 - title: Recommenders
   type: list
   contents:
-    - <a href="https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en">Professor Mohammad H. Nadimi-Shahraki</a>
-    - <a href="https://scholar.google.com/citations?user=VMf3wfMAAAAJ&hl=en">Professor Amir H. Gandomi</a>
+    - <a href="https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en">Professor Mohammad H. Nadimi-Shahraki</a>   
+    - <a href="https://scholar.google.com/citations?user=VMf3wfMAAAAJ&hl=en">Professor Amir H. Gandomi</a>   
     - <a href="https://scholar.google.com/citations?user=TJHmrREAAAAJ&hl=en">Professor Seyedali Mirjalili</a>
