@@ -27,6 +27,6 @@ I have received several distinctions, including the Best Theory Paper Award from
 <p align="justify">
 <strong>Program Committee Member</strong>, 
 <a href="https://www.micad.org/committee.html" target="_blank">
-<em>Medical Imaging and Computer-Aided Diagnosis (MICAD) Conference Series</em>
+<em>Medical Imaging and Computer-Aided Diagnosis (MICAD) Conference Series</em>, Edinburgh, UK
 </a>
 </p>
