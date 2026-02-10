@@ -24,7 +24,6 @@ social: true  # includes social icons at the bottom of the page
 I have received numerous distinctions, including the best quantum theory paper award (IFAC & Elsevier, for three consecutive years), the IEEE outstanding Ph.D. thesis award, and the best innovator award at the invention festival. I was also recognized as the top student and researcher at my university, graduating as the first-ranked Ph.D. student in my faculty. I serve as a volunteer reviewer for Elsevier, Springer, and other major scientific publishers. My current research interests include <strong>optimization, quantum computing, and advanced deep learning architectures, with a strong focus on medical diagnosis, and neurological disorders</strong>.</p>
 
 <h3>Conference Service</h3>
-
 <p align="justify">
-<strong>Program Committee Member</strong>, <em>Medical Imaging and Computer-Aided Diagnosis (MICAD) Conference Series</em> (<a href="https://www.micad.org/committee.html" target="_blank">MICAD Committee</a>)
+<strong>Program Committee Member</strong>, <em>Medical Imaging and Computer-Aided Diagnosis Conference Series</em> (<a href="https://www.micad.org/committee.html" target="_blank">MICAD</a>)
 </p>
