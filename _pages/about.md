@@ -25,5 +25,8 @@ I have received numerous distinctions, including the best quantum theory paper a
 
 <h3>Conference Service</h3>
 <p align="justify">
-<strong>Program Committee Member</strong>, <em>Medical Imaging and Computer-Aided Diagnosis Conference Series</em> (<a href="https://www.micad.org/committee.html" target="_blank">MICAD</a>)
+<strong>Program Committee Member</strong>, 
+<a href="https://www.micad.org/committee.html" target="_blank">
+<em>Medical Imaging and Computer-Aided Diagnosis (MICAD) Conference Series</em>
+</a>
 </p>
