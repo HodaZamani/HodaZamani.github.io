@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 
-  <!-- Head -->
-  <head>
+<head>
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
   {% include head.html %}
-  </head>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/favicon-32x32.png" />
+</head>
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
