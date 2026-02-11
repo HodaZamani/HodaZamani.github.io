@@ -6,9 +6,7 @@ nav: true
 nav_order: 4
 ---
 <p align="justify">
-All algorithm codes from my published research can be accessed here and via my 
-<a href="https://github.com/HodaZamani/Matlab-Codes">Matlab Codes Repository</a>. 
-These resources include the original papers and guidelines for applying the codes.
+All algorithm codes from my published research can be accessed here. 
 </p>
 
 
