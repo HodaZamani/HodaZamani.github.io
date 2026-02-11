@@ -43,7 +43,7 @@ profiles:
     content: PHDstudent
     image_circular: false # crops the image to make it circular
   - align: right
-    image: PHDBestStudentF.jpg
+    image: MasterF.jpg
     content: MasterAward
     image_circular: false # crops the image to make it circular
   - align: right
