@@ -14,7 +14,8 @@ profiles:
   - align: right
     image: Top2HodaZamani.png
     content: TopScientists2025
-    image_circular: false # crops the image to make it circular 
+    image_circular: false # crops the image to make it circular
+    
   - align: right
     image: Top2HodaZamani.png
     content: TopScientists
