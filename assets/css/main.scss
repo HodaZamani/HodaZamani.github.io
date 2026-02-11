@@ -1,3 +1,11 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Dimensions
+$max-content-width: {{ site.max_width }};
+
 @import
   "variables",
   "themes",
@@ -10,8 +18,3 @@
   "font-awesome/solid",
   "font-awesome/regular"
 ;
-
-/* Make full name bold */
-.site-title {
-  font-weight: 700 !important;
-}
