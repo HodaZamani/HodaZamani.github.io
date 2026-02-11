@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mental Disorders Detection 
-description: Neuroimaging Data Analysis and Machine Learning
+description: Machine Learning Approaches for Neuroimaging in Mental Health
 img: assets/img/Image122.jpg
 importance: 3
 category: work
