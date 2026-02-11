@@ -7,7 +7,9 @@ importance: 3
 category: work
 ---
 
-Under Development.
+### Under Development
+
+This project is currently being developed.
 
 {% comment %}
 redirect: https://unsplash.com
