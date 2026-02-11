@@ -43,8 +43,12 @@ profiles:
     content: PHDstudent
     image_circular: false # crops the image to make it circular
   - align: right
-    image: MasterF.jpg
+    image: PHDBestStudentF.jpg
     content: MasterAward
+    image_circular: false # crops the image to make it circular
+  - align: right
+    image: MasterF.jpg
+    content: HighlyCited
     image_circular: false # crops the image to make it circular
     image_class: "zoom-image"
 ---
