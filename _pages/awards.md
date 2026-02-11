@@ -46,7 +46,7 @@ profiles:
     image: PHDBestStudentF.jpg
     content: MasterAward
     image_circular: false # crops the image to make it circular
- - align: right
+  - align: right
     image: hot-highly-papers.jpg
     content: HighlyCited
     image_circular: false # crops the image to make it circular
