@@ -13,6 +13,10 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: Top2HodaZamani.png
+    content: TopScientists2025
+    image_circular: false # crops the image to make it circular 
+  - align: right
+    image: Top2HodaZamani.png
     content: TopScientists
     image_circular: false # crops the image to make it circular
   - align: right
