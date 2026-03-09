@@ -38,5 +38,3 @@ I have received several distinctions, including the Best Theory Paper Award from
   <li>Member and director/manager of <strong>Intelligent Big Data Analysis in Medicine (IBDAM)</strong> research group from 2016 to present.</li>
   <li>Member of <strong>IEEE</strong> from 2019.</li>
 </ul>
-
-</p>
