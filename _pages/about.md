@@ -31,4 +31,12 @@ I have received several distinctions, including the Best Theory Paper Award from
       </a>, Edinburgh, UK, Since 2025
   </li>
 </ul>
+
+<h3>Professional Membership</h3>
+<ul>
+  <li>Member of <strong>Universal Scientific Education and Research Network (USERN)</strong> from 2015 to present.</li>
+  <li>Member and director/manager of <strong>Intelligent Big Data Analysis in Medicine (IBDAM)</strong> research group from 2016 to present.</li>
+  <li>Member of <strong>IEEE</strong> from 2019.</li>
+</ul>
+
 </p>
