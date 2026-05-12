@@ -33,7 +33,7 @@ I have received several distinctions, including the Best Theory Paper Award from
   <li><strong>Reviewer</strong> for papers published in reputable ISI journals, including IEEE, Elsevier, Springer, and other leading publishers.</li>
 </ul>
 
-<h3>Professional Membership </b></h3>
+<h3><b>Professional Membership</b></h3>
 <ul>
   <li>Member of <strong>Universal Scientific Education and Research Network (USERN)</strong> from 2015 to present.</li>
   <li>Director manager of <strong>Intelligent Big Data Analysis in Medicine (IBDAM)</strong> research group from 2016 to present.</li>
