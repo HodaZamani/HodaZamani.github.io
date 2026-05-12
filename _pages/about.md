@@ -23,16 +23,17 @@ social: true  # includes social icons at the bottom of the page
 <p align="justify">
 I have received several distinctions, including the Best Theory Paper Award from Elsevier for three consecutive years, the IEEE Outstanding Ph.D. Thesis Award, and the Best Innovator Award at the Invention Festival. I graduated as the top-ranked Ph.D. student in my faculty and serve as a volunteer reviewer for Elsevier, Springer, and other leading publishers. My research focuses on optimization, quantum computing, and advanced deep learning architectures, with applications in medical diagnosis and neurological disorders.</p>
 
-<h3>Academic Activity</h3>
+<h3><b>Academic Activity</b></h3>
 <ul>
   <li><strong>Program Committee Member</strong>, 
       <a href="https://www.micad.org" target="_blank">
         <em>Medical Imaging and Computer-Aided Diagnosis (MICAD)</em>
       </a>, Edinburgh, UK, Since 2025
   </li>
+  <li><strong>Reviewer</strong> for papers published in reputable ISI journals, including IEEE, Elsevier, Springer, and other leading publishers.</li>
 </ul>
 
-<h3>Professional Membership</h3>
+<h3>Professional Membership</b></h3>
 <ul>
   <li>Member of <strong>Universal Scientific Education and Research Network (USERN)</strong> from 2015 to present.</li>
   <li>Director manager of <strong>Intelligent Big Data Analysis in Medicine (IBDAM)</strong> research group from 2016 to present.</li>
