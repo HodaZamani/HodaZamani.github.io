@@ -30,7 +30,8 @@ I have received several distinctions, including the Best Theory Paper Award from
         <em>Medical Imaging and Computer-Aided Diagnosis (MICAD)</em>
       </a>, Edinburgh, UK, Since 2025
   </li>
-  <li><strong>Program Committee Member, Medical Image Understanding and Analysis (MIUA) 2026</strong>
+  <li><strong>Program Committee Member</strong>, 
+    <em>Medical Image Understanding and Analysis (MIUA), 2026</em>
   </li>
   <li><strong>Reviewer</strong> for papers published in reputable ISI journals, including IEEE, Elsevier, Springer, and other leading publishers.</li>
 </ul>
