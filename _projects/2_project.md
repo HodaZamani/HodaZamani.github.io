@@ -11,7 +11,6 @@ giscus_comments: false
     Title of Funded Project: My Family Pharmacy Mobile App
     Number: A2019Ac11-940
     Date of Agreement: 06/01/2019
-    Principal Investigator: Professor Mohammad H. Nadimi-Shahraki
     Co-principal Investigator: Hoda Zamani 
 
 
