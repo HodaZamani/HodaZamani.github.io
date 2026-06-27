@@ -8,12 +8,6 @@ category: work
 ---
 > **Status:** This project is currently under active development. Additional details, experimental results, and source code will be published as development progresses.
 > 
-
-
-# A Deep Multiscale Neural Network for Accurate Neurological Disorder Detection from MRI Scans and Real-Time Web Deployment
-
-## Live Demo
-
 **Project Website:** [Visit the Live Demo](https://end-net.aifatahi.space/)
 
 ## Project Highlights
