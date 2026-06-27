@@ -28,8 +28,7 @@ The project also includes a real-time web deployment that allows users to upload
 
 ## Live Demo
 
-🔗 **Project Website:**  
-https://end-net.aifatahi.space/
+**Project Website:** [Visit the Live Demo](https://end-net.aifatahi.space/)
 
 ## Project Highlights
 
