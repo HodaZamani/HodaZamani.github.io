@@ -8,7 +8,7 @@ category: work
 ---
 > **Status:** This project is currently under active development. Additional details, experimental results, and source code will be published as development progresses.
 > 
-**Project Website:** [Visit the Live Demo](https://end-net.aifatahi.space/)
+**Project Website:** [Visit the Engine](https://end-net.aifatahi.space/)
 
 ## Project Highlights
 
