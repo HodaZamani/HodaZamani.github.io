@@ -9,7 +9,38 @@ category: work
 
 ### Under Development
 
-This project is currently being developed.
+---
+layout: page
+title: A Deep Multiscale Neural Network for Accurate Neurological Disorder Detection from MRI Scans and Real-Time Web Deployment
+description: Deep Learning-Based Neurological Disorder Detection from MRI with Real-Time Web Deployment
+img: assets/img/Image122.jpg
+importance: 3
+category: work
+---
+
+# A Deep Multiscale Neural Network for Accurate Neurological Disorder Detection from MRI Scans and Real-Time Web Deployment
+
+### Under Development
+
+This project presents a deep multiscale neural network for the accurate detection of neurological disorders from brain MRI scans. The proposed framework leverages advanced deep learning techniques to extract multiscale features, enabling robust classification across multiple neurological conditions.
+
+The project also includes a real-time web deployment that allows users to upload MRI scans and receive automated predictions through an interactive web interface.
+
+## Live Demo
+
+🔗 **Project Website:**  
+https://end-net.aifatahi.space/
+
+## Project Highlights
+
+- Deep multiscale convolutional neural network architecture
+- MRI-based neurological disorder classification
+- High-accuracy automated diagnosis
+- Real-time web application for inference
+- End-to-end deployment for clinical decision support
+
+> **Status:** This project is currently under active development. Additional details, experimental results, and source code will be published as development progresses.
+> 
 
 {% comment %}
 redirect: https://unsplash.com
