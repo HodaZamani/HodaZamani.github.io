@@ -6,17 +6,9 @@ img: assets/img/Image122.jpg
 importance: 3
 category: work
 ---
+> **Status:** This project is currently under active development. Additional details, experimental results, and source code will be published as development progresses.
+> 
 
-### Under Development
-
----
-layout: page
-title: A Deep Multiscale Neural Network for Accurate Neurological Disorder Detection from MRI Scans and Real-Time Web Deployment
-description: Deep Learning-Based Neurological Disorder Detection from MRI with Real-Time Web Deployment
-img: assets/img/Image122.jpg
-importance: 3
-category: work
----
 
 # A Deep Multiscale Neural Network for Accurate Neurological Disorder Detection from MRI Scans and Real-Time Web Deployment
 
@@ -38,8 +30,6 @@ The project also includes a real-time web deployment that allows users to upload
 - Real-time web application for inference
 - End-to-end deployment for clinical decision support
 
-> **Status:** This project is currently under active development. Additional details, experimental results, and source code will be published as development progresses.
-> 
 
 {% comment %}
 redirect: https://unsplash.com
