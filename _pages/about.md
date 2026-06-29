@@ -31,8 +31,8 @@ I have received several distinctions, including the Best Theory Paper Award from
       </a>, Edinburgh, UK, Since 2025
   </li>
   <li><strong>Program Committee Member</strong>, 
-    <em>Medical Image Understanding and Analysis (MIUA)</em> 
-      </a>, Ireland, 2026
+    <em>Medical Image Understanding and Analysis (MIUA)</em>, 
+      Ireland, 2026.
   </li>
   <li><strong>Reviewer</strong> for papers published in reputable ISI journals, including IEEE, Elsevier, Springer, and other leading publishers.</li>
 </ul>
