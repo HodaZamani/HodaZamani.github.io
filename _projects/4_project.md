@@ -4,8 +4,8 @@ title: project 4
 description: another without an image
 img: /assets/img/12.jpg
 importance: 0
-category: fun
-published: false
+category: Consulting
+published: true
 ---
 
 Every project has a beautiful feature showcase page.
