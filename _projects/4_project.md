@@ -4,7 +4,7 @@ title: project 4
 description: another without an image
 img: /assets/img/12.jpg
 importance: 0
-category: Consulting
+category: consulting
 published: true
 ---
 
