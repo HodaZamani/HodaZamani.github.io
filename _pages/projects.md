@@ -2,20 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: The list and details of my funded projects.
+description: The list and details of my funded projects and consulting activities.
 nav: true
 nav_order: 3
-display_categories: [work]
-horizontal: false
----
-
----
-layout: page
-title: Projects
-permalink: /projects/
-description: Consulting.
-nav: true
-nav_order: 3
+display_categories: [work, consulting]
 horizontal: false
 ---
 
