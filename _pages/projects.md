@@ -5,7 +5,7 @@ permalink: /projects/
 description: The list and details of my funded projects and consulting activities.
 nav: true
 nav_order: 3
-display_categories: [work, consulting]
+display_categories: [Work, Consulting]
 horizontal: false
 ---
 
