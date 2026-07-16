@@ -9,6 +9,16 @@ display_categories: [work]
 horizontal: false
 ---
 
+---
+layout: page
+title: Projects
+permalink: /projects/
+description: Consulting.
+nav: true
+nav_order: 3
+horizontal: false
+---
+
 <!-- pages/projects.md -->
 <div class="projects">
   <style> h2 { font-size: 24px; } </style>
