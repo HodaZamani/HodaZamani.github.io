@@ -6,6 +6,7 @@ img: /assets/img/Medical2.png
 importance: 0
 category: consulting
 published: true
+clickable: false
 ---
 
 
