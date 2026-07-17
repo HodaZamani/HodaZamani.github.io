@@ -24,6 +24,7 @@ category: work
 Researchers with a background in **deep learning, artificial intelligence (AI), machine learning, medical imaging, neuroimaging, or data analysis** are invited to collaborate on the **Mental Health Neuroimaging Detection Engine** project.
 
 If you are interested in joining this project, please contact me at **hoda_zamani@yahoo.com** with the email subject: **Collaboration – Mental Health Neuroimaging Detection Engine**
+
 ---
   
 {% comment %}
