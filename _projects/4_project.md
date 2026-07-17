@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Medical Data Consultant
+description: Providing consulting services to healthcare organizations.
 img: /assets/img/12.jpg
 importance: 0
 category: consulting
