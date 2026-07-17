@@ -20,7 +20,8 @@ category: work
 - End-to-end deployment for clinical decision support
   
 > **🤝 Join This Project** >
-> **📧 Contact:** **hoda_zamani@yahoo.com** > **Subject:** *Collaboration – Mental Health Neuroimaging Detection Engine*
+> **📧 Contact:** **hoda_zamani@yahoo.com** >
+> **Subject:** *Collaboration – Mental Health Neuroimaging Detection Engine*
   
 {% comment %}
 redirect: https://unsplash.com
