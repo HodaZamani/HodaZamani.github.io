@@ -19,8 +19,8 @@ category: work
 - Real-time web application for inference
 - End-to-end deployment for clinical decision support
   
-> **🤝 Join This Project** > Researchers and students with interests in **Artificial Intelligence**, **Deep Learning**, **Machine Learning**, **Medical Imaging**, **Neuroimaging**, or **Data Analysis** are welcome to collaborate. > > **📧 Interested?** Please contact me at **hoda_zamani@yahoo.com** using the email subject: > **Collaboration – Mental Health Neuroimaging Detection Engine** {: .notice--info}
-
+> **🤝 Join This Project** >
+> **📧 Contact:** **hoda_zamani@yahoo.com** > **Subject:** *Collaboration – Mental Health Neuroimaging Detection Engine* {: .notice--info}
   
 {% comment %}
 redirect: https://unsplash.com
