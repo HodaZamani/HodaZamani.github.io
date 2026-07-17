@@ -21,7 +21,7 @@ category: work
   
 > <span style="font-size: 0.9rem;">
 > 🤝 Join This Project 
-> 📧 Contact: hoda_zamani@yahoo.com  
+> 📧 Contact: hoda_zamani@yahoo.com,  
 > Subject: Collaboration – Mental Health Neuroimaging Detection Engine
 > </span>
 {: .notice--info}
