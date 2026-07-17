@@ -19,24 +19,10 @@ category: work
 - Real-time web application for inference
 - End-to-end deployment for clinical decision support
   
-<div class="alert alert-info mt-4" role="alert">
-    <h4>🌍 Become a Contributor</h4>
-
-    We are actively seeking collaborators with expertise in
-    <strong>Artificial Intelligence</strong>, <strong>Deep Learning</strong>,
-    <strong>Machine Learning</strong>, <strong>Medical Imaging</strong>,
-    <strong>Neuroimaging</strong>, and <strong>Data Analytics</strong>
-    to help advance this project.
-
-    <p class="mt-3">
-        Interested in joining the team? Contact us at:
-    </p>
-
-    📧
-    <a href="mailto:hoda_zamani@yahoo.com?subject=Project%20Contribution">
-        hoda_zamani@yahoo.com
-    </a>
-</div>
+> **📧 Interested in joining this project?**  
+> If you are interested in joining this project, please contact me at **hoda_zamani@yahoo.com** with the email subject:  
+> **Collaboration – Mental Health Neuroimaging Detection Engine**
+{: .notice--info}
 
   
 {% comment %}
