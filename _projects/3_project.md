@@ -19,9 +19,12 @@ category: work
 - Real-time web application for inference
 - End-to-end deployment for clinical decision support
   
-> **🤝 Join This Project** >
-> **📧 Contact:** **hoda_zamani@yahoo.com** >
+> <span style="font-size: 0.9rem;">
+> **🤝 Join This Project**  
+> **📧 Contact:** **hoda_zamani@yahoo.com**  
 > **Subject:** *Collaboration – Mental Health Neuroimaging Detection Engine*
+> </span>
+{: .notice--info}
   
 {% comment %}
 redirect: https://unsplash.com
