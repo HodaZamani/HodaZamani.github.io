@@ -67,4 +67,5 @@ I have received several distinctions, including the Best Theory Paper Award from
   <li>Member of <strong>Universal Scientific Education and Research Network (USERN)</strong> from 2015 to present.</li>
   <li>Director manager of <strong>Intelligent Big Data Analysis in Medicine (IBDAM)</strong> research group from 2016 to present.</li>
   <li>Member of <strong>IEEE</strong> from 2019.</li>
+  <li>Member of the International Association of Engineers (IAENG).</li>
 </ul>
