@@ -18,10 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <p align="justify">
-  
-I hold a Ph.D. in artificial intelligence and robotics with summa cum laude distinction. Since 2024, I have been recognized by Elsevier and Stanford University among the world’s top 2% of scientists in artificial intelligence and image processing. I am currently a senior researcher at the Big Data Research Center, specializing in AI algorithms, deep learning, and data science for medical applications. Several of my publications have been recognized as highly cited and hot papers by Web of Science.</p>
+I hold a Ph.D. in Artificial Intelligence and Robotics (summa cum laude) and graduated as the top-ranked Ph.D. student in both my faculty and university. Since 2024, I have been recognized by Elsevier and Stanford University among the world's top 2% of scientists in Artificial Intelligence and Image Processing. I am currently a Senior Researcher at the Big Data Research Center, where my research focuses on AI algorithms, deep learning, computer vision, and data science for medical applications. Several of my publications have been recognized as Highly Cited Papers and Hot Papers by Web of Science. My distinctions include the Elsevier Best Theory Paper Award for three consecutive years, the IEEE Outstanding Ph.D. Thesis Award, and the Best Innovator Award at the Invention Festival. I also serve as a volunteer reviewer for Elsevier, Springer, and other leading international publishers.</p>
 <p align="justify">
-I have received several distinctions, including the Best Theory Paper Award from Elsevier for three consecutive years, the IEEE Outstanding Ph.D. Thesis Award, and the Best Innovator Award at the Invention Festival. I graduated as the top-ranked Ph.D. student in my faculty and serve as a volunteer reviewer for Elsevier, Springer, and other leading publishers.</p>
 
 <p>
   I welcome collaborations with researchers, clinicians, and industry partners working in
