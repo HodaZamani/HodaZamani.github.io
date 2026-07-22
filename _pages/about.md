@@ -38,10 +38,11 @@ I have received several distinctions, including the Best Theory Paper Award from
 
 <h3><b>Professional Experience</b></h3>
 <ul>
-  <li><strong>Senior Researcher</strong>, Big Data Research Center (2016 – Present)</li>
+<li><strong>Senior Researcher</strong>, Big Data Research Center (2016 – Present)</li>
 <li><strong>Lecturer</strong> at Najafabad University</li>
 <li><strong>Intelligent Medical Data Analysis Consultant (2018 – Present)</li>
 </ul>
+
 
 <h3><b>Academic Activity</b></h3>
 <ul>
