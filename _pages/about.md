@@ -27,7 +27,7 @@ I have received several distinctions, including the Best Theory Paper Award from
   I welcome collaborations with researchers, clinicians, and industry partners working in
   <strong>optimization</strong>, <strong>quantum computing</strong>, and
   <strong>advanced deep learning architectures</strong>, particularly for applications in
-  <strong>medical diagnosis</strong>, <strong>medical imaging</strong>, and
+  <strong>green energy</strong>, <strong>medical diagnosis</strong>, and
   <strong>neurological disorders</strong>.
 </p>
 
