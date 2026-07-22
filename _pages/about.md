@@ -31,12 +31,16 @@ I have received several distinctions, including the Best Theory Paper Award from
   <strong>neurological disorders</strong>.
 </p>
 
+<p>
+  📧 Email:
+  <a href="mailto:hoda_zamani@yahoo.com">hoda_zamani@yahoo.com</a>
+</p>
 
 <h3><b>Professional Experience</b></h3>
 <ul>
   <li><strong>Senior Researcher</strong>, Big Data Research Center (2016 – Present)</li>
-  <li><strong>Lecturer</strong>, University (Add university name and dates)</li>
-  <li><strong>Intelligent Data Consultant</strong>, Najafabad Clinic (2018 – Present)</li>
+<li><strong>Lecturer</strong> at Najafabad University</li>
+<li><strong>Intelligent Data Consultant</strong>, Najafabad Clinic (2018 – Present)</li>
 </ul>
 
 <h3><b>Academic Activity</b></h3>
