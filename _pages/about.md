@@ -21,13 +21,16 @@ social: true  # includes social icons at the bottom of the page
 I hold a Ph.D. in Artificial Intelligence and Robotics (summa cum laude) and graduated as the top-ranked Ph.D. student in both my faculty and university. Since 2024, I have been recognized by Elsevier and Stanford University among the world's top 2% of scientists in Artificial Intelligence and Image Processing. I am currently a Senior Researcher at the Big Data Research Center, where my research focuses on AI algorithms, deep learning, computer vision, and data science for medical applications. Several of my publications have been recognized as Highly Cited Papers and Hot Papers by Web of Science. My distinctions include the Elsevier Best Theory Paper Award for three consecutive years, the IEEE Outstanding Ph.D. Thesis Award, and the Best Innovator Award at the Invention Festival. I also serve as a volunteer reviewer for Elsevier, Springer, and other leading international publishers.</p>
 <p align="justify">
 
-<p>
-  I welcome collaborations with researchers, clinicians, and industry partners working in
-  <strong>optimization</strong>, <strong>quantum computing</strong>, and
-  <strong>advanced deep learning architectures</strong>, particularly for applications in
-  <strong>green energy</strong>, <strong>medical diagnosis</strong>, and
-  <strong>neurological disorders</strong>.
-</p>
+<div style="background:#0f4c81; color:white; padding:25px; border-radius:10px; margin:30px 0;">
+    <h3 style="margin-top:0;">Open for Research Collaboration</h3>
+    <p style="margin-bottom:0;">
+        I welcome collaborations with researchers, clinicians, and industry partners working in
+        <strong>optimization</strong>, <strong>quantum computing</strong>, and
+        <strong>advanced deep learning architectures</strong>, particularly for applications in
+        <strong>green energy</strong>, <strong>medical diagnosis</strong>, and
+        <strong>neurological disorders</strong>.
+    </p>
+</div>
 
 <p>
   📧 Email:
