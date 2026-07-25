@@ -7,7 +7,7 @@ permalink: /
 
 profile:
   align: right
-  image: HodaZamaniFinal.jpg
+  image: Hoda.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
