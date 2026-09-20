@@ -3,7 +3,7 @@
 layout: post
 title: Reinforcement Learning and Decision Making
 nav: false
-----------
+---
 
 # Reinforcement Learning and Decision Making
 
