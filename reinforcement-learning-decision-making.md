@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Reinforcement Learning and Decision Making
+title:
 nav: false
 ---
 
