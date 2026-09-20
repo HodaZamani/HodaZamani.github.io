@@ -1,11 +1,11 @@
 ---
+
 layout: post
 permalink: /Courses/
 title: Courses
 nav: true
 nav_order: 9
----
-
+------------
 
 <b>My Courses</b>
 
@@ -69,16 +69,29 @@ nav_order: 9
   <!-- 1 -->
 
   <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          Reinforcement Learning and Decision Making
-        </div>
-        <div class="flip-card-back">
-          Reinforcement Learning and Decision Making
-        </div>
+
+```
+<a href="/Courses/reinforcement-learning-decision-making/" style="text-decoration: none; color: inherit;">
+
+  <div class="flip-card">
+
+    <div class="flip-card-inner">
+
+      <div class="flip-card-front">
+        Reinforcement Learning and Decision Making
       </div>
+
+      <div class="flip-card-back">
+        Reinforcement Learning and Decision Making
+      </div>
+
     </div>
+
+  </div>
+
+</a>
+```
+
   </div>
 
   <!-- 2 -->
@@ -172,4 +185,3 @@ nav_order: 9
   </div>
 
 </div>
-
