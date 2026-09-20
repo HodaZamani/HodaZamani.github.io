@@ -48,6 +48,7 @@ nav_order: 9
       Quantum Computing and Artificial Intelligence
     </h4>
     <p style="font-size: 0.9rem; margin: 8px 0 0;">
+      <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
       Quantum Computing and Machine Learning
     </p>
   </div>
