@@ -1,5 +1,4 @@
 ---
-
 layout: post
 permalink: /Courses/
 title: Courses
