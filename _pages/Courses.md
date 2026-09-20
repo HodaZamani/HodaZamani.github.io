@@ -6,32 +6,41 @@ nav: true
 nav_order: 9
 ---
 
+---
+
+layout: post
+permalink: /Courses/
+title: Courses
+nav: true
+nav_order: 9
+------------
+
 <b>My Courses</b>
 
 <div style="margin-top: 25px;">
 
   <div style="margin-bottom: 22px;">
     <h4 style="font-size: 1rem; margin-bottom: 6px;">
-      <a href="/Courses/reinforcement-learning-decision-making/">
+      <a href="{{ '/reinforcement-learning-decision-making/' | relative_url }}">
         Reinforcement Learning and Decision Making
       </a>
     </h4>
-    <p style="font-size: 0.9rem; margin-top: 0;">
-      Reinforcement Learning · Decision Theory · Markov Decision Processes ·
-      Dynamic Programming · Q-Learning · Deep Reinforcement Learning
-    </p>
+
+```
+<p style="font-size: 0.9rem; margin-top: 0;">
+  Reinforcement Learning · Decision Theory · Markov Decision Processes ·
+  Dynamic Programming · Q-Learning · Deep Reinforcement Learning
+</p>
+```
+
   </div>
 
   <div style="margin-bottom: 22px;">
-    <h4 style="font-size: 1rem;">
-      Operation Systems and its Lab
-    </h4>
+    <h4 style="font-size: 1rem;">Operation Systems and its Lab</h4>
   </div>
 
   <div style="margin-bottom: 22px;">
-    <h4 style="font-size: 1rem;">
-      Artificial Intelligence
-    </h4>
+    <h4 style="font-size: 1rem;">Artificial Intelligence</h4>
   </div>
 
   <div style="margin-bottom: 22px;">
