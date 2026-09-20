@@ -2,7 +2,7 @@
 layout: post
 permalink: /certificates/
 title: Certificates
-nav: true
+nav: false
 nav_order: 6
 ---
 
