@@ -5,9 +5,6 @@ title: Reinforcement Learning and Decision Making
 nav: false
 ---
 
-<h1 style="font-size: 1.1rem;">Reinforcement Learning and Decision Making</h1>
-
----
 
 <h3 style="font-size: 1rem;">Chapter 1 — Introduction to Reinforcement Learning and Decision Making</h3>
 
