@@ -1,10 +1,11 @@
 ---
+
 layout: post
 permalink: /Courses/
 title: Courses
 nav: true
 nav_order: 9
----
+------------
 
 <b>My Courses</b>
 
@@ -34,20 +35,17 @@ nav_order: 9
     transform: rotateY(180deg);
   }
 
-  /* Front side — dark blue */
   .flip-card-front {
-    background-color: #0d1b4c; /* dark blue */
+    background-color: #0d1b4c;
     color: white;
   }
 
-  /* Back side — dark red */
   .flip-card-back {
-    background-color: #8B0000; /* dark red */
+    background-color: #8B0000;
     color: white;
     transform: rotateY(180deg);
   }
 
-  /* Shared styles */
   .flip-card-front, .flip-card-back {
     position: absolute;
     width: 100%;
@@ -60,26 +58,63 @@ nav_order: 9
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     font-size: 1rem;
+    padding: 15px;
+    box-sizing: border-box;
+  }
+
+  .course-link {
+    display: block;
+    text-decoration: none !important;
+    color: inherit !important;
+  }
+
+  .course-link:hover {
+    text-decoration: none !important;
   }
 </style>
 
 <div class="row mt-4">
 
-  <!-- 1 -->
+  <!-- 1. Reinforcement Learning and Decision Making -->
+
+  <div class="col-md-6 col-sm-6 mb-3">
+    <a href="/Courses/reinforcement-learning-decision-making/" class="course-link">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+
+```
+      <div class="flip-card-front">
+        Reinforcement Learning and Decision Making
+      </div>
+
+      <div class="flip-card-back">
+        Reinforcement Learning • Decision Making • Applications
+      </div>
+
+    </div>
+  </div>
+</a>
+```
+
+  </div>
+
+  <!-- 2. Operating Systems and its Lab -->
+
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          Operation Systems and its Lab
+          Operating Systems and its Lab
         </div>
         <div class="flip-card-back">
-          Operation Systems and its Lab
+          Operating Systems and its Lab
         </div>
       </div>
     </div>
   </div>
 
-  <!-- 2 -->
+  <!-- 3. Artificial Intelligence -->
+
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -93,7 +128,8 @@ nav_order: 9
     </div>
   </div>
 
-  <!-- 3 -->
+  <!-- 4. Machine Learning and Deep Learning Architectures -->
+
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -107,7 +143,8 @@ nav_order: 9
     </div>
   </div>
 
-  <!-- 4 -->
+  <!-- 5. Python Programming Language and its Libraries -->
+
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -115,13 +152,15 @@ nav_order: 9
           Python Programming Language and its Libraries
         </div>
         <div class="flip-card-back">
-          TensorFlow, Keras, PyTorch, OpenCV, scikit-image, MediaPipe, Biopython, and PyTorch Geometric
+          TensorFlow, Keras, PyTorch, OpenCV, scikit-image,
+          MediaPipe, Biopython, and PyTorch Geometric
         </div>
       </div>
     </div>
   </div>
 
-  <!-- 5 -->
+  <!-- 6. Quantum Computing and Artificial Intelligence -->
+
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -135,7 +174,8 @@ nav_order: 9
     </div>
   </div>
 
-  <!-- 6 -->
+  <!-- 7. Optimization and Bio-Inspired Algorithms -->
+
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
