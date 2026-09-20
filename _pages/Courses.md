@@ -8,48 +8,47 @@ nav_order: 9
 
 <div style="margin-top: 25px;">
 
-  <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
-    <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
-      <a href="https://hodazamani.github.io/reinforcement-learning-decision-making/">
-        <b>Reinforcement Learning and Decision Making</b>
-      </a>
-    </h4>
+  <div style="padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #ddd;">
+    <a href="https://hodazamani.github.io/reinforcement-learning-decision-making/"
+       style="font-size: 1rem; font-weight: bold;">
+      Reinforcement Learning and Decision Making
+    </a>
   </div>
 
-  <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
-    <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
+  <div style="padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #ddd;">
+    <span style="font-size: 1rem; font-weight: bold;">
       Operation Systems and its Lab
-    </h4>
+    </span>
   </div>
 
-  <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
-    <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
+  <div style="padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #ddd;">
+    <span style="font-size: 1rem; font-weight: bold;">
       Artificial Intelligence
-    </h4>
+    </span>
   </div>
 
-  <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
-    <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
+  <div style="padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #ddd;">
+    <span style="font-size: 1rem; font-weight: bold;">
       Machine Learning and Deep Learning Architectures
-    </h4>
+    </span>
   </div>
 
-  <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
-    <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
+  <div style="padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #ddd;">
+    <span style="font-size: 1rem; font-weight: bold;">
       Python Programming Language and its Libraries
-    </h4>
+    </span>
   </div>
 
-  <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
-    <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
+  <div style="padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #ddd;">
+    <span style="font-size: 1rem; font-weight: bold;">
       Quantum Computing and Machine Learning
-    </h4>
+    </span>
   </div>
 
-  <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
-    <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
+  <div style="padding-bottom: 14px; margin-bottom: 14px; border-bottom: 1px solid #ddd;">
+    <span style="font-size: 1rem; font-weight: bold;">
       Optimization and Bio-Inspired Algorithms
-    </h4>
+    </span>
   </div>
 
 </div>
