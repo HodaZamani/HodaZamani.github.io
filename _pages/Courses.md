@@ -70,7 +70,6 @@ nav_order: 9
 
   <div class="col-md-6 col-sm-6 mb-3">
 
-```
 <a href="/Courses/reinforcement-learning-decision-making/" style="text-decoration: none; color: inherit;">
 
   <div class="flip-card">
@@ -90,7 +89,6 @@ nav_order: 9
   </div>
 
 </a>
-```
 
   </div>
 
