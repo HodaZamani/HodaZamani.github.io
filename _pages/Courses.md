@@ -5,6 +5,7 @@ title: Courses
 nav: true
 nav_order: 9
 ---
+University Courses
 
 <div style="margin-top: 25px;">
 
