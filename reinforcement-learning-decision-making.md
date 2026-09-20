@@ -91,3 +91,7 @@ nav: false
 <h3 style="font-size: 1rem;">Chapter 14 — Applications of Reinforcement Learning and Decision Making</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
+
+---
+
+<h3 style="font-size: 1rem;">Final — Reinforcement Learning and Decision-Making Project</h3>
