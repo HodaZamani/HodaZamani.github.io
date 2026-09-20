@@ -14,7 +14,7 @@ nav_order: 9
   <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
     <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
       <a href="https://hodazamani.github.io/reinforcement-learning-decision-making/">
-        Reinforcement Learning and Decision Making
+        <b>Reinforcement Learning and Decision Making</b>
       </a>
     </h4>
     <p style="font-size: 0.9rem; margin: 8px 0 0;">
@@ -71,5 +71,3 @@ nav_order: 9
   </div>
 
 </div>
-
-
