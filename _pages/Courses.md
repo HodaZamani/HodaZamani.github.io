@@ -6,180 +6,57 @@ nav: true
 nav_order: 9
 ---
 
-
 <b>My Courses</b>
 
-<style>
-  .flip-card {
-    background-color: transparent;
-    width: 100%;
-    padding-top: 30%;
-    position: relative;
-    perspective: 1000px; 
-    margin-bottom: 15px;
-  }
+<div style="margin-top: 30px;">
 
-  .flip-card-inner {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    text-align: center;
-    transition: transform 0.6s;
-    transform-style: preserve-3d;
-    cursor: pointer;
-  }
-
-  .flip-card:hover .flip-card-inner {
-    transform: rotateY(180deg);
-  }
-
-  /* Front side — dark blue */
-  .flip-card-front {
-    background-color: #0d1b4c;
-    color: white;
-  }
-
-  /* Back side — dark red */
-  .flip-card-back {
-    background-color: #8B0000;
-    color: white;
-    transform: rotateY(180deg);
-  }
-
-  /* Shared styles */
-  .flip-card-front, .flip-card-back {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    border-radius: 10px;
-    backface-visibility: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: "Times New Roman", Times, serif;
-    font-weight: bold;
-    font-size: 1rem;
-  }
-</style>
-
-<div class="row mt-4">
-
-  <!-- 1 -->
-
-  <div class="col-md-6 col-sm-6 mb-3">
-
-<a href="/Courses/reinforcement-learning-decision-making/" style="text-decoration: none; color: inherit;">
-
-  <div class="flip-card">
-
-    <div class="flip-card-inner">
-
-      <div class="flip-card-front">
+  <div style="margin-bottom: 28px;">
+    <h3>
+      <a href="/Courses/reinforcement-learning-decision-making/">
         Reinforcement Learning and Decision Making
-      </div>
-
-      <div class="flip-card-back">
-        Reinforcement Learning and Decision Making
-      </div>
-
-    </div>
-
+      </a>
+    </h3>
+    <p>
+      Reinforcement Learning · Decision Theory · Markov Decision Processes ·
+      Dynamic Programming · Q-Learning · Deep Reinforcement Learning
+    </p>
   </div>
 
-</a>
-
+  <div style="margin-bottom: 28px;">
+    <h3>Operation Systems and its Lab</h3>
   </div>
 
-  <!-- 2 -->
-
-  <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          Operation Systems and its Lab
-        </div>
-        <div class="flip-card-back">
-          Operation Systems and its Lab
-        </div>
-      </div>
-    </div>
+  <div style="margin-bottom: 28px;">
+    <h3>Artificial Intelligence</h3>
   </div>
 
-  <!-- 3 -->
-
-  <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          Artificial Intelligence
-        </div>
-        <div class="flip-card-back">
-          Artificial Intelligence
-        </div>
-      </div>
-    </div>
+  <div style="margin-bottom: 28px;">
+    <h3>Machine Learning and Deep Learning Architectures</h3>
+    <p>
+      Neuroimaging Data Processing and Analysis with Python
+    </p>
   </div>
 
-  <!-- 4 -->
-
-  <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          Machine Learning and Deep Learning Architectures
-        </div>
-        <div class="flip-card-back">
-          Neuroimaging Data Processing and Analysis with Python
-        </div>
-      </div>
-    </div>
+  <div style="margin-bottom: 28px;">
+    <h3>Python Programming Language and its Libraries</h3>
+    <p>
+      TensorFlow · Keras · PyTorch · OpenCV · scikit-image ·
+      MediaPipe · Biopython · PyTorch Geometric
+    </p>
   </div>
 
-  <!-- 5 -->
-
-  <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          Python Programming Language and its Libraries
-        </div>
-        <div class="flip-card-back">
-          TensorFlow, Keras, PyTorch, OpenCV, scikit-image, MediaPipe, Biopython, and PyTorch Geometric
-        </div>
-      </div>
-    </div>
+  <div style="margin-bottom: 28px;">
+    <h3>Quantum Computing and Artificial Intelligence</h3>
+    <p>
+      Quantum Computing and Machine Learning
+    </p>
   </div>
 
-  <!-- 6 -->
-
-  <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          Quantum Computing and Artificial Intelligence
-        </div>
-        <div class="flip-card-back">
-          Quantum Computing and Machine Learning
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 7 -->
-
-  <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          Optimization and Bio-Inspired Algorithms
-        </div>
-        <div class="flip-card-back">
-          Implementation Algorithms with MATLAB Programming Language
-        </div>
-      </div>
-    </div>
+  <div style="margin-bottom: 28px;">
+    <h3>Optimization and Bio-Inspired Algorithms</h3>
+    <p>
+      Implementation Algorithms with MATLAB Programming Language
+    </p>
   </div>
 
 </div>
