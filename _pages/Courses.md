@@ -17,9 +17,6 @@ nav_order: 9
         <b>Reinforcement Learning and Decision Making</b>
       </a>
     </h4>
-    <p style="font-size: 0.9rem; margin: 8px 0 0;">
-      Reinforcement Learning · Decision Theory · Markov Decision Processes · Dynamic Programming · Q-Learning · Deep Reinforcement Learning
-    </p>
   </div>
 
   <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
