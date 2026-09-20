@@ -1,11 +1,10 @@
 ---
-
 layout: post
 permalink: /Courses/
 title: Courses
 nav: true
 nav_order: 9
-------------
+---
 
 <b>My Courses</b>
 
@@ -37,13 +36,13 @@ nav_order: 9
 
   /* Front side — dark blue */
   .flip-card-front {
-    background-color: #0d1b4c;
+    background-color: #0d1b4c; /* dark blue */
     color: white;
   }
 
   /* Back side — dark red */
   .flip-card-back {
-    background-color: #8B0000;
+    background-color: #8B0000; /* dark red */
     color: white;
     transform: rotateY(180deg);
   }
@@ -61,60 +60,40 @@ nav_order: 9
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     font-size: 1rem;
-    padding: 15px;
-    box-sizing: border-box;
   }
 </style>
 
 <div class="row mt-4">
 
   <!-- 1 -->
-
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          Reinforcement Learning and Decision Making
+          Operation Systems and its Lab
         </div>
         <div class="flip-card-back">
-          Reinforcement Learning and Decision Making
+          Operation Systems and its Lab
         </div>
       </div>
     </div>
   </div>
 
   <!-- 2 -->
-
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          Operation Systems and its Lab
+          Artificial Intelligence
         </div>
         <div class="flip-card-back">
-          Operation Systems and its Lab
+          Artificial Intelligence
         </div>
       </div>
     </div>
   </div>
 
   <!-- 3 -->
-
-  <div class="col-md-6 col-sm-6 mb-3">
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          Artificial Intelligence
-        </div>
-        <div class="flip-card-back">
-          Artificial Intelligence
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 4 -->
-
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -128,8 +107,7 @@ nav_order: 9
     </div>
   </div>
 
-  <!-- 5 -->
-
+  <!-- 4 -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -143,8 +121,7 @@ nav_order: 9
     </div>
   </div>
 
-  <!-- 6 -->
-
+  <!-- 5 -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -158,8 +135,7 @@ nav_order: 9
     </div>
   </div>
 
-  <!-- 7 -->
-
+  <!-- 6 -->
   <div class="col-md-6 col-sm-6 mb-3">
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -173,4 +149,5 @@ nav_order: 9
     </div>
   </div>
 
-</div>
+</div>  
+ 
