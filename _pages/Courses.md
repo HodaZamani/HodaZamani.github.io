@@ -16,7 +16,7 @@ nav_order: 9
     width: 100%;
     padding-top: 30%;
     position: relative;
-    perspective: 1000px; 
+    perspective: 1000px;
     margin-bottom: 15px;
   }
 
@@ -36,20 +36,17 @@ nav_order: 9
     transform: rotateY(180deg);
   }
 
-  /* Front side — dark blue */
   .flip-card-front {
     background-color: #0d1b4c;
     color: white;
   }
 
-  /* Back side — dark red */
   .flip-card-back {
     background-color: #8B0000;
     color: white;
     transform: rotateY(180deg);
   }
 
-  /* Shared styles */
   .flip-card-front,
   .flip-card-back {
     position: absolute;
@@ -67,7 +64,6 @@ nav_order: 9
     box-sizing: border-box;
   }
 
-  /* Clickable course */
   .course-link {
     display: block;
     text-decoration: none !important;
