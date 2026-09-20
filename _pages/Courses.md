@@ -7,7 +7,7 @@ nav: true
 nav_order: 9
 ---
 
-University Courses
+Courses I Teach
 
 <ul style="margin-top: 20px;">
   <li style="margin-bottom: 12px;">
