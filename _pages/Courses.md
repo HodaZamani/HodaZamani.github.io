@@ -35,18 +35,12 @@ nav_order: 9
     <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
       Machine Learning and Deep Learning Architectures
     </h4>
-    <p style="font-size: 0.9rem; margin: 8px 0 0;">
-      Neuroimaging Data Processing and Analysis with Python
-    </p>
   </div>
 
   <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
     <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
       Python Programming Language and its Libraries
     </h4>
-    <p style="font-size: 0.9rem; margin: 8px 0 0;">
-      TensorFlow · Keras · PyTorch · OpenCV · scikit-image · MediaPipe · Biopython · PyTorch Geometric
-    </p>
   </div>
 
   <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
@@ -62,9 +56,6 @@ nav_order: 9
     <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
       Optimization and Bio-Inspired Algorithms
     </h4>
-    <p style="font-size: 0.9rem; margin: 8px 0 0;">
-      Implementation Algorithms with MATLAB Programming Language
-    </p>
   </div>
 
 </div>
