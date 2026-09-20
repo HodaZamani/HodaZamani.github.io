@@ -10,71 +10,69 @@ nav_order: 9
 <b>My Courses</b>
 
 <style>
-  .flip-card {
-    background-color: transparent;
-    width: 100%;
-    padding-top: 30%;
-    position: relative;
-    perspective: 1000px; 
-    margin-bottom: 15px;
-  }
+.flip-card {
+  background-color: transparent;
+  width: 100%;
+  padding-top: 30%;
+  position: relative;
+  perspective: 1000px;
+  margin-bottom: 15px;
+}
 
-  .flip-card-inner {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    text-align: center;
-    transition: transform 0.6s;
-    transform-style: preserve-3d;
-    cursor: pointer;
-  }
+.flip-card-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  cursor: pointer;
+}
 
-  .flip-card:hover .flip-card-inner {
-    transform: rotateY(180deg);
-  }
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
 
-  /* Front side — dark blue */
-  .flip-card-front {
-    background-color: #0d1b4c;
-    color: white;
-  }
+.flip-card-front {
+  background-color: #0d1b4c;
+  color: white;
+}
 
-  /* Back side — dark red */
-  .flip-card-back {
-    background-color: #8B0000;
-    color: white;
-    transform: rotateY(180deg);
-  }
+.flip-card-back {
+  background-color: #8B0000;
+  color: white;
+  transform: rotateY(180deg);
+}
 
-  /* Shared styles */
-  .flip-card-front, .flip-card-back {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    border-radius: 10px;
-    backface-visibility: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: "Times New Roman", Times, serif;
-    font-weight: bold;
-    font-size: 1rem;
-    padding: 15px;
-    box-sizing: border-box;
-  }
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 15px;
+  box-sizing: border-box;
+}
 
-  /* Clickable course card */
-  .course-link {
-    display: block;
-    text-decoration: none !important;
-    color: inherit !important;
-  }
+/* Only the first course is clickable */
+.course-link {
+  display: block;
+  text-decoration: none !important;
+  color: inherit !important;
+}
 
-  .course-link:hover {
-    text-decoration: none !important;
-  }
+.course-link:hover {
+  text-decoration: none !important;
+}
 </style>
 
 <div class="row mt-4">
@@ -82,7 +80,8 @@ nav_order: 9
   <!-- 1. Reinforcement Learning and Decision Making -->
 
   <div class="col-md-6 col-sm-6 mb-3">
-    <a href="/Courses/reinforcement-learning-decision-making/" class="course-link">
+    <a href="{{ '/Courses/reinforcement-learning-decision-making/' | relative_url }}"
+       class="course-link">
 
 ```
   <div class="flip-card">
