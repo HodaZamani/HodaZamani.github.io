@@ -6,9 +6,6 @@ nav: true
 nav_order: 9
 ---
 
-
-
-
 <div style="margin-top: 25px;">
 
   <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
@@ -45,12 +42,8 @@ nav_order: 9
 
   <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
     <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
-      Quantum Computing and Artificial Intelligence
-    </h4>
-    <p style="font-size: 0.9rem; margin: 8px 0 0;">
-      <h4 style="font-size: 1rem; margin: 0; font-weight: bold;">
       Quantum Computing and Machine Learning
-    </p>
+    </h4>
   </div>
 
   <div style="padding-bottom: 18px; margin-bottom: 18px; border-bottom: 1px solid #ccc;">
@@ -60,3 +53,4 @@ nav_order: 9
   </div>
 
 </div>
+
