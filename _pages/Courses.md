@@ -5,7 +5,7 @@ permalink: /Courses/
 title: Courses
 nav: true
 nav_order: 9
-------------
+---
 
 **University Courses**
 
