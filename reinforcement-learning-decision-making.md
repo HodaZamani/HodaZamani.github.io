@@ -3,7 +3,7 @@
 layout: post
 title: Reinforcement Learning and Decision Making
 nav: false
-----------
+---
 
 <h1 style="font-size: 1.7rem;">Reinforcement Learning and Decision Making</h1>
 
