@@ -6,6 +6,8 @@ nav: false
 ---
 
 
+<h3 style="font-size: 1.1rem;">Reinforcement Learning and Decision Making</h3>
+
 <h3 style="font-size: 1rem;">Chapter 1 — Introduction to Reinforcement Learning and Decision Making</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
