@@ -4,7 +4,7 @@ layout: post
 permalink: /Courses/
 title: Courses
 nav: true
-nav_order: 9
+nav_order: 5
 ---
 
 Courses I Teach
