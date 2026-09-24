@@ -17,7 +17,13 @@ nav: false
     Lecture Slides
   </a>
   &nbsp; | &nbsp;
-  <a href="#">Exercises</a>
+  <a href="{{ '/assets/Lecture Notes/Chapter 1. Lecture Notes.pdf' | relative_url }}" target="_blank">
+    Lecture Notes
+  </a>
+  &nbsp; | &nbsp;
+  <a href="{{ '/assets/Exercises/Chapter 1-Mini Project Question.pdf' | relative_url }}" target="_blank">
+    Exercises
+  </a>
 </p>
 
 ---
