@@ -21,7 +21,7 @@ nav: false
     Lecture Notes
   </a>
   &nbsp; | &nbsp;
-  <a href="{{ '/assets/Exercises/Chapter 1-Mini Project Question.pdf' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/Exercises/Chapter 1-Project Question.pdf' | relative_url }}" target="_blank">
     Exercises
   </a>
 </p>
