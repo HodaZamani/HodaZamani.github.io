@@ -43,7 +43,6 @@ nav: false
 ---
 <h3 style="font-size: 1rem;">
  Chapter 3—Dynamic Programming; policy evaluation, policy improvement, policy iteration, and value iteration
-
   <span style="
     background-color: #e63946;
     color: white;
