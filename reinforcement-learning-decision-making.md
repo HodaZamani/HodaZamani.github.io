@@ -28,7 +28,7 @@ nav: false
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 2 — Decision Theory and Decision-Making Fundamentals</h3>
+<h3 style="font-size: 1rem;">Chapter 2 — Markov Decision Processes (MDPs); states, actions, transition dynamics, reward functions, and policies</h3>
 
 <p style="font-size: 0.85rem;">
   <a href="{{ '/assets/slides/Chapter 2_Slides.pdf' | relative_url }}" target="_blank">
@@ -42,9 +42,17 @@ nav: false
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 3 — Markov Decision Processes (MDPs)</h3>
+<h3 style="font-size: 1rem;">Chapter 3—Dynamic Programming; policy evaluation, policy improvement, policy iteration, and value iteration</h3>
 
-<p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
+<p style="font-size: 0.85rem;">
+  <a href="{{ '/assets/slides/Chapter 3_Slides.pdf' | relative_url }}" target="_blank">
+    Lecture Slides
+  </a>
+  &nbsp; | &nbsp;
+  <a href="{{ '/assets/Exercises/Chapter 3 – Exercises.pdf' | relative_url }}" target="_blank">
+    Exercises
+  </a>
+</p>
 
 ---
 
