@@ -45,7 +45,7 @@ nav: false
 <h3 style="font-size: 1rem;">Chapter 3—Dynamic Programming; policy evaluation, policy improvement, policy iteration, and value iteration</h3>
 
 <p style="font-size: 0.85rem;">
-  <a href="{{ '/assets/slides/Chapter 3_Slides.pdf' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/slides/Chapter 3_Dynamic Programming.pdf' | relative_url }}" target="_blank">
     Lecture Slides
   </a>
   &nbsp; | &nbsp;
