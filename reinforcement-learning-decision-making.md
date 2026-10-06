@@ -41,18 +41,12 @@ nav: false
 </p>
 
 ---
+
 <h3 style="font-size: 1rem;">
- Chapter 3—Dynamic Programming; policy evaluation, policy improvement, policy iteration, and value iteration
-  <span style="
-    background-color: #e63946;
-    color: white;
-    font-size: 0.65rem;
-    font-weight: 700;
-    padding: 2px 6px;
-    border-radius: 4px;
-    margin-left: 8px;
-    vertical-align: middle;
-  ">NEW</span>
+  Chapter 3—Dynamic Programming; policy evaluation, policy improvement, policy iteration, and value iteration
+  <span style="background:red; color:white; padding:3px 6px; border-radius:4px; font-size:0.65rem; font-weight:bold;">
+    NEW
+  </span>
 </h3>
 
 <p style="font-size: 0.85rem;">
