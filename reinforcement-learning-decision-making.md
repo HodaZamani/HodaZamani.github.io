@@ -41,8 +41,20 @@ nav: false
 </p>
 
 ---
+<h3 style="font-size: 1rem;">
+ Chapter 3—Dynamic Programming; policy evaluation, policy improvement, policy iteration, and value iteration
 
-<h3 style="font-size: 1rem;">Chapter 3—Dynamic Programming; policy evaluation, policy improvement, policy iteration, and value iteration</h3>
+  <span style="
+    background-color: #e63946;
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-left: 8px;
+    vertical-align: middle;
+  ">NEW</span>
+</h3>
 
 <p style="font-size: 0.85rem;">
   <a href="{{ '/assets/slides/Chapter 3_Dynamic Programming.pdf' | relative_url }}" target="_blank">
