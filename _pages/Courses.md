@@ -41,7 +41,7 @@ Courses I Teach
     (Course materials have been uploaded to the university repository.)
   </li>
 
-    <li style="margin-bottom: 12px;">
+  <li style="margin-bottom: 12px;">
     Operating Systems and It's Lab
     (Course materials have been uploaded to the university repository.)
   </li>
