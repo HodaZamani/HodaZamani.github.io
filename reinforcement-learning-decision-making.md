@@ -30,7 +30,15 @@ nav: false
 
 <h3 style="font-size: 1rem;">Chapter 2 — Decision Theory and Decision-Making Fundamentals</h3>
 
-<p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
+<p style="font-size: 0.85rem;">
+  <a href="{{ '/assets/slides/Chapter 2_Slides.pdf' | relative_url }}" target="_blank">
+    Lecture Slides
+  </a>
+  &nbsp; | &nbsp;
+  <a href="{{ '/assets/Exercises/Chapter 2 – Exercises.pdf' | relative_url }}" target="_blank">
+    Exercises
+  </a>
+</p>
 
 ---
 
