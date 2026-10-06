@@ -56,67 +56,61 @@ nav: false
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 4 — Dynamic Programming</h3>
+<h3 style="font-size: 1rem;">Chapter 4 — Monte Carlo Methods</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 5 — Monte Carlo Methods</h3>
+<h3 style="font-size: 1rem;">Chapter 5 — Temporal-Difference Learning</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 6 — Temporal-Difference Learning</h3>
+<h3 style="font-size: 1rem;">Chapter 6 — Q-Learning and SARSA</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 7 — Q-Learning and SARSA</h3>
+<h3 style="font-size: 1rem;">Chapter 7 — Deep Reinforcement Learning</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 8 — Deep Reinforcement Learning</h3>
+<h3 style="font-size: 1rem;">Chapter 8 — Policy Gradient Methods</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 9 — Policy Gradient Methods</h3>
+<h3 style="font-size: 1rem;">Chapter 9 — Actor-Critic Methods</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 10 — Actor-Critic Methods</h3>
+<h3 style="font-size: 1rem;">Chapter 10 — Multi-Criteria Decision Making</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 11 — Multi-Criteria Decision Making</h3>
+<h3 style="font-size: 1rem;">Chapter 11 — Uncertainty and Risk in Decision Making</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 12 — Uncertainty and Risk in Decision Making</h3>
+<h3 style="font-size: 1rem;">Chapter 12 — Fuzzy Decision Making</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
 
 ---
 
-<h3 style="font-size: 1rem;">Chapter 13 — Fuzzy Decision Making</h3>
-
-<p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
-
----
-
-<h3 style="font-size: 1rem;">Chapter 14 — Applications of Reinforcement Learning and Decision Making</h3>
+<h3 style="font-size: 1rem;">Chapter 13 — Applications of Reinforcement Learning and Decision Making</h3>
 
 <p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
 
