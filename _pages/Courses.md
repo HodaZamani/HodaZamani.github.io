@@ -31,12 +31,8 @@ Courses I Teach
     (Course materials have been uploaded to the university repository.)
   </li>
 
-  <li style="margin-bottom: 12px;">
-    Quantum Computing and Machine Learning
-    (Course materials available through the university repository.)
-  </li>
+  <li style="margin-bottom: 12px;"> Quantum Computing and Machine Learning <span style="color: #666;">— Course materials are in the university  repository.</span> </li>
 
-  <li>
     Optimization and Bio-Inspired Algorithms
     (Course materials have been uploaded to the university repository.)
   </li>
