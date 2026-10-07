@@ -17,29 +17,25 @@ Courses I Teach
   </li>
 
   <li style="margin-bottom: 12px;">
-    Artificial Intelligence
-    (Course materials have been uploaded to the university repository.)
+    Artificial Intelligence <span style="color: #666;">— Course materials are in the university  repository.</span> 
   </li>
 
   <li style="margin-bottom: 12px;">
-    Machine Learning and Deep Learning Architectures
-    (Course materials have been uploaded to the university repository.)
+    Machine Learning and Deep Learning Architectures <span style="color: #666;">— Course materials are in the university  repository.</span> 
   </li>
 
   <li style="margin-bottom: 12px;">
-    Python Programming Language and its Libraries
-    (Course materials have been uploaded to the university repository.)
+    Python Programming Language and its Libraries <span style="color: #666;">— Course materials are in the university  repository.</span>  
   </li>
 
-  <li style="margin-bottom: 12px;"> Quantum Computing and Machine Learning <span style="color: #666;">— Course materials are in the university  repository.</span> </li>
-
-    Optimization and Bio-Inspired Algorithms
-    (Course materials have been uploaded to the university repository.)
+  <li style="margin-bottom: 12px;"> Quantum Computing and Machine Learning <span style="color: #666;">— Course materials are in the university  repository.</span> 
+  </li>
+  <li style="margin-bottom: 12px;">
+    Optimization and Bio-Inspired Algorithms <span style="color: #666;">— Course materials are in the university  repository.</span> 
   </li>
 
   <li style="margin-bottom: 12px;">
-    Operating Systems and It's Lab
-    (Course materials have been uploaded to the university repository.)
+    Operating Systems and It's Lab <span style="color: #666;">— Course materials are in the university  repository.</span>  
   </li>
   
 </ul>
