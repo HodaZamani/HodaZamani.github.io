@@ -33,7 +33,7 @@ Courses I Teach
 
   <li style="margin-bottom: 12px;">
     Quantum Computing and Machine Learning
-    (Course materials have been uploaded to the university repository.)
+    (Course materials available through the university repository.)
   </li>
 
   <li>
