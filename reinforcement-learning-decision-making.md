@@ -46,6 +46,11 @@ nav: false
   <a href="{{ '/assets/Exercises/Chapter 2 – Exercises.pdf' | relative_url }}" target="_blank">
     Exercises
   </a>
+  &nbsp; | &nbsp;
+  <a href="{{ '/assets/Exercises/Chapter 2–Responses.pdf' | relative_url }}" target="_blank">
+    Exercises
+  </a>
+  
 </p>
 
 ---
