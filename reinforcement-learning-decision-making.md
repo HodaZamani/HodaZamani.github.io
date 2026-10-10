@@ -42,13 +42,15 @@ nav: false
   <a href="{{ '/assets/slides/Chapter 2_Slides.pdf' | relative_url }}" target="_blank">
     Lecture Slides
   </a>
-  &nbsp; | &nbsp;
-  <a href="{{ '/assets/Exercises/Chapter 2 – Exercises.pdf' | relative_url }}" target="_blank">
-    Exercises
-  </a>    
-  &nbsp; | &nbsp;
-  <a href="{{ '/assets/Answers/Chapter 2–Responses.pdf' | relative_url }}" target="_blank">
-    Answers <span style="background-color: #e74c3c; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.65rem; font-weight: bold;">NEW</span>  
+&nbsp; | &nbsp;
+<a href="{{ '/assets/Exercises/Chapter 2 – Exercises.pdf' | relative_url }}" target="_blank">
+  Exercises
+</a>
+&nbsp; | &nbsp;
+<a href="{{ '/assets/Answers/Chapter 2–Responses.pdf' | relative_url }}" target="_blank">
+  Answers
+  <span style="background-color: #e74c3c; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.65rem; font-weight: bold;">NEW</span>
+</a>
 </p>
 
 ---
