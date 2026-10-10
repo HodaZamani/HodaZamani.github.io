@@ -45,12 +45,9 @@ nav: false
   &nbsp; | &nbsp;
   <a href="{{ '/assets/Exercises/Chapter 2 – Exercises.pdf' | relative_url }}" target="_blank">
     Exercises
-  </a>
-  &nbsp; | &nbsp;
-  <a href="{{ '/assets/Exercises/Chapter 2–Responses.pdf' | relative_url }}" target="_blank">
-    Exercises
-  </a>
-  
+  </a>  
+  <a href="{{ '/assets/Answers/Chapter 2–Responses.pdf' | relative_url }}" target="_blank">
+    Answers <span style="background-color: #e74c3c; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.65rem; font-weight: bold;">NEW</span>  
 </p>
 
 ---
