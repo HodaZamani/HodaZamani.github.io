@@ -29,11 +29,11 @@ nav: false
     Answers <span style="background-color: #e74c3c; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.65rem; font-weight: bold;">NEW</span>
   </a>
   &nbsp; | &nbsp;
-  <a href="{{ '/assets/Python/Chapter1_Python_Code.txt' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/Python Code/Chapter1_Python_Code.txt' | relative_url }}" target="_blank">
     Python Code
   </a>
 </p>
-
+ 
 ---
 
 <h3 style="font-size: 1rem;">Chapter 2 — Markov Decision Processes (MDPs); states, actions, transition dynamics, reward functions, and policies</h3>
