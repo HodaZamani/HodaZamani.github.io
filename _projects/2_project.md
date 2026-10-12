@@ -11,7 +11,9 @@ giscus_comments: false
     Title of Funded Project: My Family Pharmacy Mobile App
     Number: A2019Ac11-940
     Date of Agreement: 06/01/2019
+    PI: Dr. MH. Nadimi
     Co-principal Investigator: Hoda Zamani 
+    Collaborator: M B. Dezfouli
 
 
 <p align="justify"><b>Importance:</b> Medicine consumption strains the economy, as it takes up a big part of health and GDP spending. In 2022, the OECD average health-to-GDP ratio was 9.2%. The UK's ratio was 10.3% and Iran's was 6.5%, indicating that the UK spent more on health relative to its economic output than Iran. By 2027, global medicine spending will reach $1.9 trillion, up from $1.48 trillion in 2022, driven by factors such as population growth, aging, disease burden, and innovation. The USA will spend 40% of that, the UK 3.5%, and Iran 0.4%, reflecting the differences in their income levels, health systems, and medicine prices. These trends suggest that medicine consumption will continue to pose significant challenges and opportunities for health policy and economic development in the coming years.</p>
