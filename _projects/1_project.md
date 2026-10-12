@@ -11,7 +11,9 @@ related_publications: HodaImputationMethod
     Title of Funded Project: An Intelligent Low-cost Method for Early Detection of Type 2 Diabetes
     Number: A2017A1-240
     Agreement Duration: From 12/05/2017 To 12/05/2019
+    PI: Dr. MH. Nadimi and Dr. MA. Enteshari
     Co-principal Investigator: Hoda Zamani 
+    Collaborators: S. Mohamadi, and N. Mosavian
 
    
 <p align="justify"><b>Importance:</b> Type 2 diabetes is a serious condition that can lead to complications such as heart disease, stroke, kidney failure, blindness, and amputation. This chronic disease affects more than 450 million people worldwide, and its prevalence has rapidly increased and doubled in the last 15 years, which has challenged many countries' healthcare systems. Fortunately, there have been proposed methods for early detection, which can prevent or delay it by adopting a healthy lifestyle, such as eating well, moving more, and losing weight if needed. However, current methods of diagnosis, such as blood tests, are often invasive, costly, and time-consuming. Moreover, many people may not have access to adequate healthcare facilities or awareness of their risk status. Iran has one of the highest rates of type 2 diabetes among adults aged 20-79, ranking 14th in the world, and it is a national issue funded by government and healthcare ministries. Therefore, developing an intelligent mobile app that people can use for low-cost early detection of type 2 diabetes is crucial.
