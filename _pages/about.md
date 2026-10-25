@@ -45,7 +45,7 @@ social: true  # includes social icons at the bottom of the page
       <strong>Associate Lecturer</strong> at Najafabad University
     </a>
   </li>
-  <li><strong>Intelligent Medical Data Analysis Advisor </strong> (2018 – Present)</li>
+  <li><strong>Intelligent Medical Data Analysis Advisor at Najafabad Clinic </strong> (2018 – Present)</li>
 </ul>
 
 
