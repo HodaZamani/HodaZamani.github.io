@@ -18,9 +18,25 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <p align="justify">
-I hold a Ph.D. in Artificial Intelligence and Robotics (summa cum laude) and graduated as the top-ranked Ph.D. student in both my faculty and university. Since 2024, I have been recognized by Elsevier and Stanford University among the world's top 2% of scientists in Artificial Intelligence and Image Processing. I am currently a Senior Researcher at the Big Data Research Center, where my research focuses on AI algorithms, deep learning, computer vision, and data science for medical applications. Several of my publications have been recognized as Highly Cited Papers and Hot Papers by Web of Science. My distinctions include the Elsevier Best Theory Paper Award for three consecutive years, the IEEE Outstanding Ph.D. Thesis Award, and the Best Innovator Award at the Invention Festival. I also serve as a volunteer reviewer for Elsevier, Springer, and other leading international publishers.</p>
+  I hold a Ph.D. in Artificial Intelligence and Robotics
+  (<em>summa cum laude</em>) and graduated as the top-ranked Ph.D.
+  student in both my faculty and university. Since 2024, I have been
+  recognized by Elsevier and Stanford University among the
+  <a href="https://topscinet.com/scientist_profile/Zamani,%20Hoda/2019/?stype=single_year"
+     target="_blank"
+     rel="noopener noreferrer">
+    world's top 2% of scientists in Artificial Intelligence and Image Processing
+  </a>.
+  I am currently a Senior Researcher at the Big Data Research Center,
+  where my research focuses on AI algorithms, deep learning, computer
+  vision, and data science for medical applications. Several of my
+  publications have been recognized as Highly Cited Papers and Hot Papers
+  by Web of Science. My distinctions include the Elsevier Best Theory
+  Paper Award for three consecutive years, the IEEE Outstanding Ph.D.
+  Thesis Award, and the Best Innovator Award at the Invention Festival.
+  I also serve as a volunteer reviewer for Elsevier, Springer, and other
+  leading international publishers.</p>
 <p align="justify">
-
 <h3><b>Professional Experience</b></h3>
 <ul>
   <li><strong>Senior Researcher</strong>, Big Data Research Center (2016 – Present)</li>
