@@ -51,8 +51,8 @@ social: true  # includes social icons at the bottom of the page
 
 <h3><b>Academic Activity</b></h3>
 <ul>
-  <li><strong>Program Committee Member</strong>, 
-      <a href="https://www.micad.org" target="_blank">
+  <li><strong>Technical Program Committees </strong>, 
+      <a href="https://www.micad.org/committee.html" target="_blank"> 
         <em>Medical Imaging and Computer-Aided Diagnosis (MICAD)</em>
       </a>, Edinburgh, UK, Since 2025
   </li>
