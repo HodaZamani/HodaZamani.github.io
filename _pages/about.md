@@ -42,7 +42,7 @@ social: true  # includes social icons at the bottom of the page
   <li><strong>Senior Researcher</strong>, Big Data Research Center (2016 – Present)</li>
   <li>
     <a href="https://hodazamani.github.io/Courses/" target="_blank">
-      <strong>Lecturer</strong> at Najafabad University
+      <strong>Associate Lecturer</strong> at Najafabad University
     </a>
   </li>
   <li><strong>Intelligent Medical Data Analysis Consultant</strong> (2018 – Present)</li>
