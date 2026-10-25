@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Medical Data Consultant
+title: Medical Data Analyst and Advisor at Najafabad Clinic 
 description: Providing consulting services to healthcare organizations.
 img: /assets/img/Medical2.png
 importance: 0
