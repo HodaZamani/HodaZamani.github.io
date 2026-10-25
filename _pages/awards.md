@@ -13,7 +13,7 @@ profiles:
   - align: right
     image: ScholarGPS2026.jpg
     content: ScholarGPS2026
-  image_circular: false
+    image_circular: false
   - align: right
     image: Top2025.jpg
     content: TopScientists2025
