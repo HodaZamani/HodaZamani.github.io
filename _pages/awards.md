@@ -11,6 +11,10 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    image: ScholarGPS2026.jpg
+    content: ScholarGPS2026
+  image_circular: false
+  - align: right
     image: Top2025.jpg
     content: TopScientists2025
     image_circular: false # crops the image to make it circular
