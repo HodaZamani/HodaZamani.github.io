@@ -7,7 +7,7 @@ related_posts: false
 ---
 
 {% include figure.html
-   path="assets/img/ScholarGPS2026.jpg"
+   path="assets/img/ScholarGPS2026.png"
    title="Recognized as a 2026 ScholarGPS Highly Ranked Scholar, placing among the top 0.05% of scholars worldwide in the relevant ranking categories."
    class="img-fluid rounded z-depth-1"
    style="max-width:40%;"
