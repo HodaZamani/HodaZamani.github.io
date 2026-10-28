@@ -90,7 +90,15 @@ nav: false
 
 <h3 style="font-size: 1rem;">Chapter 5 — Temporal-Difference Learning</h3>
 
-<p style="font-size: 0.85rem;"><a href="#">Lecture Slides</a> &nbsp; | &nbsp; <a href="#">Exercises</a></p>
+<p style="font-size: 0.85rem;">
+  <a href="{{ '/assets/slides/Chapter 5_Temporal-Difference Learning.pdf' | relative_url }}" target="_blank">
+    Lecture Slides
+  </a>
+  &nbsp; | &nbsp;
+  <a href="{{ '/assets/Exercises/Chapter 5 – Exercises.pdf' | relative_url }}" target="_blank">
+    Exercises
+  </a>
+</p>
 
 ---
 
