@@ -81,7 +81,7 @@ nav: false
     Lecture Slides
   </a>
   &nbsp; | &nbsp;
-  <a href="{{ '/assets/Exercises/Chapter 4 – Exercises.pdf' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/Exercises/Chapter 4–Exercises.pdf' | relative_url }}" target="_blank">
     Exercises
   </a>
 </p>
